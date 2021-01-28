@@ -11,6 +11,8 @@ layout: home
   </head>
 </html>
 
-Under construction...
+Under construction.
 
 Updated on January 28th, 2021.
+
+Redirecting...
