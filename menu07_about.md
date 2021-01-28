@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /team/
+title: About
+permalink: /about/
 ---
 
-This is the team
+More information
