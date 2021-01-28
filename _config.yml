@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TORI ERC Project
+title: TORI
 email: tori.erc.project@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The TORI ERC project is a research project in computer science aiming at introducing the next generation data reduction tools based on topological data analysis. 
@@ -31,7 +31,7 @@ twitter_username: JulienTierny
 github_username:  julien-tierny
 
 # Build settings
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
