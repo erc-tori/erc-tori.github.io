@@ -6,7 +6,7 @@ layout: home
 ---
 <html>
   <head>
-    <meta HTTP-EQUIV="REFRESH" content="10; url=https://ins2i.cnrs.fr/fr/cnrsinfo/un-erc-face-au-challenge-du-big-data">
+    <meta HTTP-EQUIV="REFRESH" content="3; url=https://ins2i.cnrs.fr/fr/cnrsinfo/un-erc-face-au-challenge-du-big-data">
   </head>
 </html>
 
