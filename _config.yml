@@ -21,7 +21,7 @@
 title: TORI
 email: tori.erc.project@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The TORI ERC project is a research project in computer science aiming at introducing the next generation data reduction tools based on topological data analysis. 
+  The TORI project is a research project in computer science aiming at introducing the next generation data reduction tools based on topological data analysis. TORI is financed by a research grant awarded by the European Research Council (ERC). 
 #Write an awesome description for your new site here. You can edit this
 #line in _config.yml. It will appear in your document head meta (for
 #Google search results) and in your feed.xml site description.
