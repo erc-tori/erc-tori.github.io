@@ -52,8 +52,8 @@
                     <span class="sr-only">Toggle navigation</span>
                     Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.html">
-                TTK Home</a>
+                <a class="navbar-brand" href="/index.html">
+                TORI Home</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -98,11 +98,11 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
-                        <h1>Topology ToolKit</h1>
+                        <h1>TORI '{{ title }}'</h1>
                         <hr class="small">
                         <span class="subheading">
-                        Efficient, generic and easy<br>
-                        Topological data analysis and visualization
+                        Next generation data reduction<br>
+                        with Topological Data Analysis
                         </span>
                     </div>
                 </div>
@@ -142,9 +142,7 @@
 
 
 <!--             Some text here -->
-            <p>
-            Now this is some core text!
-            </p>
+    {{ content }}
 
             </div>
         </div>
@@ -159,11 +157,10 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <p class="copyright text-muted">
                     Contact: <a href="mailto:topology.tool.kit@gmail.com">
-                    topology.tool.kit@gmail.com</a><br>
+                    erc.tori.project@gmail.com</a><br>
                     TODO:<br>
                     - institutional logos/links<br>
-                    - automated last modification.<br>
-                    Updated on December 21, 2020.</p>
+                    Updated on {{ page.last_modified_at | date: '%b %e, %Y' }}.</p>
                 </div>
             </div>
         </div>
