@@ -31,7 +31,7 @@ url: "https://erc-tori.github.io/" # the base hostname & protocol for your site,
 #github_username:  julien-tierny
 
 # Build settings
-#theme: minima
+theme: minima
 #theme: minima
 
 navigation:
@@ -47,7 +47,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
-  #- jekyll-sitemap
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
