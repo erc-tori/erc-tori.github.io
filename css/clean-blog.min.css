@@ -4,11 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  background-color: rgb(30,30,30);
+  background-color: white;
 /*   font-family: 'Lora', 'Times New Roman', serif; */
   font-family:helvetica, sans-serif;
   font-size: 16px;
-  color: #d9d6d3;
+  color: rgb(48, 48, 48);
 }
 pre {
   background-color: rgb(30,30,30);
@@ -38,13 +38,16 @@ h6 {
 a {
   /* link color */
   font-weight: bold;
-  color: white;
+  color: #00695c;
+  /*   #478aac; */
+/*   white; */
 /*  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
 }
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #478aac;
+  color: rgb(32,32,32);
+
 }
 a.myMath{
 	font-weight: bold;
@@ -72,7 +75,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: white;
+  border-color: #00695c;
 }
 .navbar-custom {
   position: absolute;
@@ -487,5 +490,6 @@ div{
 .news{
        border-style: solid;
        border-width: 0px; 
-       background-color: rgb(39,39,39);  
+       background-color:  #c4e0da;
+/*        rgb(235, 235, 235); */
 }
