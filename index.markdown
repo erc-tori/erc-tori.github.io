@@ -2,7 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+title: "Next generation data reduction<br> with Topological Data Analysis"
+
+layout: default
 ---
 <html>
   <head>
@@ -13,6 +15,6 @@ layout: home
 
 Under construction...
 
-Updated on January 28th, 2021.
+Updated on February 10th, 2021.
 
 Redirecting...
