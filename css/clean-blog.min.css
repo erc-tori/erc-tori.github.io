@@ -6,7 +6,8 @@
 body {
   background-color: white;
 /*   font-family: 'Lora', 'Times New Roman', serif; */
-  font-family:helvetica, sans-serif;
+/*   font-family: 'Helvetica', sans-serif; */
+/*   helvetica, sans-serif; */
   font-size: 16px;
   color: rgb(48, 48, 48);
 }
@@ -109,13 +110,15 @@ hr.small {
   }
   .navbar-custom .navbar-brand {
     /* navigation home menu, top left */
-    color: #d9d6d3;
+    color: rgb(205, 205, 205);
+/*     #d9d6d3; */
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: #478aac;
+    color:  #00695c;
+/*     #478aac; */
 /*     colro: rgba(255, 255, 255, 0.8); */
   }
   .navbar-custom .nav li a {
@@ -467,7 +470,8 @@ form .row:first-child .floating-label-form-group {
   /* font color of selected text */
   color: white;
   text-shadow: none;
-  background: #478aac;
+  background: #00695c;
+/*   #478aac; */
 }
 img::selection {
   /* don't know */
@@ -490,6 +494,7 @@ div{
 .news{
        border-style: solid;
        border-width: 0px; 
-       background-color:  #c4e0da;
+       background-color:  rgb(235, 235, 235);
+/*        #c4e0da; */
 /*        rgb(235, 235, 235); */
 }
