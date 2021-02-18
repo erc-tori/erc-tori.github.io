@@ -23,15 +23,28 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
-                This is a news section! only for the home page.
+                TORI's website is online!
                 </td>
                 <td align="right">
-                [Dec. 21, 2020]
+                [Feb. 18, 2021]
                 </td>
                 </tr>
               </table>
 </div>
 
-Under construction...
 
-Redirecting...
+
+TORI develops the next generation data reduction tools based on Topological Data Analysis.<br>
+If you need to handle large-scale datasets, focus on the core structural information present in your data thanks to our algorithms. 
+
+TORI researches, designs, implements and distribute new algorithms for 
+the 
+statistical analysis 
+<!-- analytics -->
+of large collection of datasets, based on concise structural representations of the data. Our work covers new methods for the comparison of topological data representations, as well as new approaches for the computation of these representations at scale.<br>
+Checkout our [Publications](/publications/) page for more details!
+
+# TORI hires!
+If you are interested in topological data analysis, visualization and programming, come and work with us. We have several openings for various seniority levels (engineers, post-docs, Ph.D. students, interns).<br>
+Checkout out [Jobs](/jobs/) page!
+
