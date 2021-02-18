@@ -13,7 +13,7 @@ body {
 }
 pre {
   background-color: rgb(30,30,30);
-  color: #478aac;
+  color: #00695c;
   border-style: none;
   font-weight: bold;
   font-size: 90%;
@@ -35,12 +35,13 @@ h6 {
 /*   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
 */
   font-weight: 800;
+  color: #00695c
 }
 a {
   /* link color */
   font-weight: bold;
   color: #00695c;
-  /*   #478aac; */
+  /*   #00695c; */
 /*   white; */
 /*  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
 }
@@ -52,11 +53,11 @@ a:focus {
 }
 a.myMath{
 	font-weight: bold;
-	color: #478aac;
+  color: #00695c;
 }
 a.code{
   font-weight: bold;
-  color: #478aac;
+  color: #00695c;
 }
 a.code:hover,
 a.code:focus{
@@ -118,7 +119,7 @@ hr.small {
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
     color:  #00695c;
-/*     #478aac; */
+/*     #00695c; */
 /*     colro: rgba(255, 255, 255, 0.8); */
   }
   .navbar-custom .nav li a {
@@ -130,7 +131,8 @@ hr.small {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: #478aac;
+    color: #00695c;
+/*     #00695c; */
 /*     rgba(255, 255, 255, 0.8); */
   }
 }
@@ -164,14 +166,14 @@ hr.small {
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #478aac;
+    color: #00695c;
   }
   .navbar-custom.is-fixed .nav li a {
     color: #d9d6d3;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #478aac;
+    color: #00695c;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -196,8 +198,9 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   /* title and subtitle */
+/*   text-align: left; */
   padding: 100px 0 50px;
-  color: white;
+  color: #00695c;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 @media only screen and (min-width: 768px) {
@@ -271,7 +274,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #478aac;
+  color: #00695c;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -295,7 +298,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #478aac;
+  color: #00695c;
 /*   text-decoration: underline; */
 }
 @media only screen and (min-width: 768px) {
@@ -376,7 +379,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #478aac;
+  color: #00695c;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -398,8 +401,8 @@ form .row:first-child .floating-label-form-group {
 .btn-default:hover,
 .btn-default:focus {
   /* don't know */
-  background-color: #478aac;
-  border: 1px solid #478aac;
+  background-color: #00695c;
+  border: 1px solid #00695c;
   color: white;
 }
 .pager {
@@ -422,8 +425,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:focus {
   /* text of the older post button when cursor on top */
   color: white;
-  background-color: #478aac;
-  border: 1px solid #478aac;
+  background-color: #00695c;
+  border: 1px solid #00695c;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
@@ -464,14 +467,14 @@ form .row:first-child .floating-label-form-group {
   /* don't know */
   color: white;
   text-shadow: none;
-  background: #478aac;
+  background: #00695c;
 }
 ::selection {
   /* font color of selected text */
   color: white;
   text-shadow: none;
   background: #00695c;
-/*   #478aac; */
+/*   #00695c; */
 }
 img::selection {
   /* don't know */
@@ -485,7 +488,7 @@ img::-moz-selection {
 }
 body {
   /* don't know */
-  -webkit-tap-highlight-color: #478aac;
+  -webkit-tap-highlight-color: #00695c;
 }
 
 div{

@@ -4,7 +4,7 @@
 
 title: "Next generation data reduction<br> with Topological Data Analysis"
 layout: default
-teaser: '/img/viscousFingering.png'
+teaser: '/img/bannerTransparent.png'
 ---
 <html>
   <head>
@@ -33,7 +33,5 @@ teaser: '/img/viscousFingering.png'
 </div>
 
 Under construction...
-
-Updated on February 10th, 2021.
 
 Redirecting...
