@@ -2,7 +2,7 @@
 layout: default
 title: Events
 permalink: /events/
-teaser: '/img/banner.png'
+teaser: '/img/toriBanner.png'
 ---
 
 These are our events

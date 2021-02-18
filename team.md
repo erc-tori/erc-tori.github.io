@@ -2,7 +2,7 @@
 layout: default
 title: Team
 permalink: /team/
-teaser: '/img/dragon.png'
+teaser: '/img/toriBanner.png'
 ---
 
 This is the team

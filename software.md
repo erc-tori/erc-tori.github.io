@@ -2,7 +2,7 @@
 layout: default
 title: Software
 permalink: /software/
-teaser: '/img/banner.png'
+teaser: '/img/toriBanner.png'
 ---
 
 This is our software

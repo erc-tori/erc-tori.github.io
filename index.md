@@ -4,7 +4,7 @@
 
 title: "Next generation data reduction<br> with Topological Data Analysis"
 layout: default
-teaser: '/img/bannerTransparent.png'
+teaser: '/img/toriBanner.png'
 ---
 <html>
   <head>

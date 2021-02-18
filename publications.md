@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 permalink: /publications/
-teaser: '/img/bannerTransparent.png'
+teaser: '/img/toriBanner.png'
 ---
 
 These are our publications

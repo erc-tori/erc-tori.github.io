@@ -2,7 +2,7 @@
 layout: default
 title: About
 permalink: /about/
-teaser: '/img/banner.png'
+teaser: '/img/toriBanner.png'
 ---
 
 More information

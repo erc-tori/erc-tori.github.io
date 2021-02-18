@@ -2,7 +2,7 @@
 layout: default
 title: Gallery
 permalink: /gallery/
-teaser: '/img/banner.png'
+teaser: '/img/toriBanner.png'
 ---
 
 This is some eye candy
