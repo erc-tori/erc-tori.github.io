@@ -5,12 +5,15 @@ permalink: /team/
 teaser: '/img/toriBanner.png'
 ---
 
+Want to join our team?<br>
+Checkout out [Jobs](/jobs/) page!
+
 # Principal investigator
 
 <table>
   <tr>
     <td width="20%">
-      <img width="90%" src="/img/face.png">
+      <img width="90%" src="/img/tierny2021.jpg">
     </td>
     
 <!--     <td width="10px" /> -->
