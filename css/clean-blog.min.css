@@ -155,7 +155,8 @@ hr.small {
 */
     position: fixed;
     top: -61px;
-    background-color: rgba(30, 30, 30, 0.9);
+    /* MENU BACKGROUND COLOR WHEN SCROLLING */
+    background-color: rgba(235, 235, 235, 0.9); 
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;

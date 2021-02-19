@@ -10,7 +10,7 @@ teaser: '/img/toriBanner.png'
 <table>
   <tr>
     <td width="20%">
-      <img width="90%" src="https://julien-tierny.github.io/img/me2018.jpg">
+      <img width="90%" src="/img/face.png">
     </td>
     
 <!--     <td width="10px" /> -->
@@ -30,32 +30,35 @@ teaser: '/img/toriBanner.png'
 <table>
   <tr>
     <td width="20%">
-      <img width="90%" src="https://julien-tierny.github.io/img/me2018.jpg">
+      <img width="90%" src="/img/face.png">
     </td>
     
 <!--     <td width="10px" /> -->
     
     <td>
       Pierre Guillou<br>
-      Research engineer<br>
-      <a href="https://julien-tierny.github.io/" target="new">Web page</a>
+      2019 - present<br>
+      <a href="https://pierre.guillou.net/" target="new">Web page</a>
       - 
-      <a href="https://twitter.com/JulienTierny" target="new">Twitter</a>
+      <a href="" target="new">Twitter</a>
     </td>
   </tr>
+  
+  <tr height="10px" />
+  
     <tr>
     <td width="20%">
-      <img width="90%" src="https://julien-tierny.github.io/img/me2018.jpg">
+      <img width="90%" src="/img/face.png">
     </td>
     
 <!--     <td width="10px" /> -->
     
     <td>
       Hugo Manet<br>
-      Research engineer<br>
-      <a href="https://julien-tierny.github.io/" target="new">Web page</a>
+      2020 - present<br>
+      <a href="" target="new">Web page</a>
       - 
-      <a href="https://twitter.com/JulienTierny" target="new">Twitter</a>
+      <a href="" target="new">Twitter</a>
     </td>
   </tr>
 </table>
@@ -64,14 +67,14 @@ teaser: '/img/toriBanner.png'
 <table>
   <tr>
     <td width="20%">
-      <img width="90%" src="https://julien-tierny.github.io/img/me2018.jpg">
+      <img width="90%" src="/img/face.png">
     </td>
     
 <!--     <td width="10px" /> -->
     
     <td>
       Mathieu Pont<br>
-      CNRS research scientist<br>
+      2020 - present<br>
       <a href="https://julien-tierny.github.io/" target="new">Web page</a>
       - 
       <a href="https://twitter.com/JulienTierny" target="new">Twitter</a>
