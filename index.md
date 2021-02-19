@@ -39,7 +39,9 @@ If you need to handle large-scale datasets, focus on the core structural informa
 
 TORI researches, designs, implements and distribute new algorithms for 
 the 
-statistical analysis 
+interactive
+<!-- statistical  -->
+analysis 
 <!-- analytics -->
 of large collection of datasets, based on concise structural representations of the data. Our work covers new methods for the comparison of topological data representations, as well as new approaches for the computation of these representations at scale.<br>
 Checkout our [Publications](/publications/) page for more details!

@@ -59,7 +59,7 @@ Checkout out [Jobs](/jobs/) page!
     <td>
       Hugo Manet<br>
       2020 - present<br>
-      <a href="" target="new">Web page</a>
+      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1481&LANG=en" target="new">Web page</a>
       - 
       <a href="" target="new">Twitter</a>
     </td>
@@ -78,9 +78,9 @@ Checkout out [Jobs](/jobs/) page!
     <td>
       Mathieu Pont<br>
       2020 - present<br>
-      <a href="https://julien-tierny.github.io/" target="new">Web page</a>
+      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2421&LANG=en" target="new">Web page</a>
       - 
-      <a href="https://twitter.com/JulienTierny" target="new">Twitter</a>
+      <a href="" target="new">Twitter</a>
     </td>
   </tr>
 </table>
