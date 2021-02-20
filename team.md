@@ -6,7 +6,7 @@ teaser: '/img/toriBanner.png'
 ---
 
 Want to join our team?<br>
-Checkout out [Jobs](/jobs/) page!
+Checkout out our [Jobs](/jobs/) page!
 
 # Principal investigator
 
