@@ -5,4 +5,6 @@ permalink: /events/
 teaser: '/img/tutorial2019.jpg'
 ---
 
-These are our events
+Checkout this event page for seminars and tutorials!
+
+- [IEEE VIS 2020's TTK tutorial](https://topology-tool-kit.github.io/ieeeVis2020Tutorial.html), October 26, 2020, Salt Lake City, UT, USA (*online event*)
