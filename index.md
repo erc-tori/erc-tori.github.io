@@ -23,6 +23,16 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                TORI's 
+                <a href="/jobs/">job openings</a> are out!
+                </td>
+                <td align="right">
+                [Feb. 20, 2021]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 TORI's website is online!
                 </td>
                 <td align="right">
