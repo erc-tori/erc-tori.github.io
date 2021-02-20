@@ -42,13 +42,13 @@ target='new'
 
 # Engineers
 - Research engineer (2 years): Performance in TTK
-- Research engineer (2 years): Extensing TTK to new data types
+- Research engineer (2 years): Extending TTK to new data types
 
 # Post-docs
 - Post-doc position (3 years): topological data analysis and visualization
 - Post-doc position (3 years): high-performance topological data analysis
 
-# Ph.D. Students
+# Ph.D. students
 - ~~Ph.D. position (3 years): comparing topological data representations~~
 - Ph.D. position (3 years): geometrical analysis in the space of topological data representations
 - Ph.D. position (3 years): processing time series of topological data representations
