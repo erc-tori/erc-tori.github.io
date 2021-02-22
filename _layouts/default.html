@@ -10,23 +10,6 @@
   gtag('js', new Date());
 
   gtag('config', 'G-PCVJXLWT2V');
-  
-//    github pages workaround
-   function setModifiedDate() {
-      if (document.getElementById('last-modified')) {
-        fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
-          .then((response) => {
-            return response.json();
-          })
-          .then((commits) => {
-            var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-modified').textContent = "Last Modified: " + modified;
-            }
-          });
-      }
-    }
-  
 </script>
 
     <meta charset="utf-8">
@@ -58,7 +41,7 @@
 
 </head>
 
-<body onload="setModifiedDate();">
+<body>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
@@ -184,7 +167,8 @@
                     Contact: <a href="mailto:erc.tori.project@gmail.com">
                     erc.tori.project@gmail.com</a><br>
                     
-                    Updated on {{ page.last_modified_at | date: '%b. %e, %Y' }}.
+<!--                     Updated on {{ page.last_modified_at | date: '%b. %e, %Y' }}. -->
+                    Updated on Feb. 22, 2021.
                     </div>
                     </p>
                 </div>
