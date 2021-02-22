@@ -17,7 +17,7 @@ If you are interested in topological data analysis, visualization and programmin
   <tr>
   <td width="50%">
         TORI offers several positions for various seniority levels.
-To apply, thanks for sending your application letter and your CV to
+To apply, please send your application letter and your CV to
 <a href="mailto:erc.tori.project@gmail.com">erc.tori.project@gmail.com</a>.
         <br>
         <br>
@@ -41,8 +41,8 @@ target='new'
 
 
 # Engineers
-- Research engineer (2 years): Performance in TTK
-- Research engineer (2 years): Extending TTK to new data types
+- Research engineer (2 years): performance in TTK
+- Research engineer (2 years): extending TTK to new data types
 
 # Post-docs
 - Post-doc position (3 years): topological data analysis and visualization
@@ -50,10 +50,10 @@ target='new'
 
 # Ph.D. students
 - ~~Ph.D. position (3 years): comparing topological data representations~~
-- Ph.D. position (3 years): geometrical analysis in the space of topological data representations
+- Ph.D. position (3 years): statistical analysis of topological data representations
 - Ph.D. position (3 years): processing time series of topological data representations
 - Ph.D. position (3 years): topological data analysis at scale
 
 # Interns
-- Internship (6 months): geometrical analysis in the space of topological data representations
-- Internship (6 months): distributed approaches to topological data analysis
+- Internship (6 months): statistical analysis of topological data representations
+- Internship (6 months): high-performance approaches to topological data analysis

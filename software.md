@@ -24,13 +24,11 @@ href="http://topology-tool-kit.github.io/"
         The Topology ToolKit (TTK)
         </a><br>
         <br>
-        An efficient, generic and easy-to-use library for topological data analysis and visualization.<br><br>
+        Efficient, generic and easy-to-use library for topological data analysis and visualization.<br><br>
         <a target="new" href="https://github.com/topology-tool-kit/ttk">Github repository</a>
         </td>
       </tr>
 </table>
 
-TORI contributed the following components:
-- A fast, shared-memory parallel, backend for topological simplification (LTS)
-- A new internal (order-based) representation of scalar data
-- Binary packaging for TTK
+<!-- TORI contributed the following components: -->
+<!-- - Binary packaging for TTK -->

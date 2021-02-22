@@ -5,9 +5,9 @@ permalink: /about/
 teaser: '/img/toriBanner.png'
 ---
 
-TORI (*TOpological Reduction of Information*) is a research project funded by the 
-[European Research Council (ERC)](https://erc.europa.eu/) and hosted by the French  [National Center for Scientific Research (CNRS)](http://www.cnrs.fr/en) and 
+TORI (*TOpological Reduction of Information*) is a research project started in October 2020. It is funded by the 
+[European Research Council (ERC)](https://erc.europa.eu/) and hosted by the French  [National Center for Scientific Research (CNRS)](http://www.cnrs.fr/en) at
 [Sorbonne University](https://www.sorbonne-universite.fr/en). Funded for a duration of 5 years, TORI gathers a 
 [team](/team/) of scientists, students and engineers to advance the frontiers of computational methods for Topological Data Analysis.
 
-TORI researches, designs, implements and distribute new algorithms for the interactive analysis of large collection of datasets, based on concise structural representations of the data. Our work covers new methods for the comparison of topological data representations, as well as new approaches for the computation of these representations at scale.
+TORI researches, designs, implements and distribute new algorithms for the interactive analysis of large collections of datasets, based on concise structural representations of the data. Our work covers new methods for the comparison of topological data representations, as well as new approaches for the computation of these representations at scale.
