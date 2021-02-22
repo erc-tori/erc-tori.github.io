@@ -6,12 +6,6 @@ title: "Next generation data reduction<br> with Topological Data Analysis"
 layout: default
 teaser: '/img/toriBanner.png'
 ---
-<html>
-  <head>
-    <meta HTTP-EQUIV="REFRESH" content="30000; url=https://ins2i.cnrs.fr/fr/cnrsinfo/un-erc-face-au-challenge-du-big-data">
-  </head>
-</html>
-
 
 <div class="news">
 <table width="98.5%" align="center">
