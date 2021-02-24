@@ -70,7 +70,7 @@ Checkout out our [Jobs](/jobs/) page!
 <table>
   <tr>
     <td width="20%">
-      <img width="90%" src="/img/face.png">
+      <img width="90%" src="/img/pont2021.jpg">
     </td>
     
 <!--     <td width="10px" /> -->
