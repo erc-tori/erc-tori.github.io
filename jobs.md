@@ -50,6 +50,7 @@ target='new'
 
 # Ph.D. students
 - ~~Ph.D. position (3 years): comparing topological data representations~~
+  -- *Filled!*
 - Ph.D. position (3 years): statistical analysis of topological data representations
 - Ph.D. position (3 years): processing time series of topological data representations
 - Ph.D. position (3 years): topological data analysis at scale
