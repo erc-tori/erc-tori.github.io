@@ -42,8 +42,6 @@ Checkout our [Jobs](/jobs/) page!
       Pierre Guillou<br>
       2019 - present<br>
       <a href="https://pierre.guillou.net/" target="new">Web page</a>
-      - 
-      <a href="" target="new">Twitter</a>
     </td>
   </tr>
   
@@ -60,8 +58,6 @@ Checkout our [Jobs](/jobs/) page!
       Hugo Manet<br>
       2020 - present<br>
       <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1481&LANG=en" target="new">Web page</a>
-      - 
-      <a href="" target="new">Twitter</a>
     </td>
   </tr>
 </table>
@@ -79,8 +75,23 @@ Checkout our [Jobs](/jobs/) page!
       Mathieu Pont<br>
       2020 - present<br>
       <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2421&LANG=en" target="new">Web page</a>
-      - 
-      <a href="" target="new">Twitter</a>
+    </td>
+  </tr>
+</table>
+
+# Master students
+<table>
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/sisouk2021.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Keanu Sisouk<br>
+      2021 - present<br>
+      <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" target="new">Web page</a>
     </td>
   </tr>
 </table>
