@@ -39,7 +39,9 @@ teaser: '/img/toriBanner.png'
 
 
 TORI develops the next generation data reduction tools based on Topological Data Analysis.<br>
-If you need to handle large-scale datasets, focus on the core structural information present in your data thanks to our algorithms. 
+If you need to handle large-scale datasets, focus on the core structural information present in your data thanks to our algorithms.
+If you are interested in training and support,
+please feel free to [contact us](mailto:erc.tori.project@gmail.com).
 
 TORI researches, designs, implements and distributes new algorithms for the interactive analysis of large collections of datasets, based on concise structural representations of the data. Our work covers new methods for the comparison of topological data representations, as well as new approaches for the computation of these representations at scale.<br>
 Checkout our [Publications](/publications/) page for more details!

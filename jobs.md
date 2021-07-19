@@ -56,5 +56,5 @@ target='new'
 - Ph.D. position (3 years): topological data analysis at scale
 
 # Interns
-- Internship (6 months): statistical analysis of topological data representations
-- Internship (6 months): high-performance approaches to topological data analysis
+- ~~Internship (6 months): statistical analysis of topological data representations~~ -- *Filled!*
+- ~~Internship (6 months): high-performance approaches to topological data analysis~~ -- *Filled!*
