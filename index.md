@@ -8,22 +8,49 @@ teaser: '/img/toriBanner.png'
 ---
 
 <div class="news">
-<table width="98.5%" align="center">
+<table width="100%" align="center">
 
 <tr><td>
 <h4>&nbsp;&nbsp;&nbsp;News</h4></td>
 <td align="right"></td>
 </tr>
-<tr>
+<!--<tr>
 <td>
-                &nbsp;&middot;&nbsp;
-                TORI's 
-                <a href="/jobs/">job openings</a> are out!
-                </td>
+                &nbsp;&middot;
+                Our paper on
+                <a target="new"
+                href="https://arxiv.org/pdf/2107.07789">
+                Wasserstein barycenters of Merge Trees</a>
+                has been accepted to
+                <a href="http://ieeevis.org/year/2021/welcome" target="new">IEEE VIS 2021</a>!
                 <td align="right">
-                [Feb. 20, 2021]
+                [Jul. 22, 2021]
                 </td>
-                </tr>
+                </tr>-->
+<tr>
+    <td>
+    &nbsp;&middot;&nbsp;
+    Our paper on
+    <a target="new"
+                href="https://arxiv.org/pdf/2107.07789">
+    Wasserstein barycenters of Merge Trees</a>
+    has been accepted to
+    <a href="http://ieeevis.org/year/2021/welcome" target="new">IEEE VIS</a>!
+    </td>
+    <td align="right">
+      [Jul. 22, 2021]
+    </td>
+</tr>
+<tr>
+    <td>
+      &nbsp;&middot;&nbsp;
+      TORI's
+      <a href="/jobs/">job openings</a> are out!
+    </td>
+    <td align="right">
+      [Feb. 20, 2021]
+    </td>
+</tr>
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;

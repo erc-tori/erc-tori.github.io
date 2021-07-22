@@ -6,8 +6,95 @@ teaser: '/img/toriBanner.png'
 ---
 
 <table>
+
+<tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/pdf/2107.07789"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/pont_vis21.pdf']);_gaq.push(['_trackPageview',
+          'stuff/pont_vis21.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/pont_vis21_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2107.07789"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/pont_vis21.pdf']);_gaq.push(['_trackPageview',
+              'stuff/pont_vis21.pdf']);"
+                >
+        Wasserstein Distances, Geodesics and Barycenters of Merge Trees
+        </a><br>
+        <br>
+        Mathieu Pont, Jules Vidal, Julie Delon, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Proc. of IEEE VIS 2021.<br>
+        <br>
+        <a target='new'
+href=""
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/pont_vis21_code']);"
+        >Code</a> -
+         <a target='new'
+href="https://github.com/MatPont/WassersteinMergeTreesData"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/data/pont_vis21_data']);"
+        >Data</a>
+<!--        -
+        <a target="new" href="https://youtu.be/mDE3738UfWM"
+         onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/video/vidal_technicalReport20']);"
+        >Companion video</a> -
+        <a target="new" href="http://www.replicabilitystamp.org/">
+        Replicability stamp</a>-->
+        </td>
+      </tr>
+
+      <tr height="75pt"/>
+
+      <tr>
+        <td width='25%'>
+        <a
+href="https://topology-tool-kit.github.io/stuff/ttk_tutorial_vis21.pdf"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/ttk_tutorial_vis21.pdf']);_gaq.push(['_trackPageview',
+          'stuff/ttk_tutorial_vis21.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/garth_visTutorial21_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://topology-tool-kit.github.io/stuff/ttk_tutorial_vis21.pdf"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis21.pdf']);_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis21.pdf']);"
+                >
+        Topological Analysis of Ensemble Scalar Data with TTK
+        </a><br>
+        <br>
+        Christoph Garth, Charles Gueunet, Pierre Guillou, Lutz Hofmann, Joshua A Levine, Jonas Lukasczyk, Julien Tierny, Jules Vidal, Bei Wang, Florian Wetzels
+        <br><br>
+        IEEE VIS Tutorials 2021.<br>
+        <br>
+         <a target='new'
+
+href="https://topology-tool-kit.github.io/ieeeVisTutorial.html"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis21_web']);"
+        >Tutorial web page</a>
+        </td>
+      </tr>
+
+      <tr height="75pt"/>
+
   <tr>
-        <td width='30%'>
+        <td width='25%'>
         <a 
 href="https://arxiv.org/pdf/2009.01512" 
 target='new'
@@ -36,7 +123,7 @@ href="https://arxiv.org/pdf/2009.01512"
         </td>
       </tr>
 
-      <tr height="50pt"/>      
+      <tr height="75pt"/>
   
   <tr>
         <td width='25%'>
@@ -72,7 +159,7 @@ href="https://arxiv.org/pdf/2009.00083"
         </td>
       </tr>
       
-<tr height="50pt"/>   
+<tr height="75pt"/>
       
       
 
@@ -114,7 +201,7 @@ href="https://topology-tool-kit.github.io/ieeeVisTutorial.html"
         </td>
       </tr>
     
-    <tr height="50pt"/>
+    <tr height="75pt"/>
     
 
 
@@ -147,7 +234,7 @@ href="https://julien-tierny.github.io/stuff/papers/cotsakis_topoinvis20.pdf"
         </td>
       </tr>
     
-<tr height="50pt"/>
+<tr height="75pt"/>
 
     <tr>
         <td width='25%'>
