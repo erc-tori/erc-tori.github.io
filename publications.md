@@ -7,8 +7,10 @@ teaser: '/img/toriBanner.png'
 
 <table>
 
+  <tr height="75pt"/>
+
 <tr>
-        <td width='25%'>
+        <td width='30%'>
         <a
 href="https://arxiv.org/pdf/2107.07789"
 target='new'
