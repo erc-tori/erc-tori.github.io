@@ -50,9 +50,10 @@ href="https://github.com/MatPont/WassersteinMergeTreesData"
         <a target="new" href="https://youtu.be/mDE3738UfWM"
          onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/video/vidal_technicalReport20']);"
-        >Companion video</a> -
+        >Companion video</a>-->
+        -
         <a target="new" href="http://www.replicabilitystamp.org/">
-        Replicability stamp</a>-->
+        Replicability stamp</a>
         </td>
       </tr>
 
