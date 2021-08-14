@@ -56,6 +56,43 @@ href="https://github.com/MatPont/WassersteinMergeTreesData"
         Replicability stamp</a>
         </td>
       </tr>
+      
+      <tr height="75pt"/>
+      
+      <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/pdf/2108.05766"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/vidal_ldav21.pdf']);_gaq.push(['_trackPageview',
+          'stuff/vidal_ldav21.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/vidal_ldav21_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2108.05766"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/vidal_ldav21.pdf']);_gaq.push(['_trackPageview',
+              'stuff/vidal_ldav21.pdf']);"
+                >
+        Fast Approximation of Persistence Diagrams with Guarantees
+        </a><br>
+        <br>
+        Jules Vidal and Julien Tierny
+        <br><br>
+        Proc. of IEEE Symposium on Large Data Analysis and Visualization 2021.<br>
+        <br>
+        <a target='new'
+href=""
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/vidal_ldav21_code']);"
+        >Code and Data</a>
+        </td>
+      </tr>  
+      
 
       <tr height="75pt"/>
 
