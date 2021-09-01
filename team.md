@@ -28,6 +28,10 @@ Checkout our [Jobs](/jobs/) page!
   </tr>
 </table>
 
+<!-- # Post-docs -->
+
+
+
 # Engineers
 
 <table>
@@ -40,7 +44,7 @@ Checkout our [Jobs](/jobs/) page!
     
     <td>
       Pierre Guillou<br>
-      2019 - present<br>
+      2020 - present<br>
       <a href="https://pierre.guillou.net/" target="new">Web page</a>
     </td>
   </tr>
@@ -58,6 +62,22 @@ Checkout our [Jobs](/jobs/) page!
       Hugo Manet<br>
       2020 - present<br>
       <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1481&LANG=en" target="new">Web page</a>
+    </td>
+  </tr>
+  
+    <tr height="10px" />
+  
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/vidal2020.jpg">
+    </td>
+    
+<!--     <td width="10px" /> -->
+    
+    <td>
+      Jules Vidal<br>
+      2021 - present<br>
+      <a href="https://www-apr.lip6.fr/~vidal/" target="new">Web page</a>
     </td>
   </tr>
 </table>
