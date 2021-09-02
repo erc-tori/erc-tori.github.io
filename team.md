@@ -64,23 +64,8 @@ Checkout our [Jobs](/jobs/) page!
       <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1481&LANG=en" target="new">Web page</a>
     </td>
   </tr>
+</table>  
   
-    <tr height="10px" />
-  
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/vidal2020.jpg">
-    </td>
-    
-<!--     <td width="10px" /> -->
-    
-    <td>
-      Jules Vidal<br>
-      2021 - present<br>
-      <a href="https://www-apr.lip6.fr/~vidal/" target="new">Web page</a>
-    </td>
-  </tr>
-</table>
 
 # Ph.D. students
 <table>
@@ -95,6 +80,22 @@ Checkout our [Jobs](/jobs/) page!
       Mathieu Pont<br>
       2020 - present<br>
       <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2421&LANG=en" target="new">Web page</a>
+    </td>
+  </tr>
+
+  <tr height="10px" />
+
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/vidal2020.jpg">
+    </td>
+    
+<!--     <td width="10px" /> -->
+    
+    <td>
+      Jules Vidal<br>
+      2021 - present<br>
+      <a href="https://www-apr.lip6.fr/~vidal/" target="new">Web page</a>
     </td>
   </tr>
 </table>
