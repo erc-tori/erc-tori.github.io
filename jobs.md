@@ -58,3 +58,6 @@ target='new'
 # Interns
 - ~~Internship (6 months): statistical analysis of topological data representations~~ -- *Filled!*
 - ~~Internship (6 months): high-performance approaches to topological data analysis~~ -- *Filled!*
+- Internship (6 months): <a href="https://julien-tierny.github.io/stuff/openPositions/internship2022.pdf"
+            onClick="javascript:_gaq.push(['_trackPageview',
+            'stuff/openPositions/internship2022.pdf']);">comparing time-varying data</a>

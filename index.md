@@ -14,21 +14,20 @@ teaser: '/img/toriBanner.png'
 <h4>&nbsp;&nbsp;&nbsp;News</h4></td>
 <td align="right"></td>
 </tr>
-<!--
       <tr>
-<td>
-                &nbsp;&middot;
-                Our paper on
-                <a target="new"
-                href="https://arxiv.org/pdf/2108.05766">
-                Persistence Diagram Approximation</a>
-                has been accepted to
-                <a href="http://ieeevis.org/year/2021/welcome" target="new">IEEE LDAV 2021</a>!
-                <td align="right">
-                [Aug. 14, 2021]
-                </td>
-                </tr>
-                -->
+          <td align="left">
+            &nbsp;&middot;&nbsp;
+            We have one
+            <a href="https://julien-tierny.github.io/stuff/openPositions/internship2022.pdf"
+            onClick="javascript:_gaq.push(['_trackPageview',
+            'stuff/openPositions/internship2022.pdf']);">
+            open internship position!</a> (with
+            <b>Ph.D.</b> follow-up)
+          </td>
+          <td align="right">
+            [Sep 22, 2021]
+          </td>
+        </tr>
 <tr>
     <td>
     &nbsp;&middot;&nbsp;
