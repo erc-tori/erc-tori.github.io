@@ -86,7 +86,7 @@ href="https://arxiv.org/pdf/2108.05766"
         Proc. of IEEE Symposium on Large Data Analysis and Visualization 2021.<br>
         <br>
         <a target='new'
-href=""
+href="https://github.com/julesvidal/persistence-diagram-approximation"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/software/vidal_ldav21_code']);"
         >Code and Data</a>
