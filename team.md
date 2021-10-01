@@ -48,22 +48,6 @@ Checkout our [Jobs](/jobs/) page!
       <a href="https://pierre.guillou.net/" target="new">Web page</a>
     </td>
   </tr>
-  
-  <tr height="10px" />
-  
-    <tr>
-    <td width="20%">
-      <img width="90%" src="/img/manet2021.jpg">
-    </td>
-    
-<!--     <td width="10px" /> -->
-    
-    <td>
-      Hugo Manet<br>
-      2020 - present<br>
-      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1481&LANG=en" target="new">Web page</a>
-    </td>
-  </tr>
 </table>  
   
 
@@ -116,4 +100,21 @@ Checkout our [Jobs](/jobs/) page!
     </td>
   </tr>
 </table>
+
+# Alumni
+<table>
+    <tr>
+    <td width="20%">
+      <img width="90%" src="/img/manet2021.jpg">
+    </td>
+    
+<!--     <td width="10px" /> -->
+    
+    <td>
+      Hugo Manet<br>
+      2020 - 2021<br>
+      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1481&LANG=en" target="new">Web page</a>
+    </td>
+  </tr>
+</table>  
 
