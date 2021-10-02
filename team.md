@@ -48,6 +48,24 @@ Checkout our [Jobs](/jobs/) page!
       <a href="https://pierre.guillou.net/" target="new">Web page</a>
     </td>
   </tr>
+
+  <tr height="10px" />
+
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/leguillou2021.jpg">
+    </td>
+    
+<!--     <td width="10px" /> -->
+    
+    <td>
+      Eve Le Guillou<br>
+      2021 - present<br>
+      <a href="" target="new">Web page</a>
+    </td>
+  </tr>
+
+
 </table>  
   
 
