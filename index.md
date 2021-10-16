@@ -14,6 +14,27 @@ teaser: '/img/toriBanner.png'
 <h4>&nbsp;&nbsp;&nbsp;News</h4></td>
 <td align="right"></td>
 </tr>
+
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                After 7 years of development, TTK is now officially integrated in 
+                <a target="new" href="https://www.paraview.org/download/">ParaView</a>!
+                </td>
+                <td align="right">
+                [Oct. 16, 2021]
+                </td>
+                </tr>
+<tr>
+                <td>
+                &nbsp;&middot;&nbsp;
+                To celebrate this milestone, we have released <a href="https://topology-tool-kit.github.io/downloads.html">TTK version 1.0</a>!
+                </td>
+                <td align="right">
+                [Oct. 16, 2021]
+                </td>
+                </tr>
+
       <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
