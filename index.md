@@ -14,7 +14,24 @@ teaser: '/img/toriBanner.png'
 <h4>&nbsp;&nbsp;&nbsp;News</h4></td>
 <td align="right"></td>
 </tr>
-
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                We had an awesome 
+                tutorial at 
+                <a
+                target="new"
+                href="http://ieeevis.org/year/2021/info/tutorials">
+                IEEE VIS 2021</a>.
+                Videos are
+                <a href="https://topology-tool-kit.github.io/ieeeVis2021Tutorial.html#talks"
+                target="new">
+                now available here</a>!
+                </td>
+                <td align="right">
+                [Nov. 12, 2021]
+                </td>
+                </tr>
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
