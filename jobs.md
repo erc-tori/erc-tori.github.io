@@ -41,12 +41,12 @@ target='new'
 
 
 # Engineers
-- Research engineer (2 years): performance in TTK
+- ~~Research engineer (2 years): performance in TTK~~ -- *Filled!*
 - Research engineer (2 years): extending TTK to new data types
 
 # Post-docs
 - Post-doc position (2 years): topological data analysis and visualization
-- Post-doc position (2 years): high-performance topological data analysis
+<!-- - Post-doc position (2 years): high-performance topological data analysis -->
 
 # Ph.D. students
 - ~~Ph.D. position (3 years): comparing topological data representations~~
