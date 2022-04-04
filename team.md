@@ -65,21 +65,22 @@ Checkout our [Jobs](/jobs/) page!
     </td>
   </tr>
 
-  <tr height="10px" />
+<tr height="10px" />
 
   <tr>
     <td width="20%">
-      <img width="90%" src="/img/leguillou2021.jpg">
+      <img width="90%" src="/img/sisouk2021.jpg">
     </td>
-    
+
 <!--     <td width="10px" /> -->
-    
+
     <td>
-      Eve Le Guillou<br>
+      Keanu Sisouk<br>
       2021 - present<br>
-      <a href="" target="new">Web page</a>
+      <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" target="new">Web page</a>
     </td>
   </tr>
+
 
 
 </table>  
@@ -87,6 +88,23 @@ Checkout our [Jobs](/jobs/) page!
 
 # Ph.D. students
 <table>
+
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/leguillou2021.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Eve Le Guillou<br>
+      2021 - present<br>
+      <a href="" target="new">Web page</a>
+    </td>
+  </tr>
+
+  <tr height="10px" />
+
   <tr>
     <td width="20%">
       <img width="90%" src="/img/pont2021.jpg">
@@ -105,19 +123,7 @@ Checkout our [Jobs](/jobs/) page!
 
 # Master students
 <table>
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/sisouk2021.jpg">
-    </td>
 
-<!--     <td width="10px" /> -->
-
-    <td>
-      Keanu Sisouk<br>
-      2021 - present<br>
-      <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" target="new">Web page</a>
-    </td>
-  </tr>
 </table>
 
 # Alumni
