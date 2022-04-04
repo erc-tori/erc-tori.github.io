@@ -127,6 +127,8 @@ TORI researches, designs, implements and distributes new algorithms for the inte
 Checkout our [Publications](/publications/) page for more details!
 
 # TORI hires!
-If you are interested in topological data analysis, visualization and programming, come and work with us. We have several openings for various seniority levels (engineers, post-docs, Ph.D. students, interns).<br>
+If you are passionate about computer science, maths and data, come and work with us.
+<!-- If you are interested in topological data analysis, visualization and programming, come and work with us.  -->
+We have several openings for various seniority levels (engineers, post-docs, Ph.D. students, interns).<br>
 Checkout our [Jobs](/jobs/) page!
 

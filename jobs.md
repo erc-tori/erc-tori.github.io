@@ -25,7 +25,8 @@ To apply, please send your application letter and your CV to
         <a target="new" href="https://www.sorbonne-universite.fr/en">
         Sorbonne University</a>, right in the center of the beautiful city of Paris.
         <br><br>
-        If you are interested in topological data analysis, visualization and programming, come and work with us :)
+        If you are passionate about computer science, maths and data, come and work with us :)
+<!--         If you are interested in topological data analysis, visualization and programming, come and work with us :) -->
         </td>
         <td width="5%" />
         <td width='30%'>
@@ -51,9 +52,12 @@ target='new'
 # Ph.D. students
 - ~~Ph.D. position (3 years): comparing topological data representations~~
   -- *Filled!*
-- Ph.D. position (3 years): statistical analysis of topological data representations
+- ~~Ph.D. position (3 years): topological data analysis at scale~~
+  -- *Filled!*
+- Ph.D. position (3 years): deep learning for topological data representations
 - Ph.D. position (3 years): processing time series of topological data representations
-- Ph.D. position (3 years): topological data analysis at scale
+- Ph.D. position (3 years): statistical analysis of topological data representations
+
 
 # Interns
 - ~~Internship (6 months): statistical analysis of topological data representations~~ -- *Filled!*
