@@ -57,6 +57,7 @@ target='new'
 - Ph.D. position (3 years): deep learning for topological data representations
 - Ph.D. position (3 years): processing time series of topological data representations
 - Ph.D. position (3 years): statistical analysis of topological data representations
+<!-- - Ph.D. position (3 years): deep learning and topological data analysis for dimensionality reduction -->
 
 
 # Interns
