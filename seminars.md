@@ -5,7 +5,7 @@ permalink: /seminars/
 teaser: '/img/tutorial2019.jpg'
 ---
 
-# June 8, 2022
+# June 9, 2022
 <table>
   <tr>
     <td width="20%">
