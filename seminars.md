@@ -9,7 +9,7 @@ teaser: '/img/tutorial2019.jpg'
 <table>
   <tr>
     <td width="20%">
-      <img width="90%" src="https://www.math.colostate.edu/~adams/myPhoto.png">
+      <img width="90%" src="/img/adams2022.png">
     </td>
 
 <!--     <td width="10px" /> -->
