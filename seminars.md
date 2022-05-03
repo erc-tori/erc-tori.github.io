@@ -87,7 +87,8 @@ the Applied Algebraic Topology Research Network (AATRN).
 *Abstract:* 
 Scientific datasets have continually grown in size, driven by the perceived need for higher fidelities to model or measure complex phenomena correctly. This trend comes at a high cost. It requires significant effort and resources to acquire, process, and store this ever-increasing collection of produced data. In this talk, I'll discuss our ongoing efforts to reduce this cost through novel image acquisition, records and analyses of user behavior during exploration, and concise descriptors of data features.
 
-*Bio:* Brian Summa is an Assistant Professor of Computer Science at Tulane University, where he is the head of the visualization and graphics lab. His research interests are include large scale imaging data analysis.
+*Bio:* Brian Summa is an Assistant Professor of Computer Science at Tulane University, where he is the head of the visualization and graphics lab. His research interests 
+focus on large scale imaging and data analysis.
 
 <a name="aupetit22"></a>
 # January 4, 2022
