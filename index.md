@@ -17,6 +17,19 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                Don't miss
+                <a
+                href="seminars/index.html#summa22">
+                our next 
+                Online Seminar</a> by Brian Summa on large-scale imaging.
+                </td>
+                <td align="right">
+                [May. 13, 2022]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 We had an awesome 
                 tutorial at 
                 <a
@@ -94,7 +107,7 @@ teaser: '/img/toriBanner.png'
       [Jul. 22, 2021]
     </td>
 </tr>
-<tr>
+<!--<tr>
     <td>
       &nbsp;&middot;&nbsp;
       TORI's
@@ -112,7 +125,7 @@ teaser: '/img/toriBanner.png'
                 <td align="right">
                 [Feb. 18, 2021]
                 </td>
-                </tr>
+                </tr>-->
               </table>
 </div>
 
