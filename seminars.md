@@ -27,7 +27,9 @@ teaser: '/img/tutorial2019.jpg'
 applications:<br> A case study on persistence images</i>
       <br>
       <br>
-      <b>10am, Sorbonne University, Room 2300</b>
+      <b>10am, Sorbonne University, Room 2300
+      (<a target="new" href="https://zoom.us/j/91588108167?pwd=bzFNUWM3amtraU9aTnMydTR2dUxDZz09">Zoom Link</a>)
+      </b>
     </td>
   </tr>
 </table>
@@ -56,6 +58,36 @@ data analysis. He has applied topology to problems arising in machine
 learning, computer vision, minimal sensing, collective motion models, and
 chemical energy landscapes. Professor Adams is the Executive Director of
 the Applied Algebraic Topology Research Network (AATRN).
+
+<a name="summa22"></a>
+# May 13, 2022
+<table>
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/summa2022.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Brian Summa -- 
+      Tulane University<br>
+      <a href="https://tulanevisgraphics.bitbucket.io/" target="new">Web page</a>
+      <br>
+      <br>
+      <i>Is Bigger Data Always Better?</i>
+      <br>
+      <br>
+      <b>4pm, Online
+      (<a target="new" href="https://zoom.us/j/91588108167?pwd=bzFNUWM3amtraU9aTnMydTR2dUxDZz09">Zoom Link</a>)</b>
+    </td>
+  </tr>
+</table>
+
+*Abstract:* 
+Scientific datasets have continually grown in size, driven by the perceived need for higher fidelities to model or measure complex phenomena correctly. This trend comes at a high cost. It requires significant effort and resources to acquire, process, and store this ever-increasing collection of produced data. In this talk, I'll discuss our ongoing efforts to reduce this cost through novel image acquisition, records and analyses of user behavior during exploration, and concise descriptors of data features.
+
+*Bio:* Brian Summa is an Assistant Professor of Computer Science at Tulane University, where he is the head of the visualization and graphics lab. His research interests are include large scale imaging data analysis.
 
 <a name="aupetit22"></a>
 # January 4, 2022
