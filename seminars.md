@@ -111,7 +111,9 @@ Scientific datasets have continually grown in size, driven by the perceived need
 multidimensional data analysis</i>
       <br>
       <br>
-      <b>2pm, Sorbonne University, Room 24-25/405</b>
+      <b>2pm, Sorbonne University, Room 24-25/405
+      (<a target="new" href="https://zoom.us/j/91588108167?pwd=bzFNUWM3amtraU9aTnMydTR2dUxDZz09">Zoom Link</a>)
+      </b>
     </td>
   </tr>
 </table>
