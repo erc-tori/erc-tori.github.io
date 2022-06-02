@@ -19,9 +19,22 @@ teaser: '/img/toriBanner.png'
                 &nbsp;&middot;&nbsp;
                 Don't miss
                 <a
+                href="seminars/index.html#adams22">
+                our next
+                hybrid seminar</a> by Henry Adams on persistence images.
+                </td>
+                <td align="right">
+                [Jun. 2, 2022]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Don't miss
+                <a
                 href="seminars/index.html#summa22">
                 our next 
-                Online Seminar</a> by Brian Summa on large-scale imaging.
+                online seminar</a> by Brian Summa on large-scale imaging.
                 </td>
                 <td align="right">
                 [May. 13, 2022]
