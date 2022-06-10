@@ -17,6 +17,17 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                Henry Adam's seminar is now available 
+                <a href="seminars/index.html#adams22">online!</a>
+                </td>
+                <td align="right">
+                [Jun. 10, 2022]
+                </td>
+                </tr>
+
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 Don't miss
                 <a
                 href="seminars/index.html#adams22">
