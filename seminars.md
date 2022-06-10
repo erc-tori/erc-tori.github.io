@@ -59,6 +59,10 @@ learning, computer vision, minimal sensing, collective motion models, and
 chemical energy landscapes. Professor Adams is the Executive Director of
 the Applied Algebraic Topology Research Network (AATRN).
 
+<iframe width="100%" height="420"
+src="https://www.youtube.com/embed/ptSGKDuEdiI" frameborder="0"
+allowfullscreen></iframe>
+
 <a name="summa22"></a>
 # May 13, 2022 **[Postponed]**
 <table>
