@@ -27,7 +27,7 @@ teaser: '/img/tutorial2019.jpg'
       <br>
       <br>
       <b>10am, Sorbonne University, Room 2402
-<!--      (<a target="new" href="https://zoom.us/j/91588108167?pwd=bzFNUWM3amtraU9aTnMydTR2dUxDZz09">Zoom Link</a>)-->
+      (<a target="new" href="https://cnrs.zoom.us/j/94892291075?pwd=RmU0MkFtSWxsTVNEbHQzSmU0OGxEUT09">Zoom Link</a>)
       </b>
     </td>
   </tr>

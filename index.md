@@ -20,7 +20,7 @@ teaser: '/img/toriBanner.png'
                 Don't miss
                 <a
                 href="seminars/index.html#levine22">
-                our next
+                our next hybrid
                 seminar</a> by Joshua Levine on neural visualization.
                 </td>
                 <td align="right">
