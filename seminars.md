@@ -5,6 +5,70 @@ permalink: /seminars/
 teaser: '/img/tutorial2019.jpg'
 ---
 
+<a name="levine22"></a>
+# July 8, 2022
+<table>
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/levine2022.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Joshua Levine --
+      University of Arizona<br>
+      <a href="https://jalevine.bitbucket.io/" target="new">Web page</a>
+<!--       - -->
+<!--       <a href="https://twitter.com/JulienTierny" target="new">Twitter</a> -->
+      <br>
+      <br>
+      <i>Neural Representations for Volume Visualization</i>
+      <br>
+      <br>
+      <b>10am, Sorbonne University, Room 2402
+<!--      (<a target="new" href="https://zoom.us/j/91588108167?pwd=bzFNUWM3amtraU9aTnMydTR2dUxDZz09">Zoom Link</a>)-->
+      </b>
+    </td>
+  </tr>
+</table>
+
+*Abstract:* In this talk, I will describe two projects, both joint work with
+collaborators at Vanderbilt University.  The first project studies how
+generative neural models can be used to model the process of volume
+rendering scalar fields.  We construct a generative adversarial network
+that learns the mapping from volume rendering parameters, such as viewpoint
+and transfer function, to the rendered image.  In doing so, we can analyze
+the volume itself and provide new mechanisms for guiding the user in
+transfer function editing and exploring the space of possible images that
+can be volume rendered.  Both our training process and applications are
+available on the web at [https://github.com/matthewberger/tfgan](https://github.com/matthewberger/tfgan)
+In the second part of my talk, I will explore a recent neural modeling
+approach for building compressive representations of volume data.  This
+approach represents volumetric scalar fields as learned implicit functions
+wherein a neural network maps a point in the domain to an output scalar
+value. By setting the number of weights of the neural network to be smaller
+than the input size, we achieve compressive function approximation.
+Combined with carefully quantizing network weights, we show that this
+approach yields highly compact representations that outperform
+state-of-the-art volume compression approaches. We study the impact of
+network design choices on compression performance, highlighting how
+conceptually simple network architectures are beneficial for a broad range
+of volumes.  Our compression approach is hosted at
+[https://github.com/matthewberger/neurcomp](https://github.com/matthewberger/neurcomp)
+
+*Bio:* Joshua A. Levine is an associate professor in the Department of
+Computer Science at University of Arizona. Prior to starting at Arizona in
+2016, he was an assistant professor at Clemson University from 2012 to
+2016, and before that a postdoctoral research associate at the University
+of Utah’s SCI Institute from 2009 to 2012. He is a recipient of the 2018
+DOE Early Career award. He received his PhD in Computer Science from The
+Ohio State University in 2009 after completing BS degrees in Computer
+Engineering and Mathematics in 2003 and an MS in Computer Science in 2004
+from Case Western Reserve University. His research interests include
+visualization, geometric modeling, topological analysis, mesh generation,
+vector fields, performance analysis, and computer graphics.
+
 <a name="adams22"></a>
 # June 9, 2022
 <table>

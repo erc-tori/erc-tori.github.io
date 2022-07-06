@@ -16,6 +16,8 @@ Checkout this event page for seminars and tutorials!
   - [Topological Data Analysis with TTK](https://www.kitware.eu/topological-data-analysis-with-ttk-training/), June 30, 2022 -- Kitware Europe, Lyon (*hybrid event*)
   
 - <a href='../seminars/index.html'>Seminars</a>
+  - <a href='../seminars/index.html#levine22'>Joshua Levine</a>,
+  *Neural Representations for Volume Visualization*, July 8, 2022 -- Sorbonne University.
   - <a href='../seminars/index.html#adams22'>Henry Adams</a>,
   *The unreasonably effective interaction between math and
 applications: A case study on persistence images*, June 9, 2022 -- Sorbonne University.

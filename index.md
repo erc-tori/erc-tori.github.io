@@ -17,6 +17,19 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                Don't miss
+                <a
+                href="seminars/index.html#levine22">
+                our next
+                seminar</a> by Joshua Levine on neural visualization.
+                </td>
+                <td align="right">
+                [Jul. 6, 2022]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 Henry Adam's seminar is now available 
                 <a href="seminars/index.html#adams22">online!</a>
                 </td>
