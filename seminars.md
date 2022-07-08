@@ -69,6 +69,10 @@ from Case Western Reserve University. His research interests include
 visualization, geometric modeling, topological analysis, mesh generation,
 vector fields, performance analysis, and computer graphics.
 
+<iframe width="100%" height="420"
+src="https://www.youtube.com/embed/_cy2hlGBEow" frameborder="0"
+allowfullscreen></iframe>
+
 <a name="adams22"></a>
 # June 9, 2022
 <table>
