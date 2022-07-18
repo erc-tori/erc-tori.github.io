@@ -42,7 +42,7 @@ Checkout our [Jobs](/jobs/) page!
     <td>
       Jules Vidal<br>
       2021 - present<br>
-      <a href="https://www-apr.lip6.fr/~vidal/" target="new">Web page</a>
+      <a href="https://julesvidal.github.io/" target="new">Web page</a>
     </td>
   </tr>
 </table>
@@ -115,7 +115,7 @@ Checkout our [Jobs](/jobs/) page!
     <td>
       Mathieu Pont<br>
       2020 - present<br>
-      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2421&LANG=en" target="new">Web page</a>
+      <a href="https://mathieu-pont.github.io/" target="new">Web page</a>
     </td>
   </tr>
 
