@@ -130,7 +130,7 @@ teaser: '/img/toriBanner.png'
       [Aug. 14, 2021]
     </td>
 </tr>
-<tr>
+<!--<tr>
     <td>
     &nbsp;&middot;&nbsp;
     Our paper on
@@ -143,7 +143,7 @@ teaser: '/img/toriBanner.png'
     <td align="right">
       [Jul. 22, 2021]
     </td>
-</tr>
+</tr>-->
 <!--<tr>
     <td>
       &nbsp;&middot;&nbsp;

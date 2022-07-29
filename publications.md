@@ -7,6 +7,161 @@ teaser: '/img/toriBanner.png'
 
 <table>
 
+<tr height="75pt"/>
+
+<tr>
+        <td width='30%'>
+        <a
+href="https://arxiv.org/pdf/2207.10960"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/pont_techrep22.pdf']);_gaq.push(['_trackPageview',
+          'stuff/pont_techrep22.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/pont_techrep22_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2207.10960"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/pont_techrep22.pdf']);_gaq.push(['_trackPageview',
+              'stuff/pont_techrep22.pdf']);"
+                >
+        Principal Geodesic Analysis of Merge Trees<br>(and Persistence Diagrams)
+        </a><br>
+        <br>
+        Mathieu Pont, Jules Vidal, Julien Tierny
+        <br><br>
+        Technical report, July 2022.<br>
+        <br>
+        <a target='new'
+href="https://github.com/MatPont/MT-PGA"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/pont_mtpga_code']);"
+        >Code</a> -
+         <a target='new'
+href="https://github.com/MatPont/WassersteinMergeTreesData"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/data/pont_vis21_data']);"
+        >Data</a>
+        </td>
+      </tr>
+
+      <tr height="75pt"/>
+
+<tr>
+        <td width='30%'>
+        <a
+href="https://arxiv.org/pdf/2206.13932"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/guillou_techrep22.pdf']);_gaq.push(['_trackPageview',
+          'stuff/guillou_techrep22.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/guillou_techrep22_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2206.13932"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/guillou_techrep22.pdf']);_gaq.push(['_trackPageview',
+              'stuff/guillou_techrep22.pdf']);"
+                >
+        Discrete Morse Sandwich: Fast Computation of Persistence Diagrams for Scalar Data -- An Algorithm and A Benchmark
+        </a><br>
+        <br>
+        Pierre Guillou, Jules Vidal, Julien Tierny
+        <br><br>
+        Technical report, June 2022.<br>
+        <br>
+        <a target='new'
+href="https://github.com/topology-tool-kit/ttk/tree/e14377bc17a6e1b944224e19c3ccefa756f67d21"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/guillou_techrep22_code']);"
+        >Code</a> -
+        <a target="new" href="https://github.com/pierre-guillou/pdiags_bench"
+         onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/guillou_benchmark22']);"
+        >Benchmark</a>
+        </td>
+      </tr>
+
+<tr height="75pt"/>
+
+<tr>
+        <td width='30%'>
+        <a
+href="https://arxiv.org/pdf/2207.14080"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/nauleau_ldav22.pdf']);_gaq.push(['_trackPageview',
+          'stuff/nauleau_ldav22.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/nauleau_ldav22_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2207.14080"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/nauleau_ldav22.pdf']);_gaq.push(['_trackPageview',
+              'stuff/nauleau_ldav22.pdf']);"
+                >
+        Topological Analysis of Ensembles of Hydrodynamic Turbulent Flows --
+An Experimental Study
+
+        </a><br>
+        <br>
+        Florent Nauleau,
+ Fabien Vivodtzev,
+ Thibault Bridel-Bertomeu,
+ Heloise Beaugendre,
+ Julien Tierny
+        <br><br>
+        Proc. of IEEE Symposium on Large Data Analysis and Visualization 2022.<br>
+        <br>
+        </td>
+      </tr>
+
+    <tr height="75pt"/>
+
+      <tr>
+        <td width='30%'>
+        <a
+href="https://topology-tool-kit.github.io/stuff/ttk_tutorial_vis22.pdf"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/ttk_tutorial_vis22.pdf']);_gaq.push(['_trackPageview',
+          'stuff/ttk_tutorial_vis22.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/garth_visTutorial22_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://topology-tool-kit.github.io/stuff/ttk_tutorial_vis22.pdf"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis22.pdf']);_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis22.pdf']);"
+                >
+        Topological Analysis of Ensemble Scalar Data with TTK, A Sequel
+        </a><br>
+        <br>
+        Christoph Garth, Charles Gueunet, Pierre Guillou, Federico Iuricich, Joshua Levine, Jonas Lukasczyk, Mathieu Pont, Julien Tierny, Jules Vidal, Bei Wang, Florian Wetzels
+        <br><br>
+        IEEE VIS Tutorials 2022.<br>
+        <br>
+         <a target='new'
+
+href="https://topology-tool-kit.github.io/ieeeVisTutorial.html"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis22_web']);"
+        >Tutorial web page</a>
+        </td>
+      </tr>
+
   <tr height="75pt"/>
 
 <tr>
