@@ -33,7 +33,9 @@ href="https://arxiv.org/pdf/2207.10960"
         <br>
         Mathieu Pont, Jules Vidal, Julien Tierny
         <br><br>
-        Technical report, July 2022.<br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, 2022.<br>
+<!--         Technical report, July 2022.<br> -->
         <br>
         <a target='new'
 href="https://github.com/MatPont/MT-PGA"

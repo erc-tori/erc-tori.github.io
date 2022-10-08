@@ -17,6 +17,32 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                Our paper on 
+                <a target="new"
+                href="https://arxiv.org/abs/2207.10960">
+                Principal Geodesics of Merge Trees</a> has 
+been accepted to IEEE TVCG!
+                </td>
+                <td align="right">
+                [Oct. 8, 2022]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Join us at IEEE VIS in Oklahoma City for the
+                <a target="new"
+                
+href="https://topology-tool-kit.github.io/ieeeVis2022Tutorial.html">2022 TTK 
+Tutorial</a>!
+                </td>
+                <td align="right">
+                [Jul. 27, 2022]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 Don't miss
                 <a
                 href="seminars/index.html#levine22">
@@ -102,7 +128,7 @@ teaser: '/img/toriBanner.png'
                 </td>
                 </tr>
 
-      <tr>
+<!--      <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
             We have one
@@ -129,7 +155,7 @@ teaser: '/img/toriBanner.png'
     <td align="right">
       [Aug. 14, 2021]
     </td>
-</tr>
+</tr>-->
 <!--<tr>
     <td>
     &nbsp;&middot;&nbsp;
