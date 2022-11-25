@@ -77,7 +77,7 @@ Tutorial</a>!
                 [Jun. 2, 2022]
                 </td>
                 </tr>
-<tr>
+<!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
                 Don't miss
@@ -126,7 +126,7 @@ Tutorial</a>!
                 <td align="right">
                 [Oct. 16, 2021]
                 </td>
-                </tr>
+                </tr>-->
 
 <!--      <tr>
           <td align="left">
