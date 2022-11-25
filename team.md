@@ -64,7 +64,7 @@ Checkout our [Jobs](/jobs/) page!
 
     <td>
       Mohamed Kissi<br>
-      2022 - present<br>
+      2022 - present (CNRS 80PRIME)<br>
       <a href="" target="new">Web page</a>
     </td>
   </tr>
