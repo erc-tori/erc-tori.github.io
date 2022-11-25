@@ -55,6 +55,22 @@ Checkout our [Jobs](/jobs/) page!
 # Ph.D. students
 <table>
 
+<tr>
+    <td width="20%">
+      <img width="90%" src="/img/kissi2022.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Mohamed Kissi<br>
+      2022 - present<br>
+      <a href="" target="new">Web page</a>
+    </td>
+  </tr>
+
+  <tr height="10px" />
+
   <tr>
     <td width="20%">
       <img width="90%" src="/img/leguillou2021.jpg">
