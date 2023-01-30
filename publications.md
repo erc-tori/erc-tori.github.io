@@ -10,50 +10,7 @@ teaser: '/img/toriBanner.png'
 <tr height="75pt"/>
 
 <tr>
-        <td width='30%'>
-        <a
-href="https://arxiv.org/pdf/2207.10960"
-target='new'
-          onClick="javascript:_gaq.push(['_trackPageview',
-          'stuff/pont_techrep22.pdf']);_gaq.push(['_trackPageview',
-          'stuff/pont_techrep22.pdf_mini']);"
-        >
-          <img src='https://julien-tierny.github.io/img/pont_techrep22_mini.png' width="100%"/></a>
-        </td>
-        <td width="2%" />
-        <td width="77%">
-                <a target='new'
-href="https://arxiv.org/pdf/2207.10960"
-                onClick="javascript:_gaq.push(['_trackPageview',
-              'stuff/pont_techrep22.pdf']);_gaq.push(['_trackPageview',
-              'stuff/pont_techrep22.pdf']);"
-                >
-        Principal Geodesic Analysis of Merge Trees<br>(and Persistence Diagrams)
-        </a><br>
-        <br>
-        Mathieu Pont, Jules Vidal, Julien Tierny
-        <br><br>
-        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
-        Accepted, 2022.<br>
-<!--         Technical report, July 2022.<br> -->
-        <br>
-        <a target='new'
-href="https://github.com/MatPont/MT-PGA"
-                onClick="javascript:_gaq.push(['_trackPageview',
-              'stuff/software/pont_mtpga_code']);"
-        >Code</a> -
-         <a target='new'
-href="https://github.com/MatPont/WassersteinMergeTreesData"
-                onClick="javascript:_gaq.push(['_trackPageview',
-              'stuff/data/pont_vis21_data']);"
-        >Data</a>
-        </td>
-      </tr>
-
-      <tr height="75pt"/>
-
-<tr>
-        <td width='30%'>
+        <td width='25%'>
         <a
 href="https://arxiv.org/pdf/2206.13932"
 target='new'
@@ -71,15 +28,18 @@ href="https://arxiv.org/pdf/2206.13932"
               'stuff/guillou_techrep22.pdf']);_gaq.push(['_trackPageview',
               'stuff/guillou_techrep22.pdf']);"
                 >
-        Discrete Morse Sandwich: Fast Computation of Persistence Diagrams for Scalar Data -- An Algorithm and A Benchmark
+        Discrete Morse Sandwich: Fast Computation of Persistence Diagrams for
+Scalar Data -- An Algorithm and A Benchmark
         </a><br>
         <br>
         Pierre Guillou, Jules Vidal, Julien Tierny
         <br><br>
-        Technical report, June 2022.<br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, to be presented at IEEE VIS 2023.<br>
         <br>
         <a target='new'
-href="https://github.com/topology-tool-kit/ttk/tree/e14377bc17a6e1b944224e19c3ccefa756f67d21"
+href="https://github.com/topology-tool-kit/ttk/tree/
+e14377bc17a6e1b944224e19c3ccefa756f67d21"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/software/guillou_techrep22_code']);"
         >Code</a> -
@@ -89,6 +49,90 @@ href="https://github.com/topology-tool-kit/ttk/tree/e14377bc17a6e1b944224e19c3cc
         >Benchmark</a>
         </td>
       </tr>
+
+
+            <tr height="75pt"/>
+
+    <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/pdf/2212.08690"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/olejniczak_pccp23.pdf']);_gaq.push(['_trackPageview',
+          'stuff/olejniczak_pccp23.pdf_mini']);"
+        >
+        <img src='https://julien-tierny.github.io/img/olejniczak_pccp23_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2212.08690"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/olejniczak_pccp23.pdf']);_gaq.push(['_trackPageview',
+              'stuff/olejniczak_pccp23.pdf']);"
+                >
+        Topological Data Analysis of Vortices in the Magnetically-Induced Current Density in LiH Molecule
+        </a><br>
+        <br>
+        Malgorzata Olejniczak, Julien Tierny
+        <br><br>
+        <b>
+        Physical Chemistry Chemical Physics</b><br>
+        Accepted, 2023.<br>
+        <br>
+        </td>
+      </tr>
+
+
+      <tr height="75pt"/>
+
+<tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/pdf/2207.10960"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/pont_techrep22.pdf']);_gaq.push(['_trackPageview',
+          'stuff/pont_techrep22.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/pont_techrep22_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2207.10960"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/pont_techrep22.pdf']);_gaq.push(['_trackPageview',
+              'stuff/pont_techrep22.pdf']);"
+                >
+        Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams)
+        </a><br>
+        <br>
+        Mathieu Pont, Jules Vidal, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, to be presented at IEEE VIS 2023.<br>
+        <br>
+        <a target='new'
+href="https://github.com/MatPont/MT-PGA"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/pont_mtpga_code']);"
+        >Code</a> -
+         <a target='new'
+href="https://github.com/MatPont/WassersteinMergeTreesData"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/data/pont_vis21_data']);"
+        >Data</a>
+        -
+        <a target="new" href="http://www.replicabilitystamp.org/index.html#https-github-com-matpont-mt-pga">
+        Replicability stamp</a>
+        </td>
+      </tr>
+
+
+
+
 
 <tr height="75pt"/>
 
@@ -211,7 +255,7 @@ href="https://github.com/MatPont/WassersteinMergeTreesData"
               'stuff/video/vidal_technicalReport20']);"
         >Companion video</a>-->
         -
-        <a target="new" href="http://www.replicabilitystamp.org/">
+        <a target="new" href="http://www.replicabilitystamp.org/index.html#https-github-com-matpont-wassersteinmergetrees/">
         Replicability stamp</a>
         </td>
       </tr>

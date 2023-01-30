@@ -22,8 +22,8 @@ Checkout our [Jobs](/jobs/) page!
       Julien Tierny<br>
       CNRS research scientist<br>
       <a href="https://julien-tierny.github.io/" target="new">Web page</a>
-      - 
-      <a href="https://twitter.com/JulienTierny" target="new">Twitter</a>
+<!--       -  -->
+<!--       <a href="https://twitter.com/JulienTierny" target="new">Twitter</a> -->
     </td>
   </tr>
 </table>
@@ -49,6 +49,39 @@ Checkout our [Jobs](/jobs/) page!
       <a href="https://pierre.guillou.net/" target="new">Web page</a>
     </td>
   </tr>
+
+    <tr height="10px" />
+
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/faceGreen.png">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Alexandre Talon<br>
+      2023 - present<br>
+      <a href="http://perso.ens-lyon.fr/alexandre.talon/" target="new">Web page</a>
+    </td>
+  </tr>
+
+      <tr height="10px" />
+
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/faceGreen.png">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Sebastien Tchitchek<br>
+      2022 - present<br>
+      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1582" target="new">Web page</a>
+    </td>
+  </tr>
+
 </table>  
   
 
