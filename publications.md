@@ -257,7 +257,7 @@ href="https://github.com/MatPont/WassersteinMergeTreesData"
               'stuff/video/vidal_technicalReport20']);"
         >Companion video</a>-->
         -
-        <a target="new" href="http://www.replicabilitystamp.org/index.html#https-github-com-matpont-wassersteinmergetrees/">
+        <a target="new" href="http://www.replicabilitystamp.org/index.html#https-github-com-matpont-wassersteinmergetrees">
         Replicability stamp</a>
         </td>
       </tr>
