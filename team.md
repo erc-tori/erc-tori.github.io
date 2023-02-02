@@ -36,21 +36,7 @@ Checkout our [Jobs](/jobs/) page!
 # Engineers
 
 <table>
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/guillou2021.jpg">
-    </td>
-    
-<!--     <td width="10px" /> -->
-    
-    <td>
-      Pierre Guillou<br>
-      2020 - present<br>
-      <a href="https://pierre.guillou.net/" target="new">Web page</a>
-    </td>
-  </tr>
 
-    <tr height="10px" />
 
   <tr>
     <td width="20%">
@@ -155,11 +141,40 @@ target="new">Web page</a>
 
 # Master students
 <table>
+<tr>
+    <td width="20%">
+      <img width="90%" src="/img/faceGreen.png">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Baptiste Collet<br>
+      2023 - present<br>
+      <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" 
+target="new">Web page</a>
+    </td>
+  </tr>
 </table>
 
 # Alumni
 <table>
 
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/guillou2021.jpg">
+    </td>
+    
+<!--     <td width="10px" /> -->
+    
+    <td>
+      Pierre Guillou<br>
+      2020 - 2023<br>
+      <a href="https://pierre.guillou.net/" target="new">Web page</a>
+    </td>
+  </tr>
+
+    <tr height="10px" />
 
 
     <tr>
