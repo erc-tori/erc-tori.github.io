@@ -100,7 +100,9 @@ Checkout our [Jobs](/jobs/) page!
     <td>
       Eve Le Guillou<br>
       2021 - present<br>
-      <a href="" target="new">Web page</a>
+      <a href="" target="new">Web page</a><br>
+            Co-advisor: <a target="new" 
+href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
     </td>
   </tr>
 
@@ -133,7 +135,9 @@ Checkout our [Jobs](/jobs/) page!
       Keanu Sisouk<br>
       2022 - present<br>
       <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" 
-target="new">Web page</a>
+target="new">Web page</a><br>
+      Co-advisor: <a target="new" 
+href="https://judelo.github.io/">Julie Delon</a>
     </td>
   </tr>
 
