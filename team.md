@@ -40,7 +40,7 @@ Checkout our [Jobs](/jobs/) page!
 
   <tr>
     <td width="20%">
-      <img width="90%" src="/img/faceGreen.png">
+      <img width="90%" src="/img/talon2023.png">
     </td>
 
 <!--     <td width="10px" /> -->
@@ -48,7 +48,7 @@ Checkout our [Jobs](/jobs/) page!
     <td>
       Alexandre Talon<br>
       2023 - present<br>
-      <a href="http://perso.ens-lyon.fr/alexandre.talon/" target="new">Web page</a>
+      <a href="https://pagesperso.g-scop.grenoble-inp.fr/alexandretalon/" target="new">Web page</a>
     </td>
   </tr>
 
