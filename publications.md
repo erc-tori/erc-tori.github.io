@@ -92,6 +92,9 @@ e14377bc17a6e1b944224e19c3ccefa756f67d21"
          onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/software/guillou_benchmark22']);"
         >Benchmark</a>
+        -
+        <a target="new" href="http://www.replicabilitystamp.org/#https-github-com-pierre-guillou-pdiags-bench">
+        Replicability stamp</a>
         </td>
       </tr>
 
