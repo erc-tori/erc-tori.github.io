@@ -43,7 +43,7 @@ target='new'
 
 # Engineers
 - ~~Research engineer (2 years): performance in TTK~~ -- *Filled!*
-- Research engineer (2 years): extending TTK to new data types
+- ~~Research engineer (2 years): extending TTK to new data types~~ -- *Filled!*
 
 # Post-docs
 - Post-doc position (2 years): topological data analysis and visualization
@@ -56,8 +56,9 @@ target='new'
   -- *Filled!*
 - ~~Ph.D. position (3 years): statistical analysis of topological data representations~~ -- *Filled!*
 - ~~Ph.D. position (3 years): deep learning for topological data representations (CNRS 80PRIME)~~ -- *Filled!*
-- Ph.D. position (3 years): processing time series of topological data representations
-- Ph.D. position (3 years): dimensionality reduction under topological constraints
+- ~~Ph.D. position (3 years): processing time series of topological data 
+representations~~ -- *Filled!*
+<!-- - Ph.D. position (3 years): dimensionality reduction under topological constraints -->
 - Ph.D. position (3 years): topological metric learning (with the CEA)
 
 <!-- - Ph.D. position (3 years): deep learning and topological data analysis for dimensionality reduction -->
@@ -66,6 +67,8 @@ target='new'
 # Interns
 - ~~Internship (6 months): statistical analysis of topological data representations~~ -- *Filled!*
 - ~~Internship (6 months): high-performance approaches to topological data analysis~~ -- *Filled!*
-- Internship (6 months): <a href="https://julien-tierny.github.io/stuff/openPositions/internship2022.pdf"
+- ~~Internship (6 months): <a 
+href="https://julien-tierny.github.io/stuff/openPositions/internship2022.pdf"
             onClick="javascript:_gaq.push(['_trackPageview',
-            'stuff/openPositions/internship2022.pdf']);">comparing time-varying data</a>
+            'stuff/openPositions/internship2022.pdf']);">comparing time-varying 
+data</a>~~ -- *Filled!*
