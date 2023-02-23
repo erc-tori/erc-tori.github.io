@@ -230,9 +230,9 @@ please feel free to [contact us](mailto:erc.tori.project@gmail.com).
 TORI researches, designs, implements and distributes new algorithms for the interactive analysis of large collections of datasets, based on concise structural representations of the data. Our work covers new methods for the comparison of topological data representations, as well as new approaches for the computation of these representations at scale.<br>
 Checkout our [Publications](/publications/) page for more details!
 
-# TORI hires!
+<!--# TORI hires!
 If you are passionate about computer science, maths and data, come and work with us.
 <!-- If you are interested in topological data analysis, visualization and programming, come and work with us.  -->
-We have several openings for various seniority levels (engineers, post-docs, Ph.D. students, interns).<br>
-Checkout our [Jobs](/jobs/) page!
+<!--We have several openings for various seniority levels (engineers, post-docs, Ph.D. students, interns).<br>
+Checkout our [Jobs](/jobs/) page!-->
 
