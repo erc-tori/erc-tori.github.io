@@ -132,9 +132,38 @@ href="https://arxiv.org/pdf/2212.08690"
         </td>
       </tr>
 
+<tr height="75pt"/>
 
+ <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/pdf/2303.15491"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/maack_tvcg23.pdf']);_gaq.push(['_trackPageview',
+          'stuff/maack_tvcg23.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/maack_tvcg23_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2303.15491"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/maack_tvcg23.pdf']);_gaq.push(['_trackPageview',
+              'stuff/maack_tvcg23.pdf']);"
+                >
+        Parallel Computation of Piecewise Linear Morse-Smale Segmentations
+        </a><br>
+        <br>
+        Robin Maack, Jonas Lukasczyk, Julien Tierny, Hans Hagen, Ross Maciejewski, Christoph Garth
 
-
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, 2023.<br>
+        <br>
+        </td>
+      </tr>
 
 
 

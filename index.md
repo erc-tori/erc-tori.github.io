@@ -19,6 +19,20 @@ teaser: '/img/toriBanner.png'
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
+                href="https://arxiv.org/pdf/2303.15491">
+                Fast Morse-Smale segmentations</a>
+                has
+been accepted to IEEE TVCG!
+                </td>
+                <td align="right">
+                [Apr. 3, 2023]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Our paper on
+                <a target="new"
                 href="https://arxiv.org/abs/2206.13932">
                 Fast Persistence Diagram Computation</a>
                 has
