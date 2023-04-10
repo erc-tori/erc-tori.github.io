@@ -162,6 +162,8 @@ href="https://arxiv.org/pdf/2303.15491"
         <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
         Accepted, 2023.<br>
         <br>
+        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-rgcmaack-plmss-replicability-stamp">
+        Replicability stamp</a>
         </td>
       </tr>
 
