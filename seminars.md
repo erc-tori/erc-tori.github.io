@@ -36,6 +36,10 @@ Persistent homology (PH) is, arguably, the most widely used method in Topologica
 Since July 2021, Nina Otter is a Lecturer (Assistant Professor) in Mathematics of Data Science at Queen Mary University of London. Before that, she was a CAM adjunct assistant professor at UCLA, and a postdoctoral fellow at the Max Planck Institute for Mathematics in the Sciences in Leipzig. She obtained a DPhil (PhD) in Mathematics from the University of Oxford in June 2018, and an MSc and BSc in Mathematics from the ETH Zurich.
 In her research, she is interested in using methods from algebra, geometry and topology to study data. She is currently particularly interested in advancing our understanding of weather regimes using methods from topology. 
 
+<iframe width="100%" height="420"
+src="https://www.youtube.com/embed/IbOyyQSLepY" frameborder="0"
+allowfullscreen></iframe>
+
 <a name="levine22"></a>
 # July 8, 2022
 <table>
