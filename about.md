@@ -10,7 +10,7 @@ TORI (*TOpological Reduction of Information*) is a research project started in O
 [Sorbonne University](https://www.sorbonne-universite.fr/en). 
 
 Funded for a 
-duration of 5 years (until September 30, 2025), TORI gathers a 
+duration of 6 years (until September 30, 2026), TORI gathers a 
 [team](/team/) of scientists, students and engineers to advance the frontiers of computational methods for Topological Data Analysis.
 
 TORI researches, designs, implements and distributes new algorithms for the interactive analysis of large collections of datasets, based on concise structural representations of the data. Our work covers new methods for the comparison of topological data representations, as well as new approaches for the computation of these representations at scale.
