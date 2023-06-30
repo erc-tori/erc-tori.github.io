@@ -56,7 +56,7 @@ Checkout our [Jobs](/jobs/) page!
 
   <tr>
     <td width="20%">
-      <img width="90%" src="/img/faceGreen.png">
+      <img width="90%" src="/img/tchitchek2023.png">
     </td>
 
 <!--     <td width="10px" /> -->
