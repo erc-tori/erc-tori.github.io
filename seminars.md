@@ -5,6 +5,41 @@ permalink: /seminars/
 teaser: '/img/tutorial2019.jpg'
 ---
 
+<a name="otter23"></a>
+# June 2, 2023
+<table>
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/otter2023.png">
+    </td>
+    <td>
+      Nina Otter --
+      Queen Mary University of London<br>
+      <a href="https://www.ninaotter.com/" target="new">Web page</a>
+      <br>
+      <br>
+      <i>On the effectiveness of persistent homology</i>
+      <br>
+      <br>
+      <b>2pm, Sorbonne University, Room 2402
+      (<a target="new" href="https://cnrs.zoom.us/j/94892291075?pwd=RmU0MkFtSWxsTVNEbHQzSmU0OGxEUT09">Zoom Link</a>)
+      </b>
+    </td>
+  </tr>
+</table>
+
+*Abstract:* 
+Persistent homology (PH) is, arguably, the most widely used method in Topological Data Analysis. In the last decades it has been successfully applied to a variety of applications, from predicting biomolecular properties, to discriminating breast-cancer subtypes, classifying fingerprints, or studying the morphology of leaves. At the same time, the reasons behind these successes are not yet well understood. We believe that for PH to remain relevant, there is a need to better understand why it is so successful. In this talk I will discuss recent work that tries to take a first step in this direction. The talk is based on joint work with Renata Turkes and Guido Montúfar. 
+[(paper)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e637029c42aa593850eeebf46616444d-Abstract-Conference.html)
+
+*Bio:* 
+Since July 2021, Nina Otter is a Lecturer (Assistant Professor) in Mathematics of Data Science at Queen Mary University of London. Before that, she was a CAM adjunct assistant professor at UCLA, and a postdoctoral fellow at the Max Planck Institute for Mathematics in the Sciences in Leipzig. She obtained a DPhil (PhD) in Mathematics from the University of Oxford in June 2018, and an MSc and BSc in Mathematics from the ETH Zurich.
+In her research, she is interested in using methods from algebra, geometry and topology to study data. She is currently particularly interested in advancing our understanding of weather regimes using methods from topology. 
+
+<iframe width="100%" height="420"
+src="https://www.youtube.com/embed/IbOyyQSLepY" frameborder="0"
+allowfullscreen></iframe>
+
 <a name="levine22"></a>
 # July 8, 2022
 <table>

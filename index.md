@@ -17,6 +17,30 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                Nina Otter's seminar is now available 
+                <a href="seminars/index.html#otter23">online!</a>
+                </td>
+                <td align="right">
+                [Jun. 9, 2023]
+                </td>
+                </tr>
+
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Don't miss
+                <a
+                href="seminars/index.html#otter23">
+                our next
+                hybrid seminar</a> by Nina Otter on the effectiveness of persistence.
+                </td>
+                <td align="right">
+                [May 18, 2023]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
                 href="https://arxiv.org/pdf/2303.15491">
@@ -105,7 +129,7 @@ Tutorial</a>!
                 [Jun. 10, 2022]
                 </td>
                 </tr>
-
+<!--
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
@@ -118,7 +142,7 @@ Tutorial</a>!
                 <td align="right">
                 [Jun. 2, 2022]
                 </td>
-                </tr>
+                </tr>-->
 <!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
