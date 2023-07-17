@@ -99,7 +99,6 @@ Checkout our [Jobs](/jobs/) page!
       Eve Le Guillou<br>
       2022 - present<br>
       <a href="https://eve-le-guillou.github.io/" target="new">Web page</a><br>
-      <a href="" target="new">Web page</a><br>
             Co-advisor: <a target="new" 
 href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
     </td>
