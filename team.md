@@ -150,12 +150,12 @@ href="https://judelo.github.io/">Julie Delon</a>
 
 <!--     <td width="10px" /> -->
 
-    <td>
+<!--    <td>
       Baptiste Collet<br>
       2023 - present<br>
       <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" 
 target="new">Web page</a>
-    </td>
+    </td>-->
   </tr>
 </table>
 
