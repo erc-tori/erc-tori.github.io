@@ -4,6 +4,34 @@ title: Seminars
 permalink: /seminars/
 teaser: '/img/tutorial2019.jpg'
 ---
+<a name="turner23"></a>
+# November 28, 2023
+<table>
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/turner2023.png">
+    </td>
+    <td>
+      Katharine Turner --
+      Australian National University<br>
+      <a href="https://maths.anu.edu.au/people/katharine-turner" target="new">Web page</a>
+      <br>
+      <br>
+      <i>Representing Vineyard Modules</i>
+      <br>
+      <br>
+      <b>10am, Sorbonne University, Room 2402
+      (<a target="new" href="https://cnrs.zoom.us/j/97935337525?pwd=eStscnZpbm9DWlNveDJURWZRbkFjQT09">Zoom Link</a>)
+      </b>
+    </td>
+  </tr>
+</table>
+
+*Abstract:*
+Time-series of persistence diagrams, more commonly known as vineyards, are a useful way to capture how multi-scale topological features vary over time. However, as the persistent homology is calculated and considered at each time step independently we do lose significant information in how the individual persistent homology classes evolve over time. A natural algebraic version of vineyards is a time series of persistence modules equipped with interleaving maps between the persistence modules at different time stamps. Let’s call this a vineyard module. I will set up the framework for representing a vineyard module via an indexed set of vines alongside a collection of matrices. Furthermore I will outline an algorithmic way to transform the bases of the persistence modules at each time step within the vineyard module to make the matrices within this representation as simple as possible. With some reasonable assumptions (analogous to those in Cerf theory) on the vineyard modules, this simplified representation can be completely described (up to isomorphism) by the underlying vineyard and a vector of finite length. While this vector representation is not in general guaranteed to be unique we can prove that it will be always zero when the vineyard module is isomorphic to the direct sum of vine modules.
+
+*Bio:*
+
 
 <a name="otter23"></a>
 # June 2, 2023
