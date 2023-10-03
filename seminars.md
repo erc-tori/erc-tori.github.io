@@ -29,6 +29,7 @@ teaser: '/img/tutorial2019.jpg'
 
 *Abstract:*
 Time-series of persistence diagrams, more commonly known as vineyards, are a useful way to capture how multi-scale topological features vary over time. However, as the persistent homology is calculated and considered at each time step independently we do lose significant information in how the individual persistent homology classes evolve over time. A natural algebraic version of vineyards is a time series of persistence modules equipped with interleaving maps between the persistence modules at different time stamps. Let’s call this a vineyard module. I will set up the framework for representing a vineyard module via an indexed set of vines alongside a collection of matrices. Furthermore I will outline an algorithmic way to transform the bases of the persistence modules at each time step within the vineyard module to make the matrices within this representation as simple as possible. With some reasonable assumptions (analogous to those in Cerf theory) on the vineyard modules, this simplified representation can be completely described (up to isomorphism) by the underlying vineyard and a vector of finite length. While this vector representation is not in general guaranteed to be unique we can prove that it will be always zero when the vineyard module is isomorphic to the direct sum of vine modules.
+[(paper)](https://arxiv.org/abs/2307.06020)
 
 *Bio:* TBD
 
