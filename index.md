@@ -17,6 +17,32 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                Don't miss
+                <a
+                href="seminars/index.html#turner23">
+                our next
+                hybrid seminar</a> by Kate Turner on vineyard representations.
+                </td>
+                <td align="right">
+                [Nov. 28, 2023]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Join us at IEEE VIS in Melbourne for the
+                <a target="new"
+
+href="https://topology-tool-kit.github.io/ieeeVis2023Tutorial.html">2023 TTK
+Tutorial</a>!
+                </td>
+                <td align="right">
+                [Oct. 6, 2023]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 Nina Otter's seminar is now available 
                 <a href="seminars/index.html#otter23">online!</a>
                 </td>
@@ -93,7 +119,7 @@ been accepted to IEEE TVCG!
                 [Oct. 8, 2022]
                 </td>
                 </tr>
-<tr>
+<!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
                 Join us at IEEE VIS in Oklahoma City for the
@@ -128,7 +154,7 @@ Tutorial</a>!
                 <td align="right">
                 [Jun. 10, 2022]
                 </td>
-                </tr>
+                </tr>-->
 <!--
 <tr>
 <td>

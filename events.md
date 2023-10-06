@@ -18,6 +18,8 @@ Checkout this event page for seminars and tutorials!
   - [Topological Data Analysis with TTK](https://www.kitware.eu/topological-data-analysis-with-ttk-training/), June 30, 2022 -- Kitware Europe, Lyon (*hybrid event*)
   
 - <a href='../seminars/index.html'>Seminars</a>
+  - <a href='../seminars/index.html#turner23'>Katharine Turner</a>,
+  *Representing Vineyard Modules*, November 28, 2023 -- Sorbonne University.
   - <a href='../seminars/index.html#otter23'>Nina Otter</a>,
   *On the effectiveness of persistent homology*, June 2, 2023 -- Sorbonne University.
   - <a href='../seminars/index.html#levine22'>Joshua Levine</a>,
