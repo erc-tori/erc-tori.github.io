@@ -62,6 +62,22 @@ Checkout our [Jobs](/jobs/) page!
 
 <tr>
     <td width="20%">
+      <img width="90%" src="/img/faceGreen.png">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Mattéo Clémot<br>
+      2023 - present (CDSN)<br>
+      <a href="https://perso.ens-lyon.fr/matteo.clemot/" target="new">Web page</a>
+      Co-advisor: <a target="new" 
+href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a>
+    </td>
+  </tr>
+
+<tr>
+    <td width="20%">
       <img width="90%" src="/img/kissi2022.jpg">
     </td>
 
@@ -125,7 +141,7 @@ href="https://judelo.github.io/">Julie Delon</a>
     </td>
   </tr>
   
-<!--         <tr height="10px" /> -->
+        <tr height="10px" />
 
   <tr>
     <td width="20%">
@@ -136,7 +152,7 @@ href="https://judelo.github.io/">Julie Delon</a>
 
     <td>
       Sebastien Tchitchek<br>
-      2022 - present<br>
+      2023 - present<br>
       <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1582" target="new">Web page</a>
     </td>
   </tr>
