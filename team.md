@@ -52,21 +52,7 @@ Checkout our [Jobs](/jobs/) page!
     </td>
   </tr>
 
-      <tr height="10px" />
 
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/tchitchek2023.jpg">
-    </td>
-
-<!--     <td width="10px" /> -->
-
-    <td>
-      Sebastien Tchitchek<br>
-      2022 - present<br>
-      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1582" target="new">Web page</a>
-    </td>
-  </tr>
 
 </table>  
   
@@ -136,6 +122,22 @@ href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
 target="new">Web page</a><br>
       Co-advisor: <a target="new" 
 href="https://judelo.github.io/">Julie Delon</a>
+    </td>
+  </tr>
+  
+<!--         <tr height="10px" /> -->
+
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/tchitchek2023.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Sebastien Tchitchek<br>
+      2022 - present<br>
+      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1582" target="new">Web page</a>
     </td>
   </tr>
 
