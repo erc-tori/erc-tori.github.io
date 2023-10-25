@@ -98,6 +98,41 @@ e14377bc17a6e1b944224e19c3ccefa756f67d21"
         </td>
       </tr>
 
+      <tr height="75pt"/>
+      
+      <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/pdf/2308.03672"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/wetzels_vis23.pdf']);_gaq.push(['_trackPageview',
+          'stuff/wetzels_vis23.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/wetzels_vis23_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2308.03672"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/wetzels_vis23.pdf']);_gaq.push(['_trackPageview',
+              'stuff/wetzels_vis23.pdf']);"
+                >
+        Merge Tree Geodesics and Barycenters with Path Mappings
+        </a><br>
+        <br>
+        Florian Wetzels, Mathieu Pont, Julien Tierny, Christoph Garth
+
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Proc. of IEEE VIS 2023.<br>
+         <br>
+        <a target="new" href="https://github.com/vissubmission1463/ttk/">
+        Code</a>
+        </td>
+      </tr>
+      
 <tr height="75pt"/>
 
  <tr>
@@ -136,6 +171,43 @@ href="https://arxiv.org/pdf/2303.15491"
         </td>
       </tr>
 
+      <tr height="75pt"/>
+
+      <tr>
+        <td width='25%'>
+        <a
+href="https://topology-tool-kit.github.io/stuff/ttk_tutorial_vis23.pdf"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/ttk_tutorial_vis23.pdf']);_gaq.push(['_trackPageview',
+          'stuff/ttk_tutorial_vis23.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/garth_visTutorial23_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://topology-tool-kit.github.io/stuff/ttk_tutorial_vis23.pdf"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis23.pdf']);_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis23.pdf']);"
+                >
+        A Hands-on TTK Tutorial for Absolute Beginners
+        </a><br>
+        <br>
+        Christoph Garth, Robin Maack, Mathieu Pont, Julien Tierny, Bei Wang, Florian Wetzels, Michael Will
+        <br><br>
+        IEEE VIS Tutorials 2023.<br>
+        <br>
+         <a target='new'
+
+href="https://topology-tool-kit.github.io/ieeeVisTutorial.html"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/ttk_tutorial_vis23_web']);"
+        >Tutorial web page</a>
+        </td>
+      </tr>
+      
 
             <tr height="75pt"/>
 
