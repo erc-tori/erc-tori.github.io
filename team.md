@@ -70,11 +70,13 @@ Checkout our [Jobs](/jobs/) page!
     <td>
       Mattéo Clémot<br>
       2023 - present (CDSN)<br>
-      <a href="https://perso.ens-lyon.fr/matteo.clemot/" target="new">Web page</a>
+      <a href="https://perso.ens-lyon.fr/matteo.clemot/" target="new">Web page</a><br>
       Co-advisor: <a target="new" 
 href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a>
     </td>
   </tr>
+  
+  <!--     <td width="10px" /> -->
 
 <tr>
     <td width="20%">
