@@ -20,7 +20,7 @@ teaser: '/img/toriBanner.png'
                 Our paper on
                 <a target="new"
                 href="https://arxiv.org/pdf/2307.02509">
-                Wasserstein auto-encoders of topological descriptors</a>
+                Wasserstein auto-encoders</a>
                 has
 been accepted to IEEE TVCG!
                 </td>
@@ -34,7 +34,7 @@ been accepted to IEEE TVCG!
                 Our paper on
                 <a target="new"
                 href="https://arxiv.org/pdf/2304.14852">
-                Wasserstein dictionaries of persistence diagrams</a>
+                Wasserstein dictionaries</a>
                 has
 been accepted to IEEE TVCG!
                 </td>
