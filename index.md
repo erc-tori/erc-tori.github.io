@@ -17,6 +17,34 @@ teaser: '/img/toriBanner.png'
 <tr>
 <td>
                 &nbsp;&middot;&nbsp;
+                Our paper on
+                <a target="new"
+                href="https://arxiv.org/pdf/2307.02509">
+                Wasserstein auto-encoders of topological descriptors</a>
+                has
+been accepted to IEEE TVCG!
+                </td>
+                <td align="right">
+                [Nov. 13, 2023]
+                </td>
+                </tr>
+      <tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Our paper on
+                <a target="new"
+                href="https://arxiv.org/pdf/2304.14852">
+                Wasserstein dictionaries of persistence diagrams</a>
+                has
+been accepted to IEEE TVCG!
+                </td>
+                <td align="right">
+                [Oct. 23, 2023]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
                 Don't miss
                 <a
                 href="seminars/index.html#turner23">
@@ -106,7 +134,7 @@ been accepted!
                 [Jan. 12, 2023]
                 </td>
                 </tr>
-<tr>
+<!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
                 Our paper on 
@@ -118,7 +146,7 @@ been accepted to IEEE TVCG!
                 <td align="right">
                 [Oct. 8, 2022]
                 </td>
-                </tr>
+                </tr>-->
 <!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
