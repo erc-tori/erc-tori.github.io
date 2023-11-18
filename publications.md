@@ -7,6 +7,117 @@ teaser: '/img/toriBanner.png'
 
 <table>
 
+
+<tr height="75pt"/>
+
+    <tr>
+        <td width='25%'>
+        <a href="https://arxiv.org/pdf/2307.02509"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/pont_tvcg24.pdf']);_gaq.push(['_trackPageview',
+          'stuff/pont_tvcg24.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/pont_tvcg24_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2307.02509"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/pont_tvcg24.pdf']);_gaq.push(['_trackPageview',
+              'stuff/pont_tvcg24.pdf']);"
+                >
+        Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)
+        </a><br>
+        <br>
+        Mathieu Pont and Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, to be presented at IEEE VIS 2024.<br>
+        <br>
+        <a target='new'
+href="https://github.com/MatPont/MT-WAE"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/pont_wae_code']);"
+        >Code</a> 
+        </td>
+      </tr>
+           
+           <tr height="75pt"/>
+
+    <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/pdf/2304.14852"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/sisouk_tvcg24.pdf']);_gaq.push(['_trackPageview',
+          'stuff/sisouk_tvcg24.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/sisouk_tvcg24_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2304.14852"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/sisouk_tvcg24.pdf']);_gaq.push(['_trackPageview',
+              'stuff/sisouk_tvcg24.pdf']);"
+                >
+        Wasserstein Dictionaries of Persistence Diagrams
+        </a><br>
+        <br>
+        Keanu Sisouk, Julie Delon, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, to be presented at IEEE VIS 2024.<br>
+        <br>
+        <a target='new'
+href="https://github.com/Keanu-Sisouk/W2-PD-Dict.git"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/sisouk_w2pddict_code']);"
+        >Code</a> 
+        </td>
+      </tr>
+      
+      <tr height="75pt"/>
+
+    <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/pdf/2310.08339 "
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/leguillou_techrep24.pdf']);_gaq.push(['_trackPageview',
+          'stuff/leguillou_techrep24.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/leguillou_techrep24_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/pdf/2310.08339 "
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/leguillou_techrep24.pdf']);_gaq.push(['_trackPageview',
+              'stuff/leguillou_techrep24.pdf']);"
+                >
+        A Generic Software Framework for Distributed Topological Analysis Pipelines
+        </a><br>
+        <br>
+        Eve Le Guillou, Michael Will, Pierre Guillou, Jonas Lukasczyk, Pierre Fortin, Christoph Garth, Julien Tierny
+        <br><br>
+        Technical report.<br>
+        2023.<br>
+        <br>
+        <a target='new'
+href="https://github.com/eve-le-guillou/TTK-MPI-at-example"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/leguillou_ttkmpi_code']);"
+        >Code</a> 
+        </td>
+      </tr>
+
 <tr height="75pt"/>
 
 <tr>
