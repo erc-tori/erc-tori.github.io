@@ -52,27 +52,31 @@ Checkout our [Jobs](/jobs/) page!
     </td>
   </tr>
 
-      <tr height="10px" />
 
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/faceGreen.png">
-    </td>
-
-<!--     <td width="10px" /> -->
-
-    <td>
-      Sebastien Tchitchek<br>
-      2022 - present<br>
-      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1582" target="new">Web page</a>
-    </td>
-  </tr>
 
 </table>  
   
 
 # Ph.D. students
 <table>
+
+<tr>
+    <td width="20%">
+      <img width="90%" src="/img/clemot2023.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Mattéo Clémot<br>
+      2023 - present (CDSN)<br>
+      <a href="https://perso.ens-lyon.fr/matteo.clemot/" target="new">Web page</a><br>
+      Co-advisor: <a target="new" 
+href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a>
+    </td>
+  </tr>
+  
+      <tr height="10px" />
 
 <tr>
     <td width="20%">
@@ -98,7 +102,7 @@ Checkout our [Jobs](/jobs/) page!
     <td>
       Eve Le Guillou<br>
       2022 - present<br>
-      <a href="" target="new">Web page</a><br>
+      <a href="https://eve-le-guillou.github.io/" target="new">Web page</a><br>
             Co-advisor: <a target="new" 
 href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
     </td>
@@ -138,25 +142,27 @@ target="new">Web page</a><br>
 href="https://judelo.github.io/">Julie Delon</a>
     </td>
   </tr>
+  
+        <tr height="10px" />
 
-</table>
-
-# Master students
-<table>
-<tr>
+  <tr>
     <td width="20%">
-      <img width="90%" src="/img/faceGreen.png">
+      <img width="90%" src="/img/tchitchek2023.jpg">
     </td>
 
 <!--     <td width="10px" /> -->
 
     <td>
-      Baptiste Collet<br>
+      Sebastien Tchitchek<br>
       2023 - present<br>
-      <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" 
-target="new">Web page</a>
+      <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1582" target="new">Web page</a>
     </td>
   </tr>
+
+</table>
+
+# Master students
+<table>
 </table>
 
 # Alumni

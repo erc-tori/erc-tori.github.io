@@ -56,10 +56,10 @@ target='new'
   -- *Filled!*
 - ~~Ph.D. position (3 years): statistical analysis of topological data representations~~ -- *Filled!*
 - ~~Ph.D. position (3 years): deep learning for topological data representations (CNRS 80PRIME)~~ -- *Filled!*
-- Ph.D. position (3 years): processing time series of topological data 
-representations
+- ~~Ph.D. position (3 years): processing time series of topological data 
+representations~~ -- *Filled!*
 <!-- - Ph.D. position (3 years): dimensionality reduction under topological constraints -->
-- Ph.D. position (3 years): topological metric learning (with the CEA)
+<!--- Ph.D. position (3 years): topological metric learning (with the CEA)-->
 
 <!-- - Ph.D. position (3 years): deep learning and topological data analysis for dimensionality reduction -->
 

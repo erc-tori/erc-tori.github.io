@@ -9,7 +9,7 @@ Checkout this event page for seminars and tutorials!
 
 
 - Tutorials
-  - [IEEE VIS 2023's TTK tutorial](https://topology-tool-kit.github.io/ieeeVis2023Tutorial.html), Date to be announced, 2023 -- Melbourne, Australia 
+  - [IEEE VIS 2023's TTK tutorial](https://topology-tool-kit.github.io/ieeeVis2023Tutorial.html), October 22, 2023 -- Melbourne, Australia 
   - [IEEE VIS 2022's TTK tutorial](https://topology-tool-kit.github.io/ieeeVis2022Tutorial.html), October 17, 2022 -- Oklahoma City, OK, USA 
   - [IEEE VIS 2021's TTK tutorial](https://topology-tool-kit.github.io/ieeeVis2021Tutorial.html), October 24, 2021 -- New Orleans, LA, USA (*online event*)
   - [IEEE VIS 2020's TTK tutorial](https://topology-tool-kit.github.io/ieeeVis2020Tutorial.html), October 26, 2020 -- Salt Lake City, UT, USA (*online event*)
@@ -18,6 +18,8 @@ Checkout this event page for seminars and tutorials!
   - [Topological Data Analysis with TTK](https://www.kitware.eu/topological-data-analysis-with-ttk-training/), June 30, 2022 -- Kitware Europe, Lyon (*hybrid event*)
   
 - <a href='../seminars/index.html'>Seminars</a>
+  - <a href='../seminars/index.html#turner23'>Katharine Turner</a>,
+  *Representing Vineyard Modules*, November 28, 2023 -- Sorbonne University.
   - <a href='../seminars/index.html#otter23'>Nina Otter</a>,
   *On the effectiveness of persistent homology*, June 2, 2023 -- Sorbonne University.
   - <a href='../seminars/index.html#levine22'>Joshua Levine</a>,
