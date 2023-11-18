@@ -62,7 +62,7 @@ Checkout our [Jobs](/jobs/) page!
 
 <tr>
     <td width="20%">
-      <img width="90%" src="/img/faceGreen.png">
+      <img width="90%" src="/img/clemot2023.jpg">
     </td>
 
 <!--     <td width="10px" /> -->
