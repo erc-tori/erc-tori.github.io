@@ -30,6 +30,19 @@ Checkout our [Jobs](/jobs/) page!
 
 # Post-docs 
 <table>
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/pont2021.jpg">
+    </td>
+    
+<!--     <td width="10px" /> -->
+    
+    <td>
+      Mathieu Pont<br>
+      2020 - present<br>
+      <a href="https://mathieu-pont.github.io/" target="new">Web page</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -108,21 +121,7 @@ href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
     </td>
   </tr>
 
-  <tr height="10px" />
 
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/pont2021.jpg">
-    </td>
-    
-<!--     <td width="10px" /> -->
-    
-    <td>
-      Mathieu Pont<br>
-      2020 - present<br>
-      <a href="https://mathieu-pont.github.io/" target="new">Web page</a>
-    </td>
-  </tr>
   
   <tr height="10px" />
 

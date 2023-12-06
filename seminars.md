@@ -34,6 +34,9 @@ Time-series of persistence diagrams, more commonly known as vineyards, are a use
 *Bio:*
 Katharine Turner is a Senior Lecturer in the Mathematical Sciences Institute at the Australian National University (ANU). After graduating from her PhD at the University of Chicago in 2015, she did a postdoc at EPFL in a joint position between the Mathematical Statistics group and the Labortatory for Topology and Neuroscience, and in 2017 moved to ANU. Her research focuses on the theory and applications of algebraic topology for use in data science. In 2020 Katharine was awarded a prestigious Australian Research Council Discovery Early Career Fellowship for a project on “Statistical shape analysis using persistent homology”.
 
+<iframe width="100%" height="420"
+src="https://www.youtube.com/embed/e-zTMWA25vw?si=iNsh7BbpoZp0OtaY" frameborder="0"
+allowfullscreen></iframe>
 
 <a name="otter23"></a>
 # June 2, 2023
