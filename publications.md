@@ -78,6 +78,9 @@ href="https://github.com/Keanu-Sisouk/W2-PD-Dict.git"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/software/sisouk_w2pddict_code']);"
         >Code</a> 
+        -
+        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-keanu-sisouk-w2-pd-dict">
+        Replicability stamp</a>
         </td>
       </tr>
       
