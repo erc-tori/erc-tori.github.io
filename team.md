@@ -51,19 +51,7 @@ Checkout our [Jobs](/jobs/) page!
 <table>
 
 
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/talon2023.png">
-    </td>
 
-<!--     <td width="10px" /> -->
-
-    <td>
-      Alexandre Talon<br>
-      2023 - present<br>
-      <a href="https://pagesperso.g-scop.grenoble-inp.fr/alexandretalon/" target="new">Web page</a>
-    </td>
-  </tr>
 
 
 
@@ -195,6 +183,22 @@ href="https://judelo.github.io/">Julie Delon</a>
       Hugo Manet<br>
       2020 - 2021<br>
       <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1481&LANG=en" target="new">Web page</a>
+    </td>
+  </tr>
+  
+  <tr height="10px" />
+  
+    <tr>
+    <td width="20%">
+      <img width="90%" src="/img/talon2023.png">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Alexandre Talon<br>
+      2023 - present<br>
+      <a href="https://pagesperso.g-scop.grenoble-inp.fr/alexandretalon/" target="new">Web page</a>
     </td>
   </tr>
   
