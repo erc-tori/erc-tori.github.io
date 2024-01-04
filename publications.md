@@ -437,7 +437,33 @@ href="https://topology-tool-kit.github.io/ieeeVisTutorial.html"
         >Tutorial web page</a>
         </td>
       </tr>
+      
+<tr height="75pt"/>
 
+<tr>
+        <td width='30%'>
+        <a
+href="stuff/vidal_phd21.pdf"
+target='new'
+        >
+          <img src='https://julien-tierny.github.io/img/vidal_vis19_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="stuff/vidal_phd21.pdf"
+                >
+        Progressivity in Topological Data Analysis
+        </a><br>
+        <br>
+        Jules Vidal
+        <br><br>
+        <b>Ph.D. Thesis</b><br><br>
+        Committee:
+        M. Aupetit (Reviewer), F. Chazal (Reviewer), I. Bloch, D. Coeurjolly, J.D. Fekete, G. Peyré, V. Robins, J. Tierny (Advisor)
+        </td>
+      </tr>
+      
   <tr height="75pt"/>
 
 <tr>
