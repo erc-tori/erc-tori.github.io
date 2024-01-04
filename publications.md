@@ -458,8 +458,9 @@ href="stuff/vidal_phd21.pdf"
         <br>
         Jules Vidal
         <br><br>
-        <b>Ph.D. Thesis</b><br><br>
-        Committee:
+        <b>Ph.D. Thesis</b><br>
+        December 2021<br><br>
+        <i>Committee:</i>
         M. Aupetit (Reviewer), F. Chazal (Reviewer), I. Bloch, D. Coeurjolly, J.D. Fekete, G. Peyré, V. Robins, J. Tierny (Advisor)
         </td>
       </tr>
