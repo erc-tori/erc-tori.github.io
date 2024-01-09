@@ -96,8 +96,7 @@ target='new'
         </td>
         <td width="2%" />
         <td width="77%">
-                <a target='new'
-href="/stuff/pont_phd23.pdf"
+                <a target='new' href="/stuff/pont_phd23.pdf"
                 >
         Analysis of Ensembles of Topological Descriptors
         </a><br>
