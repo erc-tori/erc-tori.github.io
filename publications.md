@@ -86,6 +86,35 @@ href="https://github.com/Keanu-Sisouk/W2-PD-Dict.git"
       
       <tr height="75pt"/>
 
+      <tr>
+        <td width='30%'>
+        <a
+href="stuff/pont_phd23.pdf"
+target='new'
+        >
+          <img src='img/pont_phd.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="stuff/pont_phd23.pdf"
+                >
+        Analysis of Ensembles of Topological Descriptors
+        </a><br>
+        <br>
+        Mathieu Pont
+        <br><br>
+        <b>Ph.D. Thesis</b><br>
+        December 2023<br><br>
+        <i>Committee:</i>
+        D. Coeurjolly (Reviewer), V. Natarajan (Reviewer), E. Cazelles, S. Durrleman, G. Peyré, K. Turner, J. Tierny (Advisor)
+        </td>
+      </tr>
+      
+  <tr height="75pt"/>
+      
+      
+      
     <tr>
         <td width='25%'>
         <a
