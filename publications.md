@@ -92,7 +92,7 @@ href="https://github.com/Keanu-Sisouk/W2-PD-Dict.git"
 href="stuff/pont_phd23.pdf"
 target='new'
         >
-          <img src='img/pont_phd.png' width="100%"/></a>
+          <img src='/img/pont_phd.png' width="100%"/></a>
         </td>
         <td width="2%" />
         <td width="77%">
