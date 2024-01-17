@@ -197,7 +197,7 @@ href="https://judelo.github.io/">Julie Delon</a>
 
     <td>
       Alexandre Talon<br>
-      2023 - present<br>
+      2023 - 2024<br>
       <a href="https://pagesperso.g-scop.grenoble-inp.fr/alexandretalon/" target="new">Web page</a>
     </td>
   </tr>
