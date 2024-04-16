@@ -19,6 +19,20 @@ teaser: '/img/toriBanner.png'
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
+                href="https://arxiv.org/pdf/2310.08339">
+                MPI distributed computations in TTK</a>
+                has
+been accepted to IEEE TVCG!
+                </td>
+                <td align="right">
+                [Apr. 6, 2024]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Our paper on
+                <a target="new"
                 href="https://arxiv.org/pdf/2307.02509">
                 Wasserstein auto-encoders</a>
                 has
@@ -92,7 +106,7 @@ Tutorial</a>!
                 [May 18, 2023]
                 </td>
                 </tr>
-<tr>
+<!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
                 Our paper on
@@ -133,7 +147,7 @@ been accepted!
                 <td align="right">
                 [Jan. 12, 2023]
                 </td>
-                </tr>
+                </tr>-->
 <!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
