@@ -42,12 +42,12 @@ target='new'
 
 
 # Engineers
-- ~~Research engineer (2 years): performance in TTK~~ -- *Filled!*
 - ~~Research engineer (2 years): extending TTK to new data types~~ -- *Filled!*
+- Research engineer (1 year, possible followup): performance in TTK
 
 # Post-docs
-- Post-doc position (2 years): topological data analysis and visualization
-<!-- - Post-doc position (2 years): high-performance topological data analysis -->
+<!-- - Post-doc position (2 years): topological data analysis and visualization -->
+- Post-doc position (1 year, possible followup): high performance computing for topological data analysis
 
 # Ph.D. students
 - ~~Ph.D. position (3 years): comparing topological data representations~~
@@ -56,8 +56,7 @@ target='new'
   -- *Filled!*
 - ~~Ph.D. position (3 years): statistical analysis of topological data representations~~ -- *Filled!*
 - ~~Ph.D. position (3 years): deep learning for topological data representations (CNRS 80PRIME)~~ -- *Filled!*
-- ~~Ph.D. position (3 years): processing time series of topological data 
-representations~~ -- *Filled!*
+- ~~Ph.D. position (3 years): processing time series of topological data representations~~ -- *Filled!*
 <!-- - Ph.D. position (3 years): dimensionality reduction under topological constraints -->
 <!--- Ph.D. position (3 years): topological metric learning (with the CEA)-->
 
