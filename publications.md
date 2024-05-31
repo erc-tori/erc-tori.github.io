@@ -123,6 +123,9 @@ href="https://github.com/eve-le-guillou/TTK-MPI-at-example"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/software/leguillou_ttkmpi_code']);"
         >Code</a>
+        -
+        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-eve-le-guillou-ttk-mpi-at-example">
+        Replicability stamp</a>
         </td>
       </tr>
       
