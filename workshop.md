@@ -9,14 +9,6 @@ Welcome to the webpage of the [TORI](https://erc-tori.github.io/) Workshop!
 
 [![test](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)
 
-|Column 1|Column 2|
-|--------|--------|
-| Test   | go!    |
-| Again  | yes!   |
-
-
-|[![test](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)|[![test](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)|
-
 # About
 The TORI workshop is an **invitation-only**, retreat-style (Dagstuhl-like) workshop on topological methods for data analysis and visualization. It is funded by the [ERC](https://erc.europa.eu/) project [TORI](https://erc-tori.github.io/) and organized to mark the end of this project. Its goal is to summarize and communicate around the major results of the community over the last five years in the fields of topological data description and analysis, and to discuss the most vibrant perspectives for the future.
 
@@ -26,13 +18,12 @@ Each day is organized around three 1-hour sessions of short talks (typically, th
 
 Lunches and dinners would be provided on site, to also contribute to a friendly and collaborative atmosphere.
 
-# Location
+# Venue
 
 We are currently working towards organizing the workshop on the 
 [Opal Cost](https://en.wikipedia.org/wiki/C%C3%B4te_d%27Opale), in particular in 
-[Wimereux](https://en.wikipedia.org/wiki/Wimereux), a beautiful and historical seaside resort in the north of France (pictures above). Alternatively, the workshop could be hosted at [Sorbonne University](https://www.sorbonne-universite.fr/en) in Paris.
+[Wimereux](https://en.wikipedia.org/wiki/Wimereux), a beautiful and historical seaside resort in the north of France (pictures below). Alternatively, the workshop could be hosted at [Sorbonne University](https://www.sorbonne-universite.fr/en) in Paris.
 
-[![test](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)
 
 # Dates
 June 30, 2026 to July 3, 2026.
@@ -42,3 +33,13 @@ TBD.
 
 # Invited speakers
 TBD.
+
+# Location
+
+
+[![test](https://fr.wikipedia.org/wiki/Wimereux#/media/Fichier:Cap_Blanc-Nez.jpg)](https://fr.wikipedia.org/wiki/Wimereux#/media/Fichier:Cap_Blanc-Nez.jpg)
+
+[![test](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LL_49_-_WIMEREUX_-_La_Rue_Carnot.JPG/800px-LL_49_-_WIMEREUX_-_La_Rue_Carnot.JPG?20121203063917)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LL_49_-_WIMEREUX_-_La_Rue_Carnot.JPG/800px-LL_49_-_WIMEREUX_-_La_Rue_Carnot.JPG?20121203063917)
+
+[![test](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG/800px-0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG?20140327131419)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG/800px-0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG?20140327131419)
+
