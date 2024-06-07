@@ -33,6 +33,12 @@ TBA.
 # Invited speakers
 TBA.
 
+# Schedule 
+TBA.
+
+# Travel
+TBA.
+
 <a name="pictures">
 # Pictures
 
