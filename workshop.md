@@ -18,7 +18,7 @@ Each day is organized around three 1-hour sessions of short talks (typically, th
 
 Lunches and dinners would be provided on site, to also contribute to a friendly and collaborative atmosphere.
 
-# Venue
+# Location
 
 We are currently working towards organizing the workshop on the 
 [Opal Cost](https://en.wikipedia.org/wiki/C%C3%B4te_d%27Opale), in particular in 
@@ -34,7 +34,7 @@ TBD.
 # Invited speakers
 TBD.
 
-# Location
+# Pictures
 
 [![test](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cap_Blanc-Nez.jpg/800px-Cap_Blanc-Nez.jpg?20190602152204)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cap_Blanc-Nez.jpg/800px-Cap_Blanc-Nez.jpg?20190602152204)
 
