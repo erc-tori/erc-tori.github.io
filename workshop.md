@@ -21,7 +21,7 @@ Lunches and dinners would be provided on site, to also contribute to a friendly 
 
 We are currently working towards organizing the workshop on the 
 [Opal Cost](https://en.wikipedia.org/wiki/C%C3%B4te_d%27Opale), in particular in 
-[Wimereux](https://en.wikipedia.org/wiki/Wimereux), a beautiful and historical seaside resort in the north of France (pictures below). Alternatively, the workshop could be hosted at [Sorbonne University](https://www.sorbonne-universite.fr/en) in Paris.
+[Wimereux](https://en.wikipedia.org/wiki/Wimereux), a beautiful and historical seaside resort in the north of France (<a href='../workshop.html#pictures'>pictures below</a>). Alternatively, the workshop could be hosted at [Sorbonne University](https://www.sorbonne-universite.fr/en) in Paris.
 
 
 # Dates
@@ -33,7 +33,10 @@ TBD.
 # Invited speakers
 TBD.
 
+<a name="pictures">
 # Pictures
+</a>
+
 
 [![test](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cap_Blanc-Nez.jpg/800px-Cap_Blanc-Nez.jpg?20190602152204)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cap_Blanc-Nez.jpg/800px-Cap_Blanc-Nez.jpg?20190602152204)
 
