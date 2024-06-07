@@ -28,7 +28,8 @@ We are currently working towards organizing the workshop on the
 June 30, 2026 to July 3, 2026.
 
 # Keynote speakers
-TBA.
+- [Valerio Pasccci](https://www.sci.utah.edu/people/pascucci) (confirmed)
+More keynote speakers TBA.
 
 # Invited speakers
 TBA.
