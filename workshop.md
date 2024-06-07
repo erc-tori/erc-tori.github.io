@@ -16,9 +16,10 @@ Each day is organized around three 1-hour sessions of short talks (typically, th
 
 Lunches and dinners would be provided on site, to also contribute to a friendly and collaborative atmosphere.
 
-[![test](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)
-
 # Location
+
+[picture 1)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wimereux_estuaire.jpg/800px-Wimereux_estuaire.jpg?20140310224706)
+
 We are currently working towards organizing the workshop on the 
 [Opal Cost](https://en.wikipedia.org/wiki/C%C3%B4te_d%27Opale), in particular in 
 [Wimereux](https://en.wikipedia.org/wiki/Wimereux), which is a beautiful historical seaside resort in the north of France. Alternatively, the workshop could be hosted at [Sorbonne University](https://www.sorbonne-universite.fr/en) in Paris.
