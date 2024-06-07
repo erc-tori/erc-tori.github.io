@@ -13,9 +13,8 @@ Welcome to the webpage of the [TORI](https://erc-tori.github.io/) Workshop!
 The TORI workshop is an **invitation-only**, retreat-style (Dagstuhl-like) workshop on topological methods for data analysis and visualization. It is funded by the [ERC](https://erc.europa.eu/) project [TORI](https://erc-tori.github.io/) and organized to mark the end of this project. Its goal is to summarize and communicate around the major results of the community over the last five years in the fields of topological data description and analysis, and to discuss the most vibrant perspectives for the future.
 
 # Concept
-The event is organized as a 3.5 day workshop, with a distinct distinguished keynote each day.
-Each day is organized around three 1-hour sessions of short talks (typically, three talks of 15 minutes), with several 1-hour breakouts, to favor informal discussions, meet ups and relaxation.
-
+The event is organized as a 3.5 day workshop, with a distinct distinguished keynote held each day.
+Each day is organized around three 1-hour sessions of short talks (typically, three talks of 15 minutes), with several 1-hour breakouts, to favor informal discussions, meetups and relaxation.
 Lunches and dinners would be provided on site, to also contribute to a friendly and collaborative atmosphere.
 
 # Location
