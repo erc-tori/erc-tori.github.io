@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workshop
-permalink: /about/
+permalink: /workshop/
 teaser: '/img/toriBanner.png'
 ---
 
