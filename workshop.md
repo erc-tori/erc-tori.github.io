@@ -35,7 +35,6 @@ TBA.
 
 <a name="pictures">
 # Pictures
-</a>
 
 
 [![test](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cap_Blanc-Nez.jpg/800px-Cap_Blanc-Nez.jpg?20190602152204)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cap_Blanc-Nez.jpg/800px-Cap_Blanc-Nez.jpg?20190602152204)
