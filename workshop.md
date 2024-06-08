@@ -28,6 +28,7 @@ We are currently working towards organizing the workshop on the
 June 30, 2026 to July 3, 2026.
 
 # Keynote speakers
+- [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. (confirmed)
 - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA. (confirmed)
 
 More keynote speakers TBA.
