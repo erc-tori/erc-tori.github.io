@@ -29,6 +29,7 @@ June 30, 2026 to July 3, 2026.
 
 # Keynote speakers
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. 
+- [Facundo Memoli](https://facundo-memoli.org/), Ohio State University, USA.
 - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
 
 More keynote speakers TBA.
