@@ -19,7 +19,21 @@ teaser: '/img/toriBanner.png'
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
-                href="https://arxiv.org/pdf/2310.08339">
+                href="https://arxiv.org/abs/2407.12399">
+                Topological Simplification Optimization</a>
+                has
+been accepted to IEEE VIS!
+                </td>
+                <td align="right">
+                [Aug. 21, 2024]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Our paper on
+                <a target="new"
+                href="https://arxiv.org/abs/2310.08339">
                 MPI distributed computations in TTK</a>
                 has
 been accepted to IEEE TVCG!
@@ -33,7 +47,7 @@ been accepted to IEEE TVCG!
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
-                href="https://arxiv.org/pdf/2307.02509">
+                href="https://arxiv.org/abs/2307.02509">
                 Wasserstein auto-encoders</a>
                 has
 been accepted to IEEE TVCG!
@@ -47,7 +61,7 @@ been accepted to IEEE TVCG!
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
-                href="https://arxiv.org/pdf/2304.14852">
+                href="https://arxiv.org/abs/2304.14852">
                 Wasserstein dictionaries</a>
                 has
 been accepted to IEEE TVCG!
@@ -82,7 +96,7 @@ Tutorial</a>!
                 [Oct. 6, 2023]
                 </td>
                 </tr>
-<tr>
+<!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
                 Nina Otter's seminar is now available 
@@ -105,7 +119,7 @@ Tutorial</a>!
                 <td align="right">
                 [May 18, 2023]
                 </td>
-                </tr>
+                </tr>-->
 <!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
