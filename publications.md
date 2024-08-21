@@ -63,8 +63,6 @@ href="https://arxiv.org/abs/2408.04769"
         </td>
       </tr>
 
-           <tr height="75pt"/>
-
 <tr height="75pt"/>
 
     <tr>
