@@ -39,7 +39,7 @@ href="https://github.com/MohamedKISSI/Code-Paper-A-Pratical-Solver-for-Scalar-Da
         </td>
       </tr>
 
-           <tr height="30pt"/>
+           <tr height="75pt"/>
 
         <tr>
         <td width='25%'>
