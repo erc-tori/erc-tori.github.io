@@ -60,7 +60,6 @@ href="https://arxiv.org/abs/2408.04769"
         <br><br>
         <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
         Proc. of IEEE VIS 2024.<br>
-        <br>
         </td>
       </tr>
 
