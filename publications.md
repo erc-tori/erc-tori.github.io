@@ -7,44 +7,90 @@ teaser: '/img/toriBanner.png'
 
 <table>
 
-<tr height="75pt"/>
+<tr>
+        <td width='30%'>
+          <h3 class="highlight">Research</h3>
+        </td>
+        <td><h3 class="highlight" width="3%">|</h3>
+        </td>
+        <td width='30%'>
+          <h3 class="normal"><a class="teaser"
+href="teaching.html">Teaching</a></h3>
+        </td>
+        <td><h3 class="highlight" width="3%">|</h3>
+        </td>
+        <td width='30%'>
+          <h3 class="normal"><a class="teaser" href="misc.html">Misc</a></h3>
+        </td>
+        <td><h3 class="highlight" width="3">|</h3>
+        </td>
+      </tr>
+    </table>
+
+<!-- <br> -->
+<!-- <br><br> -->
+
+
+    <table width='800px'>
+
+        <tr height="75pt"/>
 
     <tr>
         <td width='25%'>
-        <a href="https://arxiv.org/abs/2307.02509"
+        <a
+href="https://arxiv.org/abs/2407.12399"
 target='new'
-          onClick="javascript:_gaq.push(['_trackPageview',
-          'stuff/pont_tvcg24.pdf']);_gaq.push(['_trackPageview',
-          'stuff/pont_tvcg24.pdf_mini']);"
         >
-          <img src='https://julien-tierny.github.io/img/pont_tvcg24_mini.png' width="100%"/></a>
+          <img src='https://julien-tierny.github.io/img/kissi_vis24_mini.png' width="100%"/></a>
         </td>
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/abs/2307.02509"
-                onClick="javascript:_gaq.push(['_trackPageview',
-              'stuff/pont_tvcg24.pdf']);_gaq.push(['_trackPageview',
-              'stuff/pont_tvcg24.pdf']);"
+href="https://arxiv.org/abs/2407.12399"
                 >
-        Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)
+        A Practical Solver for Scalar Data Topological Simplification
         </a><br>
         <br>
-        Mathieu Pont and Julien Tierny
+        Mohamed Kissi, Mathieu Pont, Joshua A. Levine, Julien Tierny
         <br><br>
         <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
-        Accepted, to be presented at IEEE VIS 2024.<br>
+        Proc. of IEEE VIS 2024.<br>
         <br>
         <a target='new'
-href="https://github.com/MatPont/MT-WAE"
-                onClick="javascript:_gaq.push(['_trackPageview',
-              'stuff/software/pont_wae_code']);"
+href="https://github.com/MohamedKISSI/Code-Paper-A-Pratical-Solver-for-Scalar-Data-Topological-Simplification"
         >Code</a>
          -
-        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-matpont-mt-wae">
+        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-mohamedkissi-code-paper-a-pratical-solver-for-scalar-data-topological-simplification">
         Replicability stamp</a>
         </td>
       </tr>
+
+           <tr height="30pt"/>
+
+        <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2408.04769"
+target='new'>
+          <img src='https://julien-tierny.github.io/img/finken_vis24_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/abs/2408.04769"
+                >
+        Localized Evaluation for Constructing Discrete Vector Fields
+        </a><br>
+        <br>
+        Tanner Finken, Julien Tierny, Joshua A. Levine
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Proc. of IEEE VIS 2024.<br>
+        <br>
+        </td>
+      </tr>
+
+           <tr height="75pt"/>
 
 <tr height="75pt"/>
 
@@ -168,6 +214,62 @@ href="https://github.com/eve-le-guillou/TTK-MPI-at-example"
       </tr>
       
       <tr height="75pt"/>
+
+       <tr>
+        <td width='25%'>
+        <a
+href=""
+target='new'
+        >
+          <img src='https://julien-tierny.github.io/img/will_ldav24_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href=""
+                >
+        Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components
+        </a><br>
+        <br>
+        Michael Will,
+        Jonas Lukasczyk,
+        Julien Tierny,
+        Christoph Garth
+        <br><br>
+        Proc. of IEEE Symposium on Large Data Analysis and Visualization 2024.<br>
+        <br>
+        </td>
+      </tr>
+
+    <tr height="75pt"/>
+
+        <tr>
+        <td width='25%'>
+        <a
+href=""
+target='new'
+        >
+          <img src='https://julien-tierny.github.io/img/vivodtzev_ldav24_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href=""
+                >
+        Identifying Locally Turbulent Vortices within Instabilities
+        </a><br>
+        <br>
+        Fabien Vivodtzev,
+        Florent Nauleau,
+        Jean-Philippe Braeunig,
+        Julien Tierny,
+        <br><br>
+        Proc. of IEEE Symposium on Large Data Analysis and Visualization 2024 (poster).<br>
+        <br>
+        </td>
+      </tr>
+
+    <tr height="75pt"/>
 
       <tr>
         <td width='30%'>
