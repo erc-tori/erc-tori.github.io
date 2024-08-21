@@ -19,7 +19,61 @@ teaser: '/img/toriBanner.png'
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
-                href="https://arxiv.org/pdf/2310.08339">
+                href="https://arxiv.org/abs/2407.12399">
+                Topological Simplification Optimization</a>
+                has
+been accepted to IEEE VIS!
+                </td>
+                <td align="right">
+                [Aug. 21, 2024]
+                </td>
+                </tr>
+      <tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Our paper on
+                <a target="new"
+                href="https://arxiv.org/abs/2408.04769">
+                Localized Discrete Vector Field Construction</a>
+                has
+been accepted to IEEE VIS!
+                </td>
+                <td align="right">
+                [Aug. 21, 2024]
+                </td>
+                </tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Our paper on
+                <a target="new"
+                href="">
+                Distributed Path Compression</a>
+                has
+been accepted to IEEE LDAV!
+                </td>
+                <td align="right">
+                [Aug. 21, 2024]
+                </td>
+</tr>
+                <td>
+                &nbsp;&middot;&nbsp;
+                Our poster on
+                <a target="new"
+                href="">
+                Locally Turbulent Vortex Detection</a>
+                has
+been accepted to IEEE LDAV!
+                </td>
+                <td align="right">
+                [Aug. 21, 2024]
+                </td>
+                </tr>
+<tr>
+<td>
+                &nbsp;&middot;&nbsp;
+                Our paper on
+                <a target="new"
+                href="https://arxiv.org/abs/2310.08339">
                 MPI distributed computations in TTK</a>
                 has
 been accepted to IEEE TVCG!
@@ -33,7 +87,7 @@ been accepted to IEEE TVCG!
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
-                href="https://arxiv.org/pdf/2307.02509">
+                href="https://arxiv.org/abs/2307.02509">
                 Wasserstein auto-encoders</a>
                 has
 been accepted to IEEE TVCG!
@@ -47,7 +101,7 @@ been accepted to IEEE TVCG!
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
-                href="https://arxiv.org/pdf/2304.14852">
+                href="https://arxiv.org/abs/2304.14852">
                 Wasserstein dictionaries</a>
                 has
 been accepted to IEEE TVCG!
@@ -111,7 +165,7 @@ Tutorial</a>!
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
-                href="https://arxiv.org/pdf/2303.15491">
+                href="https://arxiv.org/abs/2303.15491">
                 Fast Morse-Smale segmentations</a>
                 has
 been accepted to IEEE TVCG!
@@ -139,7 +193,7 @@ been accepted to IEEE TVCG!
                 &nbsp;&middot;&nbsp;
                 Our paper on the
                 <a target="new"
-                href="https://arxiv.org/pdf/2212.08690">
+                href="https://arxiv.org/abs/2212.08690">
                 topological analysis of molecular magnetic currents</a>
                 has
 been accepted!
@@ -281,7 +335,7 @@ Tutorial</a>!
     &nbsp;&middot;&nbsp;
     Our paper on
     <a target="new"
-                href="https://arxiv.org/pdf/2108.05766">
+                href="https://arxiv.org/abs/2108.05766">
     Persistence Diagram Approximation</a>
     has been accepted to
     <a href="https://ldav.org/2021/" target="new">IEEE LDAV</a>!
@@ -295,7 +349,7 @@ Tutorial</a>!
     &nbsp;&middot;&nbsp;
     Our paper on
     <a target="new"
-                href="https://arxiv.org/pdf/2107.07789">
+                href="https://arxiv.org/abs/2107.07789">
     Wasserstein barycenters of Merge Trees</a>
     has been accepted to
     <a href="http://ieeevis.org/year/2021/welcome" target="new">IEEE VIS</a>!

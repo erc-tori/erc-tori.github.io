@@ -7,12 +7,11 @@ teaser: '/img/toriBanner.png'
 
 <table>
 
-
 <tr height="75pt"/>
 
     <tr>
         <td width='25%'>
-        <a href="https://arxiv.org/pdf/2307.02509"
+        <a href="https://arxiv.org/abs/2307.02509"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/pont_tvcg24.pdf']);_gaq.push(['_trackPageview',
@@ -23,7 +22,46 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2307.02509"
+href="https://arxiv.org/abs/2307.02509"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/pont_tvcg24.pdf']);_gaq.push(['_trackPageview',
+              'stuff/pont_tvcg24.pdf']);"
+                >
+        Wasserstein Auto-Encoders of Merge Trees (and Persistence Diagrams)
+        </a><br>
+        <br>
+        Mathieu Pont and Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, to be presented at IEEE VIS 2024.<br>
+        <br>
+        <a target='new'
+href="https://github.com/MatPont/MT-WAE"
+                onClick="javascript:_gaq.push(['_trackPageview',
+              'stuff/software/pont_wae_code']);"
+        >Code</a>
+         -
+        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-matpont-mt-wae">
+        Replicability stamp</a>
+        </td>
+      </tr>
+
+<tr height="75pt"/>
+
+    <tr>
+        <td width='25%'>
+        <a href="https://arxiv.org/abs/2307.02509"
+target='new'
+          onClick="javascript:_gaq.push(['_trackPageview',
+          'stuff/pont_tvcg24.pdf']);_gaq.push(['_trackPageview',
+          'stuff/pont_tvcg24.pdf_mini']);"
+        >
+          <img src='https://julien-tierny.github.io/img/pont_tvcg24_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/abs/2307.02509"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/pont_tvcg24.pdf']);_gaq.push(['_trackPageview',
               'stuff/pont_tvcg24.pdf']);"
@@ -52,7 +90,7 @@ href="https://github.com/MatPont/MT-WAE"
     <tr>
         <td width='25%'>
         <a
-href="https://arxiv.org/pdf/2304.14852"
+href="https://arxiv.org/abs/2304.14852"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/sisouk_tvcg24.pdf']);_gaq.push(['_trackPageview',
@@ -63,7 +101,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2304.14852"
+href="https://arxiv.org/abs/2304.14852"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/sisouk_tvcg24.pdf']);_gaq.push(['_trackPageview',
               'stuff/sisouk_tvcg24.pdf']);"
@@ -94,7 +132,7 @@ href="https://github.com/Keanu-Sisouk/W2-PD-Dict.git"
     <tr>
         <td width='25%'>
         <a
-href="https://arxiv.org/pdf/2310.08339"
+href="https://arxiv.org/abs/2310.08339"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/leguillou_techrep24.pdf']);_gaq.push(['_trackPageview',
@@ -105,7 +143,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2310.08339 "
+href="https://arxiv.org/abs/2310.08339 "
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/leguillou_techrep24.pdf']);_gaq.push(['_trackPageview',
               'stuff/leguillou_techrep24.pdf']);"
@@ -162,7 +200,7 @@ target='new'
 <tr>
         <td width='25%'>
         <a
-href="https://arxiv.org/pdf/2207.10960"
+href="https://arxiv.org/abs/2207.10960"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/pont_techrep22.pdf']);_gaq.push(['_trackPageview',
@@ -173,7 +211,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2207.10960"
+href="https://arxiv.org/abs/2207.10960"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/pont_techrep22.pdf']);_gaq.push(['_trackPageview',
               'stuff/pont_techrep22.pdf']);"
@@ -207,7 +245,7 @@ href="https://github.com/MatPont/WassersteinMergeTreesData"
 <tr>
         <td width='25%'>
         <a
-href="https://arxiv.org/pdf/2206.13932"
+href="https://arxiv.org/abs/2206.13932"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/guillou_techrep22.pdf']);_gaq.push(['_trackPageview',
@@ -218,7 +256,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2206.13932"
+href="https://arxiv.org/abs/2206.13932"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/guillou_techrep22.pdf']);_gaq.push(['_trackPageview',
               'stuff/guillou_techrep22.pdf']);"
@@ -253,7 +291,7 @@ e14377bc17a6e1b944224e19c3ccefa756f67d21"
       <tr>
         <td width='25%'>
         <a
-href="https://arxiv.org/pdf/2308.03672"
+href="https://arxiv.org/abs/2308.03672"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/wetzels_vis23.pdf']);_gaq.push(['_trackPageview',
@@ -264,7 +302,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2308.03672"
+href="https://arxiv.org/abs/2308.03672"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/wetzels_vis23.pdf']);_gaq.push(['_trackPageview',
               'stuff/wetzels_vis23.pdf']);"
@@ -288,7 +326,7 @@ href="https://arxiv.org/pdf/2308.03672"
  <tr>
         <td width='25%'>
         <a
-href="https://arxiv.org/pdf/2303.15491"
+href="https://arxiv.org/abs/2303.15491"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/maack_tvcg23.pdf']);_gaq.push(['_trackPageview',
@@ -299,7 +337,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2303.15491"
+href="https://arxiv.org/abs/2303.15491"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/maack_tvcg23.pdf']);_gaq.push(['_trackPageview',
               'stuff/maack_tvcg23.pdf']);"
@@ -327,7 +365,7 @@ href="https://arxiv.org/pdf/2303.15491"
     <tr>
         <td width='25%'>
         <a
-href="https://arxiv.org/pdf/2212.08690"
+href="https://arxiv.org/abs/2212.08690"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/olejniczak_pccp23.pdf']);_gaq.push(['_trackPageview',
@@ -338,7 +376,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2212.08690"
+href="https://arxiv.org/abs/2212.08690"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/olejniczak_pccp23.pdf']);_gaq.push(['_trackPageview',
               'stuff/olejniczak_pccp23.pdf']);"
@@ -405,7 +443,7 @@ href="https://topology-tool-kit.github.io/ieeeVisTutorial.html"
 <tr>
         <td width='30%'>
         <a
-href="https://arxiv.org/pdf/2207.14080"
+href="https://arxiv.org/abs/2207.14080"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/nauleau_ldav22.pdf']);_gaq.push(['_trackPageview',
@@ -416,7 +454,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2207.14080"
+href="https://arxiv.org/abs/2207.14080"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/nauleau_ldav22.pdf']);_gaq.push(['_trackPageview',
               'stuff/nauleau_ldav22.pdf']);"
@@ -506,7 +544,7 @@ href="/stuff/vidal_phd21.pdf"
 <tr>
         <td width='30%'>
         <a
-href="https://arxiv.org/pdf/2107.07789"
+href="https://arxiv.org/abs/2107.07789"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/pont_vis21.pdf']);_gaq.push(['_trackPageview',
@@ -517,7 +555,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2107.07789"
+href="https://arxiv.org/abs/2107.07789"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/pont_vis21.pdf']);_gaq.push(['_trackPageview',
               'stuff/pont_vis21.pdf']);"
@@ -558,7 +596,7 @@ href="https://github.com/MatPont/WassersteinMergeTreesData"
       <tr>
         <td width='25%'>
         <a
-href="https://arxiv.org/pdf/2108.05766"
+href="https://arxiv.org/abs/2108.05766"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/vidal_ldav21.pdf']);_gaq.push(['_trackPageview',
@@ -569,7 +607,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href="https://arxiv.org/pdf/2108.05766"
+href="https://arxiv.org/abs/2108.05766"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/vidal_ldav21.pdf']);_gaq.push(['_trackPageview',
               'stuff/vidal_ldav21.pdf']);"
@@ -634,7 +672,7 @@ href="https://topology-tool-kit.github.io/ieeeVisTutorial.html"
   <tr>
         <td width='25%'>
         <a 
-href="https://arxiv.org/pdf/2009.01512" 
+href="https://arxiv.org/abs/2009.01512"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/doraiswamy_vis20.pdf']);_gaq.push(['_trackPageview',
@@ -645,7 +683,7 @@ target='new'
         <td width="5%" />
         <td width="100%">
                 <a target='new' 
-href="https://arxiv.org/pdf/2009.01512"
+href="https://arxiv.org/abs/2009.01512"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/doraiswamy_vis20.pdf']);_gaq.push(['_trackPageview',
               'stuff/doraiswamy_vis20.pdf']);"
@@ -666,7 +704,7 @@ href="https://arxiv.org/pdf/2009.01512"
   <tr>
         <td width='25%'>
         <a 
-href="https://arxiv.org/pdf/2009.00083" 
+href="https://arxiv.org/abs/2009.00083"
 target='new'
           onClick="javascript:_gaq.push(['_trackPageview',
           'stuff/lukasczyk_vis20.pdf']);_gaq.push(['_trackPageview',
@@ -677,7 +715,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new' 
-href="https://arxiv.org/pdf/2009.00083"
+href="https://arxiv.org/abs/2009.00083"
                 onClick="javascript:_gaq.push(['_trackPageview',
               'stuff/lukasczyk_vis20.pdf']);_gaq.push(['_trackPageview',
               'stuff/lukasczyk_vis20.pdf']);"
