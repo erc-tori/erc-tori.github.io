@@ -32,6 +32,22 @@ Checkout our [Jobs](/jobs/) page!
 <table>
   <tr>
     <td width="20%">
+      <img width="90%" src="/img/face.png">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Sylvain Gerbaud<br>
+      2024 - present<br>
+      <a href="" target="new">Web page</a>
+    </td>
+  </tr>
+
+  <tr height="10px" />
+
+  <tr>
+    <td width="20%">
       <img width="90%" src="/img/pont2021.jpg">
     </td>
     
@@ -50,7 +66,19 @@ Checkout our [Jobs](/jobs/) page!
 
 <table>
 
+<tr>
+    <td width="20%">
+      <img width="90%" src="/img/face.png">
+    </td>
 
+<!--     <td width="10px" /> -->
+
+    <td>
+      Thomas Daniel<br>
+      2024 - present<br>
+      <a href="" target="new">Web page</a>
+    </td>
+  </tr>
 
 
 
