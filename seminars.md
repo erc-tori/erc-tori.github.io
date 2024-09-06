@@ -22,7 +22,7 @@ teaser: '/img/tutorial2019.jpg'
 Method BORG (Bayesian Origin Reconstruction from Galaxies)</i>
       <br>
       <br>
-      <b>10am, Sorbonne University, Room 2402
+      <b>10am, Sorbonne University, Room TBD
       (<a target="new" href="https://cnrs.zoom.us/j/97935337525?pwd=eStscnZpbm9DWlNveDJURWZRbkFjQT09">Zoom Link</a>)
       </b>
     </td>
@@ -36,9 +36,7 @@ This talk will highlight the substantial progress made in this field over the pa
 
 *Bio:*
 Guilhem Lavaux is an astrophysicist and theoretical physicist, known for his significant contributions to the field of cosmology. Lavaux's career completed his PhD at the Institut d'Astrophysique de Paris in 2008. Post-doctoral research positions followed at prestigious institutions such as Caltech, the University of Illinois at Urbana-Champaign, and Johns Hopkins University. His work during this period focused on cosmology, contributing to our understanding of the universe's structure and evolution.
-
 In 2011, Guilhem Lavaux was awarded the CITA National Fellowship and became a postdoctoral research associate at the Perimeter Institute for Theoretical Physics in Canada. From 2013 to 2023, he served as a CRCN Researcher at CNRS, Institut d'Astrophysique de Paris, where he led several groundbreaking research projects. In October 2023, he was promoted to Research Director at CNRS.
-
 Guilhem Lavaux has been the principal investigator on numerous grants, including those from CNES, the Simons Collaboration, and the ANR. His research has focused on areas such as galaxy clustering and the large-scale structure of the universe. Notably, he is the principal developer of the BORG software, a tool for cosmological data analysis. He has a long-term involvement in open-source software development and high-performance. Guilhem Lavaux is a member of the Euclid consortium, contributing to one of the currently most ambitious space missions aimed at understanding the dark universe.
 
 <a name="turner23"></a>
