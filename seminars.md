@@ -31,7 +31,6 @@ Method BORG (Bayesian Origin Reconstruction from Galaxies)</i>
 
 *Abstract:*
 BORG (Bayesian Origin Reconstruction from Galaxies, [(website)](https://git.aquila-consortium.org/aquila-consortium/borg_public)) is a state-of-the-art tool designed for Bayesian inference of the early universe's initial conditions using galaxy survey data. This ambitious endeavor presents multiple formidable challenges, including navigating an immense parameter space (~10^9 dimensions), incorporating systematic and statistical effects from large-scale galaxy surveys (with up to 10^9 objects), managing the non-linearity of physical systems, and requiring a deep understanding of galaxy physics.
-
 This talk will highlight the substantial progress made in this field over the past decade and pinpoint the upcoming computational, statistical, and physical challenges. By addressing these challenges, we aim to unlock the full potential of cosmological surveys by creating a horde of digital twins of the Universe, furthering our comprehension of the universe's origins and evolution.
 [(paper)](https://arxiv.org/abs/1806.11117)
 
