@@ -18,6 +18,9 @@ Checkout this event page for seminars and tutorials!
   - [Topological Data Analysis with TTK](https://www.kitware.eu/topological-data-analysis-with-ttk-training/), June 30, 2022 -- Kitware Europe, Lyon (*hybrid event*)
   
 - <a href='../seminars/index.html'>Seminars</a>
+  - <a href='../seminars/index.html#lavaux24'>Guilhem Lavaux</a>,
+  *Challenges and Accomplishments of the "Full Field" Inference 
+Method BORG (Bayesian Origin Reconstruction from Galaxies)*, November 15, 2024 -- Sorbonne University.
   - <a href='../seminars/index.html#turner23'>Katharine Turner</a>,
   *Representing Vineyard Modules*, November 28, 2023 -- Sorbonne University.
   - <a href='../seminars/index.html#otter23'>Nina Otter</a>,

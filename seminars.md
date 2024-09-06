@@ -4,6 +4,44 @@ title: Seminars
 permalink: /seminars/
 teaser: '/img/tutorial2019.jpg'
 ---
+
+<a name="lavaux24"></a>
+# November 15, 2024
+<table>
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/lavaux2024.jpg">
+    </td>
+    <td>
+      Guilhem Lavaux --
+      Paris Astrophysics Institute (IAP)<br>
+      <a href="https://www.guilhem-lavaux.eu/" target="new">Web page</a>
+      <br>
+      <br>
+      <i>Challenges and Accomplishments of the "Full Field" Inference 
+Method BORG (Bayesian Origin Reconstruction from Galaxies)</i>
+      <br>
+      <br>
+      <b>10am, Sorbonne University, Room 2402
+      (<a target="new" href="https://cnrs.zoom.us/j/97935337525?pwd=eStscnZpbm9DWlNveDJURWZRbkFjQT09">Zoom Link</a>)
+      </b>
+    </td>
+  </tr>
+</table>
+
+*Abstract:*
+BORG (Bayesian Origin Reconstruction from Galaxies, [(website)](https://git.aquila-consortium.org/aquila-consortium/borg_public)) is a state-of-the-art tool designed for Bayesian inference of the early universe's initial conditions using galaxy survey data. This ambitious endeavor presents multiple formidable challenges, including navigating an immense parameter space (~10^9 dimensions), incorporating systematic and statistical effects from large-scale galaxy surveys (with up to 10^9 objects), managing the non-linearity of physical systems, and requiring a deep understanding of galaxy physics.
+
+This talk will highlight the substantial progress made in this field over the past decade and pinpoint the upcoming computational, statistical, and physical challenges. By addressing these challenges, we aim to unlock the full potential of cosmological surveys by creating a horde of digital twins of the Universe, furthering our comprehension of the universe's origins and evolution.
+[(paper)](https://arxiv.org/abs/1806.11117)
+
+*Bio:*
+Guilhem Lavaux is an astrophysicist and theoretical physicist, known for his significant contributions to the field of cosmology. Lavaux's career completed his PhD at the Institut d'Astrophysique de Paris in 2008. Post-doctoral research positions followed at prestigious institutions such as Caltech, the University of Illinois at Urbana-Champaign, and Johns Hopkins University. His work during this period focused on cosmology, contributing to our understanding of the universe's structure and evolution.
+
+In 2011, Guilhem Lavaux was awarded the CITA National Fellowship and became a postdoctoral research associate at the Perimeter Institute for Theoretical Physics in Canada. From 2013 to 2023, he served as a CRCN Researcher at CNRS, Institut d'Astrophysique de Paris, where he led several groundbreaking research projects. In October 2023, he was promoted to Research Director at CNRS.
+
+Guilhem Lavaux has been the principal investigator on numerous grants, including those from CNES, the Simons Collaboration, and the ANR. His research has focused on areas such as galaxy clustering and the large-scale structure of the universe. Notably, he is the principal developer of the BORG software, a tool for cosmological data analysis. He has a long-term involvement in open-source software development and high-performance. Guilhem Lavaux is a member of the Euclid consortium, contributing to one of the currently most ambitious space missions aimed at understanding the dark universe.
+
 <a name="turner23"></a>
 # November 28, 2023
 <table>
