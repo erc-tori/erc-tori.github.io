@@ -6,7 +6,7 @@ teaser: '/img/tutorial2019.jpg'
 ---
 
 <a name="lavaux24"></a>
-# November 15, 2024
+# November 14, 2024
 <table>
   <tr>
     <td width="20%">
@@ -22,7 +22,7 @@ teaser: '/img/tutorial2019.jpg'
 Method BORG (Bayesian Origin Reconstruction from Galaxies)</i>
       <br>
       <br>
-      <b>10am, Sorbonne University, Room TBD
+      <b>10am, Sorbonne University, Room 2402
       (<a target="new" href="https://cnrs.zoom.us/j/97935337525?pwd=eStscnZpbm9DWlNveDJURWZRbkFjQT09">Zoom Link</a>)
       </b>
     </td>

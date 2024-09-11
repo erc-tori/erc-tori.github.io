@@ -20,7 +20,7 @@ Checkout this event page for seminars and tutorials!
 - <a href='../seminars/index.html'>Seminars</a>
   - <a href='../seminars/index.html#lavaux24'>Guilhem Lavaux</a>,
   *Challenges and Accomplishments of the "Full Field" Inference 
-Method BORG (Bayesian Origin Reconstruction from Galaxies)*, November 15, 2024 -- Sorbonne University.
+Method BORG (Bayesian Origin Reconstruction from Galaxies)*, November 14, 2024 -- Sorbonne University.
   - <a href='../seminars/index.html#turner23'>Katharine Turner</a>,
   *Representing Vineyard Modules*, November 28, 2023 -- Sorbonne University.
   - <a href='../seminars/index.html#otter23'>Nina Otter</a>,
