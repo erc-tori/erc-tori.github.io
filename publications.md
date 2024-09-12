@@ -189,7 +189,7 @@ href="https://github.com/eve-le-guillou/TTK-MPI-at-example"
        <tr>
         <td width='25%'>
         <a
-href=""
+href="https://arxiv.org/abs/2409.03771"
 target='new'
         >
           <img src='https://julien-tierny.github.io/img/will_ldav24_mini.png' width="100%"/></a>
@@ -225,7 +225,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href=""
+href="https://arxiv.org/abs/2408.12662"
                 >
         Identifying Locally Turbulent Vortices within Instabilities
         </a><br>
