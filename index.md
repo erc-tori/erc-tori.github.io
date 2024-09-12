@@ -47,7 +47,7 @@ been accepted to IEEE VIS!
                 &nbsp;&middot;&nbsp;
                 Our paper on
                 <a target="new"
-                href="">
+                href="https://arxiv.org/abs/2409.03771">
                 Distributed Path Compression</a>
                 has
 been accepted to IEEE LDAV!
@@ -61,7 +61,7 @@ been accepted to IEEE LDAV!
                 &nbsp;&middot;&nbsp;
                 Our poster on
                 <a target="new"
-                href="">
+                href="https://arxiv.org/abs/2408.12662">
                 Locally Turbulent Vortex Detection</a>
                 has
 been accepted to IEEE LDAV!

@@ -197,7 +197,7 @@ target='new'
         <td width="2%" />
         <td width="77%">
                 <a target='new'
-href=""
+href="https://arxiv.org/abs/2409.03771"
                 >
         Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components
         </a><br>
@@ -217,7 +217,7 @@ href=""
         <tr>
         <td width='25%'>
         <a
-href=""
+href="https://arxiv.org/abs/2408.12662"
 target='new'
         >
           <img src='https://julien-tierny.github.io/img/vivodtzev_ldav24_mini.png' width="100%"/></a>
