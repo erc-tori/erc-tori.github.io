@@ -214,7 +214,7 @@ href="https://judelo.github.io/">Julie Delon</a>
     
     <td>
       Mathieu Pont<br>
-      2020 - present<br>
+      2020 - 2024<br>
       <a href="https://mathieu-pont.github.io/" target="new">Web page</a>
     </td>
   </tr>
