@@ -55,3 +55,6 @@ TBA.
 
 [![test](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG/800px-0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG?20140327131419)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG/800px-0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG?20140327131419)
 
+<object data="https://www.w3.org/TR/PNG/iso_8859-1.txt" width="300" height="200">
+Not supported
+</object>
