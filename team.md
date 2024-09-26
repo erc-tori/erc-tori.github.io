@@ -32,7 +32,7 @@ Checkout our [Jobs](/jobs/) page!
 <table>
   <tr>
     <td width="20%">
-      <img width="90%" src="/img/face.png">
+      <img width="90%" src="/img/gerbaud2024.jpg">
     </td>
 
 <!--     <td width="10px" /> -->
