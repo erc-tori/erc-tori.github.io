@@ -39,6 +39,10 @@ Guilhem Lavaux is an astrophysicist and theoretical physicist, known for his sig
 In 2011, Guilhem Lavaux was awarded the CITA National Fellowship and became a postdoctoral research associate at the Perimeter Institute for Theoretical Physics in Canada. From 2013 to 2023, he served as a CRCN Researcher at CNRS, Institut d'Astrophysique de Paris, where he led several groundbreaking research projects. In October 2023, he was promoted to Research Director at CNRS.
 Guilhem Lavaux has been the principal investigator on numerous grants, including those from CNES, the Simons Collaboration, and the ANR. His research has focused on areas such as galaxy clustering and the large-scale structure of the universe. Notably, he is the principal developer of the BORG software, a tool for cosmological data analysis. He has a long-term involvement in open-source software development and high-performance. Guilhem Lavaux is a member of the Euclid consortium, contributing to one of the currently most ambitious space missions aimed at understanding the dark universe.
 
+<iframe width="100%" height="420"
+src="https://www.youtube.com/embed/TBbIEB5l4_0?si=MWDz2VCelASILUZw" frameborder="0"
+allowfullscreen></iframe>
+
 <a name="turner23"></a>
 # November 28, 2023
 <table>
