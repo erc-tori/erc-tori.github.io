@@ -71,3 +71,7 @@ href="https://julien-tierny.github.io/stuff/openPositions/internship2022.pdf"
             onClick="javascript:_gaq.push(['_trackPageview',
             'stuff/openPositions/internship2022.pdf']);">comparing time-varying 
 data</a>~~ -- *Filled!*
+- Internship (6 months, with possible Ph.D. follow-up): <a 
+href="https://julien-tierny.github.io/stuff/openPositions/internship2025a.pdf"
+            onClick="javascript:_gaq.push(['_trackPageview',
+            'stuff/openPositions/internship2025a.pdf']);">topological data analysis for temporal feature tracking</a>

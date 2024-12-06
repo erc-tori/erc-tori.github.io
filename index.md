@@ -15,6 +15,23 @@ teaser: '/img/toriBanner.png'
 <td align="right"></td>
 </tr>
 <tr>
+          <td >
+            &nbsp;&middot;&nbsp;
+            We have one
+            <a href="https://julien-tierny.github.io/stuff/openPositions/internship2025a.pdf"
+            onClick="javascript:_gaq.push(['_trackPageview',
+            'stuff/openPositions/internship2025a.pdf']);"
+            >
+            open internship position
+            </a>
+            (<b>master2</b> level, with
+            <b>Ph.D.</b> follow-up)!
+          </td>
+          <td align="right">
+            [Dec. 06, 2024]
+          </td>
+        </tr>
+<tr>
 <td>
                 &nbsp;&middot;&nbsp;
                 Our paper on
@@ -84,7 +101,7 @@ been accepted to IEEE TVCG!
                 [Apr. 6, 2024]
                 </td>
                 </tr>
-<tr>
+<!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
                 Our paper on
@@ -137,7 +154,7 @@ Tutorial</a>!
                 <td align="right">
                 [Oct. 6, 2023]
                 </td>
-                </tr>
+                </tr>-->
 <!--<tr>
 <td>
                 &nbsp;&middot;&nbsp;
