@@ -19,7 +19,9 @@ Lunches and dinners would be provided on site, to also contribute to a friendly 
 
 # Location
 
-The workshop will take place in [Wimereux](https://en.wikipedia.org/wiki/Wimereux), a beautiful and historical seaside resort 
+The workshop will take place 
+at the hotel [Le Carnot](https://www.lecarnotwimereux.com/en/)
+in [Wimereux](https://en.wikipedia.org/wiki/Wimereux), a beautiful and historical seaside resort 
 on the [Opal Cost](https://en.wikipedia.org/wiki/C%C3%B4te_d%27Opale)
 (in the north of France, <a href='../workshop/index.html#pictures'>pictures below</a>).
 
