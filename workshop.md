@@ -19,10 +19,9 @@ Lunches and dinners would be provided on site, to also contribute to a friendly 
 
 # Location
 
-We are currently working towards organizing the workshop on the 
-[Opal Cost](https://en.wikipedia.org/wiki/C%C3%B4te_d%27Opale), in particular in 
-[Wimereux](https://en.wikipedia.org/wiki/Wimereux), a beautiful and historical seaside resort in the north of France (<a href='../workshop/index.html#pictures'>pictures below</a>). Alternatively, the workshop would be hosted at [Sorbonne University](https://www.sorbonne-universite.fr/en) in Paris.
-
+The workshop will take place in [Wimereux](https://en.wikipedia.org/wiki/Wimereux), a beautiful and historical seaside resort 
+on the [Opal Cost](https://en.wikipedia.org/wiki/C%C3%B4te_d%27Opale)
+(in the north of France, <a href='../workshop/index.html#pictures'>pictures below</a>).
 
 # Dates
 June 30, 2026 to July 3, 2026.
