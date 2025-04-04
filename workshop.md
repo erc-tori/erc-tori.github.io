@@ -36,7 +36,7 @@ June 30, 2026 to July 3, 2026.
 More keynote speakers TBA.
 
 <a name="invited">
-# Invited speakers:
+# Invited speakers
 TBA.
 
 # Schedule 
