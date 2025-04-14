@@ -36,8 +36,10 @@ June 30, 2026 to July 3, 2026.
 More keynote speakers TBA.
 
 <a name="invited">
-# Invited speakers
-TBA.
+# Confirmed invited speakers
+- [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75)
+
+More speakers TBA.
 
 # Schedule 
 TBA.
