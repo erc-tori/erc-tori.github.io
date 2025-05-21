@@ -37,6 +37,8 @@ More keynote speakers TBA.
 
 <a name="invited">
 # Confirmed invited speakers
+
+- [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
 
 More speakers TBA.
