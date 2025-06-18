@@ -39,6 +39,7 @@ More keynote speakers TBA.
 # Confirmed invited speakers
 
 - [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
+- [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
