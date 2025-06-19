@@ -43,6 +43,7 @@ More keynote speakers TBA.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
+- [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner), Australian National University, Australia.
 
 More speakers TBA.
 
