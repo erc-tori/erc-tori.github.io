@@ -37,7 +37,7 @@ More keynote speakers TBA.
 
 <a name="invited">
 # Confirmed invited speakers
-
+- [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
 - [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
