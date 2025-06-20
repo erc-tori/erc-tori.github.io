@@ -39,6 +39,7 @@ More keynote speakers TBA.
 # Confirmed invited speakers
 - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
 - [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
+- [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
