@@ -42,8 +42,10 @@ More keynote speakers TBA.
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
+- [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
+- [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA.
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner), Australian National University, Australia.
 
 More speakers TBA.
