@@ -38,6 +38,7 @@ More keynote speakers TBA.
 <a name="invited">
 # Confirmed invited speakers
 - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
+- [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/), Université Lyon 1, France. 
 - [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
 - [Pierre Guillou](https://pierre.guillou.net/), Mines Paris, France.
