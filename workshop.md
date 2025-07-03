@@ -40,11 +40,13 @@ More keynote speakers TBA.
 - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
 - [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
+- [Pierre Guillou](https://pierre.guillou.net/), Mines Paris, France.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
 - [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
+- [Nina Otter](https://www.ninaotter.com/), INRIA, France.
 - [Mathieu Pont](https://mathieu-pont.github.io/), RPTU Kaiserslautern-Landau, Germany.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509), CNRS and Sorbonne University, France.
