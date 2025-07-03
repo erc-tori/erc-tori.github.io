@@ -42,6 +42,7 @@ More keynote speakers TBA.
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
 - [Pierre Guillou](https://pierre.guillou.net/), Mines Paris, France.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
+- [Eve Le Guillou](https://eve-le-guillou.github.io/), CNRS and Sorbonne University, France.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
 - [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
