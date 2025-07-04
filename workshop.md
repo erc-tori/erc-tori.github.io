@@ -54,6 +54,7 @@ More keynote speakers TBA.
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509), CNRS and Sorbonne University, France.
 - [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA.
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner), Australian National University, Australia.
+- [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/), Nanyang Technological University, Singapore.
 
 More speakers TBA.
 
