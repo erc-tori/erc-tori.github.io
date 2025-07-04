@@ -45,6 +45,7 @@ More keynote speakers TBA.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Eve Le Guillou](https://eve-le-guillou.github.io/), CNRS and Sorbonne University, France.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
+- [Jonas Lukasczyk](https://jluk.de/), RPTU Kaiserslautern-Landau, Germany.
 - [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
