@@ -37,6 +37,7 @@ More keynote speakers TBA.
 
 <a name="invited">
 # Confirmed invited speakers
+- [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/), Université Lyon 1, France. 
 - [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
@@ -46,7 +47,6 @@ More keynote speakers TBA.
 - [Eve Le Guillou](https://eve-le-guillou.github.io/), CNRS and Sorbonne University, France.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
 - [Jonas Lukasczyk](https://jluk.de/), RPTU Kaiserslautern-Landau, Germany.
-- [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
 - [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), Indian Institute of Science, India.
