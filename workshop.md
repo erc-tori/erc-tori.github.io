@@ -48,6 +48,7 @@ More keynote speakers TBA.
 - [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
+- [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), Indian Institute of Science, India.
 - [Nina Otter](https://www.ninaotter.com/), INRIA, France.
 - [Mathieu Pont](https://mathieu-pont.github.io/), RPTU Kaiserslautern-Landau, Germany.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
