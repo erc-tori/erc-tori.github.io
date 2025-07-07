@@ -45,6 +45,7 @@ More keynote speakers TBA.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Eve Le Guillou](https://eve-le-guillou.github.io/), CNRS and Sorbonne University, France.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
+- [Jonas Lukasczyk](https://jluk.de/), RPTU Kaiserslautern-Landau, Germany.
 - [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
@@ -53,8 +54,10 @@ More keynote speakers TBA.
 - [Mathieu Pont](https://mathieu-pont.github.io/), RPTU Kaiserslautern-Landau, Germany.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509), CNRS and Sorbonne University, France.
+- [Martin Skrodzki](https://ms-math-computer.science/), TU Delft, Netherlands.
 - [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA.
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner), Australian National University, Australia.
+- [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/), Nanyang Technological University, Singapore.
 
 More speakers TBA.
 
