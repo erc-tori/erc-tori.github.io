@@ -38,6 +38,7 @@ More keynote speakers TBA.
 <a name="invited">
 # Confirmed invited speakers
 - [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
+- [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en), KTH Royal Institute of Technology, Sweden. 
 - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/), Université Lyon 1, France. 
 - [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
