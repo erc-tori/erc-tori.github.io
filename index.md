@@ -38,7 +38,7 @@ teaser: '/img/toriBanner.png'
             Best Paper Honorable Mention Award!</a>
           </td>
           <td align="right">
-            [Aug. 03, 2025]
+            [Aug. 3, 2025]
           </td>
         </tr>
         <tr>
@@ -49,7 +49,7 @@ teaser: '/img/toriBanner.png'
             has ben accepted to TopoInVis!
           </td>
           <td align="right">
-            [Aug. 01, 2025]
+            [Aug. 1, 2025]
           </td>
         </tr>
         <tr>
@@ -70,7 +70,7 @@ teaser: '/img/toriBanner.png'
             has ben accepted to TMLR!
           </td>
           <td align="right">
-            [Jun. 06, 2025]
+            [Jun. 6, 2025]
           </td>
         </tr>
 
