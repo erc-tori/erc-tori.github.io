@@ -525,6 +525,8 @@ href="https://arxiv.org/abs/2308.03672"
         <br><br>
         <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
         Proc. of IEEE VIS 2023.<br>
+        <a href="https://julien-tierny.github.io/img/honorableMention_vis23.jpg" target="new">Best Paper Honorable Mention Award</a>
+        <br>
          <br>
         <a target="new" href="https://github.com/vissubmission1463/ttk/">
         Code</a>
