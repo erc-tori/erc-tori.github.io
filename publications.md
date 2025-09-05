@@ -45,7 +45,7 @@ href="teaching.html">Teaching</a></h3>
 href="https://arxiv.org/abs/2504.03205"
 target='new'
         >
-          <img src='img/daniel_vis25_mini.png' width="100%"/></a>
+          <img src='https://julien-tierny.github.io/img/daniel_vis25_mini.png' width="100%"/></a>
         </td>
         <td width="2%" />
         <td width="77%">
@@ -76,7 +76,7 @@ href="https://github.com/thom-dani/BondMatcher"
 href="https://doi.org/10.1038/s41561-025-01772-7"
 target='new'
         >
-          <img src='img/janin_ng25_mini.png' width="100%"/></a>
+          <img src='https://julien-tierny.github.io/img/janin_ng25_mini.png' width="100%"/></a>
         </td>
         <td width="2%" />
         <td width="77%">
@@ -103,7 +103,7 @@ href="https://doi.org/10.1038/s41561-025-01772-7"
 href="https://arxiv.org/abs/2502.02275"
 target='new'
         >
-          <img src='img/sisouk_tmlr25_mini.png' width="100%"/></a>
+          <img src='https://julien-tierny.github.io/img/sisouk_tmlr25_mini.png' width="100%"/></a>
         </td>
         <td width="2%" />
         <td width="77%">
@@ -128,7 +128,7 @@ href="https://arxiv.org/abs/2502.02275"
 href="https://arxiv.org/abs/2508.17995"
 target='new'
         >
-          <img src='img/kissi_topoInVis25_mini.png' width="100%"/></a>
+          <img src='https://julien-tierny.github.io/img/kissi_topoInVis25_mini.png' width="100%"/></a>
         </td>
         <td width="2%" />
         <td width="77%">
