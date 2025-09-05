@@ -19,7 +19,7 @@ teaser: '/img/toriBanner.png'
           <td align="left">
             &nbsp;&middot;&nbsp;
             Our paper on the <a href="https://doi.org/10.1038/s41561-025-01772-7" target='new'>topological
-            analysis of geoscience temporal data</a>
+            analysis of geoscience data</a>
             has ben accepted to Nature Geoscience!
           </td>
           <td align="right">
@@ -56,7 +56,7 @@ teaser: '/img/toriBanner.png'
           <td align="left">
             &nbsp;&middot;&nbsp;
             Our paper on the <a href="https://arxiv.org/abs/2504.03205" target='new'>topological
-            analysis of chemical ensemble data</a>
+            analysis of chemical data</a>
             has ben accepted to IEEE VIS!
           </td>
           <td align="right">
