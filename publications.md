@@ -9,36 +9,6 @@ teaser: '/img/toriBanner.png'
 
         <tr height="75pt"/>
 
-    <tr>
-    
-    <tr>
-        <td width='30%'>
-          <h3 class="highlight">Research</h3>
-        </td>
-        <td><h3 class="highlight" width="3%">|</h3>
-        </td>
-        <td width='30%'>
-          <h3 class="normal"><a class="teaser" 
-href="teaching.html">Teaching</a></h3>
-        </td>
-        <td><h3 class="highlight" width="3%">|</h3>
-        </td>
-        <td width='30%'>
-          <h3 class="normal"><a class="teaser" href="misc.html">Misc</a></h3>
-        </td>
-        <td><h3 class="highlight" width="3">|</h3>
-        </td>
-      </tr>
-    </table>
-
-<!-- <br> -->
-<!-- <br><br> -->
-
-
-    <table width='800px'>
-
-        <tr height="30pt"/>
-
 <tr>
         <td width='25%'>
         <a
