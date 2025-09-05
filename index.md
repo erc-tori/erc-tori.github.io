@@ -18,9 +18,8 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
-            Our paper on the <a href="https://doi.org/10.1038/s41561-025-01772-7" target='new'>topological
-            analysis of geoscience data</a>
-            has ben accepted to Nature Geoscience!
+            Our paper on the <a href="https://doi.org/10.1038/s41561-025-01772-7" target='new'>topology            of geoscience data</a>
+            has been accepted to Nature Geoscience!
           </td>
           <td align="right">
             [Aug. 14, 2025]
@@ -46,7 +45,7 @@ teaser: '/img/toriBanner.png'
             &nbsp;&middot;&nbsp;
             Our paper on <a href="https://arxiv.org/abs/2508.17995" target='new'>topology-aware
             neural interpolation</a>
-            has ben accepted to TopoInVis!
+            has been accepted to TopoInVis!
           </td>
           <td align="right">
             [Aug. 1, 2025]
@@ -57,7 +56,7 @@ teaser: '/img/toriBanner.png'
             &nbsp;&middot;&nbsp;
             Our paper on the <a href="https://arxiv.org/abs/2504.03205" target='new'>topological
             analysis of chemical data</a>
-            has ben accepted to IEEE VIS!
+            has been accepted to IEEE VIS!
           </td>
           <td align="right">
             [Jul. 16, 2025]
@@ -67,7 +66,7 @@ teaser: '/img/toriBanner.png'
           <td align="left">
             &nbsp;&middot;&nbsp;
             Our paper on <a href="https://arxiv.org/abs/2502.02275" target='new'>sampling strategies for sliced-optimal transport</a>
-            has ben accepted to TMLR!
+            has been accepted to TMLR!
           </td>
           <td align="right">
             [Jun. 6, 2025]
