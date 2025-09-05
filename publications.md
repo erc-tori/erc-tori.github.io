@@ -10,6 +10,143 @@ teaser: '/img/toriBanner.png'
         <tr height="75pt"/>
 
     <tr>
+    
+    <tr>
+        <td width='30%'>
+          <h3 class="highlight">Research</h3>
+        </td>
+        <td><h3 class="highlight" width="3%">|</h3>
+        </td>
+        <td width='30%'>
+          <h3 class="normal"><a class="teaser" 
+href="teaching.html">Teaching</a></h3>
+        </td>
+        <td><h3 class="highlight" width="3%">|</h3>
+        </td>
+        <td width='30%'>
+          <h3 class="normal"><a class="teaser" href="misc.html">Misc</a></h3>
+        </td>
+        <td><h3 class="highlight" width="3">|</h3>
+        </td>
+      </tr>
+    </table>
+
+<!-- <br> -->
+<!-- <br><br> -->
+
+
+    <table width='800px'>
+
+        <tr height="30pt"/>
+
+<tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2504.03205"
+target='new'
+        >
+          <img src='img/daniel_vis25_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/abs/2504.03205"
+                >
+        BondMatcher: H-Bond Stability Analysis in Molecular Systems
+        </a><br>
+        <br>
+        Thomas Daniel, Malgorzata Olejniczak, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Proc. of IEEE VIS 2025.<br>
+        <a href="https://ieeevis.org/year/2025/info/awards/best-paper-awards" target="new">Best Paper Honorable Mention Award</a>
+        <br>
+        <br>
+        <a target='new'
+href="https://github.com/thom-dani/BondMatcher"
+        >Code</a>
+        </td>
+      </tr>
+
+                 <tr height="75pt"/>
+
+<tr>
+        <td width='25%'>
+        <a
+href="https://doi.org/10.1038/s41561-025-01772-7"
+target='new'
+        >
+          <img src='img/janin_ng25_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://doi.org/10.1038/s41561-025-01772-7"
+                >
+        Geodynamics of a global plate reorganization from topological data analysis
+        </a><br>
+        <br>
+        Alexandre Janin, Nicolas Coltice, Nicolas Chamot-Rooke, Julien Tierny
+        <br><br>
+        <b>Nature Geoscience</b><br>
+        Accepted, 2025.
+        </td>
+      </tr>
+
+
+
+           <tr height="75pt"/>
+
+<tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2502.02275"
+target='new'
+        >
+          <img src='img/sisouk_tmlr25_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/abs/2502.02275"
+                >
+        A User's Guide to Sampling Strategies for Sliced Optimal Transport
+        </a><br>
+        <br>
+        Keanu Sisouk, Julie Delon, Julien Tierny
+        <br><br>
+        <b>Transactions on Machine Learning Research</b><br>
+        Accepted, 2025.
+        </td>
+      </tr>
+
+           <tr height="75pt"/>
+
+<tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2508.17995"
+target='new'
+        >
+          <img src='img/kissi_topoInVis25_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new'
+href="https://arxiv.org/abs/2508.17995"
+                >
+        Topology Aware Neural Interpolation of Scalar Fields
+        </a><br>
+        <br>
+        Mohamed Kissi, Keanu Sisouk, Joshua A. Levine, Julien Tierny
+
+        <br><br>
+        Proc. of IEEE Workshop on Topological Data Analysis and Visualization 2025.<br>
+        </td>
+      </tr>
+
+    
+    
         <td width='25%'>
         <a
 href="https://arxiv.org/abs/2407.12399"
