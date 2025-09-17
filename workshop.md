@@ -47,6 +47,7 @@ More keynote speakers TBA.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Federico Iuricich](https://fiurici.people.clemson.edu/), Clemson University, USA.
 - [Eve Le Guillou](https://eve-le-guillou.github.io/), CNRS and Sorbonne University, France.
+- [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/), Sorbonne University, France.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
 - [Jonas Lukasczyk](https://jluk.de/), RPTU Kaiserslautern-Landau, Germany.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
