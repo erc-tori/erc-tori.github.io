@@ -18,6 +18,16 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
+            Eve successfully defended her Ph.D. on 
+            Our paper on the <a href="stuff/leguillou_phd25.pdf" target='new'>distributed topological data analysis</a>!
+          </td>
+          <td align="right">
+            [Oct. 10, 2025]
+          </td>
+        </tr>
+<tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
             Our paper on the <a href="https://doi.org/10.1038/s41561-025-01772-7" target='new'>topology            of geoscience data</a>
             has been accepted to Nature Geoscience!
           </td>
