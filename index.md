@@ -19,7 +19,7 @@ teaser: '/img/toriBanner.png'
           <td align="left">
             &nbsp;&middot;&nbsp;
             Eve successfully defended her Ph.D. on 
-            Our paper on the <a href="stuff/leguillou_phd25.pdf" target='new'>distributed topological data analysis</a>!
+            <a href="stuff/leguillou_phd25.pdf" target='new'>distributed topological data analysis</a>!
           </td>
           <td align="right">
             [Oct. 10, 2025]
