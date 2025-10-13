@@ -7,8 +7,45 @@ teaser: '/img/toriBanner.png'
 
 <table>
 
+
+
         <tr height="75pt"/>
 
+              <tr>
+        <td width='30%'>
+        <a
+href="/stuff/leguillou_phd25.pdf"
+target='new'
+        >
+          <img src='/img/leguillou_phd.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="/stuff/leguillou_phd25.pdf"
+                >
+        Distributed Topological Data Analysis
+        </a><br>
+        <br>
+        Eve Le Guillou
+        <br><br>
+        <b>Ph.D. Thesis</b><br>
+        October 2025<br><br>
+        <i>Committee:</i>
+        D. Coeurjolly (Reviewer), 
+        T. Peterka (Reviewer),
+        I. Bloch, 
+        B. Raffin,
+        F. Iuricich,
+        C. Calvin,
+        P. Fortin (Co-advisor),
+        J. Tierny (Co-advisor)
+        </td>
+      </tr>
+      
+
+
+<tr height="75pt"/>
+        
 <tr>
         <td width='25%'>
         <a
