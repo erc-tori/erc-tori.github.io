@@ -109,25 +109,7 @@ href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a>
 
   <tr height="10px" />
 
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/leguillou2021.jpg">
-    </td>
-
-<!--     <td width="10px" /> -->
-
-    <td>
-      Eve Le Guillou<br>
-      2022 - present<br>
-      <a href="https://eve-le-guillou.github.io/" target="new">Web page</a><br>
-            Co-advisor: <a target="new" 
-href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
-    </td>
-  </tr>
-
-
   
-  <tr height="10px" />
 
   <tr>
     <td width="20%">
@@ -170,6 +152,26 @@ href="https://judelo.github.io/">Julie Delon</a>
 
 # Alumni
 <table>
+
+<tr>
+    <td width="20%">
+      <img width="90%" src="/img/leguillou2021.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Eve Le Guillou<br>
+      2022 - 2025<br>
+      <a href="https://eve-le-guillou.github.io/" target="new">Web page</a><br>
+            Co-advisor: <a target="new" 
+href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
+    </td>
+  </tr>
+
+
+  
+  <tr height="10px" />
 
   <tr>
     <td width="20%">
