@@ -37,6 +37,8 @@ More keynote speakers TBA.
 
 <a name="invited">
 # Confirmed invited speakers
+- [Henry Adams](https://people.clas.ufl.edu/henry-adams/), University of 
+Florida, USA.
 - [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en), KTH Royal Institute of Technology, Sweden. 
 - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
