@@ -3,6 +3,7 @@ layout: default
 title: Workshop
 permalink: /workshop/
 teaser: '/img/toriBanner.png'
+noindex: true
 ---
 
 Welcome to the webpage of the [TORI](https://erc-tori.github.io/) Workshop!
