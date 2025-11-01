@@ -7,7 +7,36 @@ teaser: '/img/toriBanner.png'
 
 <table>
 
+  <tr height="75pt"/>
 
+              <tr>
+        <td width='30%'>
+        <a
+href="/stuff/kissi_phd25.pdf"
+target='new'
+        >
+          <img src='/img/kissi_phd.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="/stuff/kissi_phd25.pdf"
+                >
+        Persistence Optimization for Data Visualization
+        </a><br>
+        <br>
+        Mohamed Kissi
+        <br><br>
+        <b>Ph.D. Thesis</b><br>
+        October 2025<br><br>
+        <i>Committee:</i>
+        G.P. Bonneau (Reviewer), 
+        G. Lavoué (Reviewer),
+        I. Bloch, 
+        M. Carrière,
+        J. Levine,
+        J. Tierny (Co-advisor)
+        </td>
+      </tr>
 
         <tr height="75pt"/>
 

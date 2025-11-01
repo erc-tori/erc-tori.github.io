@@ -18,6 +18,17 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
+            Mohamed successfully defended her Ph.D. on 
+            <a href="stuff/kissi_phd25.pdf" target='new'>applications of persistence optimization</a>!
+          </td>
+          <td align="right">
+            [Oct. 28, 2025]
+          </td>
+        </tr>
+
+<tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
             Eve successfully defended her Ph.D. on 
             <a href="stuff/leguillou_phd25.pdf" target='new'>distributed topological data analysis</a>!
           </td>
