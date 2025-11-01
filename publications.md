@@ -37,6 +37,32 @@ target='new'
         J. Tierny (Advisor)
         </td>
       </tr>
+      
+      <tr height="75pt"/>
+
+
+
+    <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2505.21266"
+target='new'>
+          <img src='https://julien-tierny.github.io/img/leguillou_tpds25_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="https://arxiv.org/abs/2505.21266">
+        Distributed Discrete Morse Sandwich: Efficient Computation of Persistence Diagrams for Massive Scalar Data
+        </a><br>
+        <br>
+        Eve Le Guillou, Pierre Fortin, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Parallel and Distributed Systems</b><br>
+        Accepted, 2025.<br>
+        <br>
+        <a target='new' href="https://github.com/eve-le-guillou/DDMS-example">Code</a>
+        </td>
+      </tr>
 
         <tr height="75pt"/>
 
