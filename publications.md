@@ -34,7 +34,7 @@ target='new'
         I. Bloch, 
         M. Carrière,
         J. Levine,
-        J. Tierny (Co-advisor)
+        J. Tierny (Advisor)
         </td>
       </tr>
 

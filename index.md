@@ -18,7 +18,7 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
-            Mohamed successfully defended her Ph.D. on 
+            Mohamed successfully defended his Ph.D. on 
             <a href="stuff/kissi_phd25.pdf" target='new'>applications of persistence optimization</a>!
           </td>
           <td align="right">
