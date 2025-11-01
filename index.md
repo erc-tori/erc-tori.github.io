@@ -19,7 +19,7 @@ teaser: '/img/toriBanner.png'
           <td align="left">
             &nbsp;&middot;&nbsp;
             Mohamed successfully defended his Ph.D. on 
-            <a href="stuff/kissi_phd25.pdf" target='new'>applications of persistence optimization</a>!
+            <a href="stuff/kissi_phd25.pdf" target='new'>persistence optimization and applications</a>!
           </td>
           <td align="right">
             [Oct. 28, 2025]
