@@ -28,7 +28,7 @@ teaser: '/img/toriBanner.png'
                 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
-            Our paper on <a href="https://arxiv.org/abs/2505.21266" target='new'>distributed persistence computation</a>
+            Our paper on <a href="https://arxiv.org/abs/2505.21266" target='new'>persistence distributed computation</a>
             has been accepted to IEEE TPDS!
           </td>
           <td align="right">
