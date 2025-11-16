@@ -9,6 +9,38 @@ teaser: '/img/toriBanner.png'
 
   <tr height="75pt"/>
 
+                <tr>
+        <td width='30%'>
+        <a
+href="/stuff/sisouk_phd25.pdf"
+target='new'
+        >
+          <img src='/img/sisouk_phd.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="/stuff/sisouk_phd25.pdf"
+                >
+                Wasserstein Barycenters of Persistence Diagrams and
+Applications
+        </a><br>
+        <br>
+        Keanu Sisouk
+        <br><br>
+        <b>Ph.D. Thesis</b><br>
+        November 2025<br><br>
+        <i>Committee:</i>
+        V. Natarajan (Reviewer), 
+        N. Papadakis (Reviewer),
+        C. Doerr, 
+        B. Michel,
+        J. Delon (Advisor),
+        J. Tierny (Advisor)
+        </td>
+      </tr>
+      
+      <tr height="75pt"/>
+  
               <tr>
         <td width='30%'>
         <a
