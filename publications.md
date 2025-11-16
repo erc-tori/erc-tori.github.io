@@ -34,8 +34,8 @@ Applications
         N. Papadakis (Reviewer),
         C. Doerr, 
         B. Michel,
-        J. Delon (Advisor),
-        J. Tierny (Advisor)
+        J. Delon (Co-advisor),
+        J. Tierny (Co-advisor)
         </td>
       </tr>
       

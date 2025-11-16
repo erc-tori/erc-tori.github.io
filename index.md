@@ -14,7 +14,16 @@ teaser: '/img/toriBanner.png'
 <h4>&nbsp;&nbsp;&nbsp;News</h4></td>
 <td align="right"></td>
 </tr>
-
+<tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
+            Keanu successfully defended his Ph.D. on 
+            <a href="stuff/sisouk_phd25.pdf" target='new'>Wasserstein barycenters of persistence diagrams</a>!
+          </td>
+          <td align="right">
+            [Nov. 14, 2025]
+          </td>
+        </tr>
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
