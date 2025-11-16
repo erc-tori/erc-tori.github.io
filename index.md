@@ -18,7 +18,7 @@ teaser: '/img/toriBanner.png'
           <td align="left">
             &nbsp;&middot;&nbsp;
             Keanu successfully defended his Ph.D. on 
-            <a href="stuff/sisouk_phd25.pdf" target='new'>Wasserstein barycenters of persistence diagrams</a>!
+            <a href="stuff/sisouk_phd25.pdf" target='new'>persistence diagram barycenters</a>!
           </td>
           <td align="right">
             [Nov. 14, 2025]
