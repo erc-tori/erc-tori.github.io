@@ -60,6 +60,7 @@ Florida, USA.
 - [Mathieu Pont](https://mathieu-pont.github.io/), RPTU Kaiserslautern-Landau, Germany.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
 - [Paul Rosen](https://cspaul.com/), University of Utah, USA.
+- [Florian Russold](https://www.geometrie.tugraz.at/russold/), TU Graz, Austria.
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509), CNRS and Sorbonne University, France.
 - [Martin Skrodzki](https://ms-math-computer.science/), TU Delft, Netherlands.
 - [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA.
