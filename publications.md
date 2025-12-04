@@ -7,7 +7,94 @@ teaser: '/img/toriBanner.png'
 
 <table>
 
+  <tr height="75pt"/>
 
+                <tr>
+        <td width='30%'>
+        <a
+href="/stuff/sisouk_phd25.pdf"
+target='new'
+        >
+          <img src='/img/sisouk_phd.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="/stuff/sisouk_phd25.pdf"
+                >
+                Wasserstein Barycenters of Persistence Diagrams and
+Applications
+        </a><br>
+        <br>
+        Keanu Sisouk
+        <br><br>
+        <b>Ph.D. Thesis</b><br>
+        November 2025<br><br>
+        <i>Committee:</i>
+        V. Natarajan (Reviewer), 
+        N. Papadakis (Reviewer),
+        C. Doerr, 
+        B. Michel,
+        J. Delon (Co-advisor),
+        J. Tierny (Co-advisor)
+        </td>
+      </tr>
+      
+      <tr height="75pt"/>
+  
+              <tr>
+        <td width='30%'>
+        <a
+href="/stuff/kissi_phd25.pdf"
+target='new'
+        >
+          <img src='/img/kissi_phd.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="/stuff/kissi_phd25.pdf"
+                >
+        Persistence Optimization for Data Visualization
+        </a><br>
+        <br>
+        Mohamed Kissi
+        <br><br>
+        <b>Ph.D. Thesis</b><br>
+        October 2025<br><br>
+        <i>Committee:</i>
+        G.P. Bonneau (Reviewer), 
+        G. Lavoué (Reviewer),
+        I. Bloch, 
+        M. Carrière,
+        J. Levine,
+        J. Tierny (Advisor)
+        </td>
+      </tr>
+      
+      <tr height="75pt"/>
+
+
+
+    <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2505.21266"
+target='new'>
+          <img src='https://julien-tierny.github.io/img/leguillou_tpds25_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="https://arxiv.org/abs/2505.21266">
+        Distributed Discrete Morse Sandwich: Efficient Computation of Persistence Diagrams for Massive Scalar Data
+        </a><br>
+        <br>
+        Eve Le Guillou, Pierre Fortin, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Parallel and Distributed Systems</b><br>
+        Accepted, 2025.<br>
+        <br>
+        <a target='new' href="https://github.com/eve-le-guillou/DDMS-example">Code</a>
+        </td>
+      </tr>
 
         <tr height="75pt"/>
 
