@@ -17,6 +17,16 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
+            Our paper on <a href="https://arxiv.org/abs/2502.20215" target='new'>cycle-aware dimensionality reduction</a>
+            has been accepted to IEEE TVCG!
+          </td>
+          <td align="right">
+            [Dec. 11, 2025]
+          </td>
+        </tr>
+<tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
             Keanu successfully defended his Ph.D. on 
             <a href="stuff/sisouk_phd25.pdf" target='new'>persistence diagram barycenters</a>!
           </td>

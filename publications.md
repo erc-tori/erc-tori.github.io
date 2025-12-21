@@ -9,6 +9,32 @@ teaser: '/img/toriBanner.png'
 
   <tr height="75pt"/>
 
+
+        
+        <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2502.20215"
+target='new'>
+          <img src='img/clemot_tvcg25_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="https://arxiv.org/abs/2502.20215">
+        Topological Autoencoders++: Fast and Accurate Cycle-Aware Dimensionality Reduction
+        </a><br>
+        <br>
+        Mattéo Clémot, Julie Digne, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, to be presented at IEEE VIS 2026.<br>
+        <br>
+        <a target='new' href="https://github.com/MClemot/TopologicalAutoencodersPlusPlus">Code</a>
+        </td>
+      </tr>
+      
+        <tr height="75pt"/>
+  
                 <tr>
         <td width='30%'>
         <a
