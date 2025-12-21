@@ -16,7 +16,7 @@ teaser: '/img/toriBanner.png'
         <a
 href="https://arxiv.org/abs/2502.20215"
 target='new'>
-          <img src='img/clemot_tvcg25_mini.png' width="100%"/></a>
+          <img src='/img/clemot_tvcg25_mini.png' width="100%"/></a>
         </td>
         <td width="2%" />
         <td width="77%">
