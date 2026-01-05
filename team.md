@@ -54,19 +54,7 @@ Checkout our [Jobs](/jobs/) page!
 
 <table>
 
-<tr>
-    <td width="20%">
-      <img width="90%" src="/img/daniel2024.jpg">
-    </td>
 
-<!--     <td width="10px" /> -->
-
-    <td>
-      Thomas Daniel<br>
-      2024 - present<br>
-      <a href="" target="new">Web page</a>
-    </td>
-  </tr>
 
 
 
@@ -95,41 +83,6 @@ href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a>
   
       <tr height="10px" />
 
-<tr>
-    <td width="20%">
-      <img width="90%" src="/img/kissi2022.jpg">
-    </td>
-
-    <td>
-      Mohamed Kissi<br>
-      2022 - present (CNRS 80PRIME)<br>
-      <a href="" target="new">Web page</a>
-    </td>
-  </tr>
-
-  <tr height="10px" />
-
-  
-
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/sisouk2021.jpg">
-    </td>
-
-<!--     <td width="10px" /> -->
-
-    <td>
-      Keanu Sisouk<br>
-      2022 - present<br>
-      <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" 
-target="new">Web page</a><br>
-      Co-advisor: <a target="new" 
-href="https://judelo.github.io/">Julie Delon</a>
-    </td>
-  </tr>
-  
-        <tr height="10px" />
-
   <tr>
     <td width="20%">
       <img width="90%" src="/img/tchitchek2023.jpg">
@@ -153,6 +106,23 @@ href="https://judelo.github.io/">Julie Delon</a>
 # Alumni
 <table>
 
+<tr>
+    <td width="20%">
+      <img width="90%" src="/img/daniel2024.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Thomas Daniel<br>
+      2024 - 2025<br>
+      <a href="" target="new">Web page</a>
+    </td>
+  </tr>
+
+    
+  <tr height="10px" />
+  
 <tr>
     <td width="20%">
       <img width="90%" src="/img/leguillou2021.jpg">
@@ -188,6 +158,20 @@ href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
   </tr>
 
     <tr height="10px" />
+    
+    <tr>
+    <td width="20%">
+      <img width="90%" src="/img/kissi2022.jpg">
+    </td>
+
+    <td>
+      Mohamed Kissi<br>
+      2022 - 2025 (CNRS 80PRIME)<br>
+      <a href="" target="new">Web page</a>
+    </td>
+  </tr>
+
+  <tr height="10px" />
 
 
     <tr>
@@ -222,6 +206,25 @@ href="https://pro.univ-lille.fr/pierre-fortin">Pierre Fortin</a>
   </tr>
   
   <tr height="10px" />
+  
+  <tr>
+    <td width="20%">
+      <img width="90%" src="/img/sisouk2021.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Keanu Sisouk<br>
+      2021 - 2025<br>
+      <a href="https://www.lip6.fr/recherche/team_membres.php?acronyme=APR" 
+target="new">Web page</a><br>
+      Co-advisor: <a target="new" 
+href="https://judelo.github.io/">Julie Delon</a>
+    </td>
+  </tr>
+  
+        <tr height="10px" />
   
     <tr>
     <td width="20%">
