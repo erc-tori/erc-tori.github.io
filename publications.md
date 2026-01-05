@@ -30,6 +30,9 @@ target='new'>
         Accepted, to be presented at IEEE VIS 2026.<br>
         <br>
         <a target='new' href="https://github.com/MClemot/TopologicalAutoencodersPlusPlus">Code</a>
+        -
+        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-mclemot-topologicalautoencodersplusplus">
+        Replicability stamp</a>
         </td>
       </tr>
       
@@ -185,6 +188,9 @@ href="https://arxiv.org/abs/2504.03205"
         <a target='new'
 href="https://github.com/thom-dani/BondMatcher"
         >Code</a>
+         -
+        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-thom-dani-bondmatcher">
+        Replicability stamp</a>
         </td>
       </tr>
 
