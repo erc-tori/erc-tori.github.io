@@ -46,10 +46,11 @@ Florida, USA.
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/), Université Lyon 1, France. 
 - [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
+- [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840), CNRS and Sorbonne University, France.
 - [Pierre Guillou](https://pierre.guillou.net/), Mines Paris, France.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Federico Iuricich](https://fiurici.people.clemson.edu/), Clemson University, USA.
-- [Eve Le Guillou](https://eve-le-guillou.github.io/), CNRS and Sorbonne University, France.
+- [Eve Le Guillou](https://eve-le-guillou.github.io/),  Technical University of Munich, Germany.
 - [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/), Sorbonne University, France.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
 - [Jonas Lukasczyk](https://jluk.de/), RPTU Kaiserslautern-Landau, Germany.
