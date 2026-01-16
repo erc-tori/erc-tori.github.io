@@ -75,6 +75,7 @@ Florida, USA.
 # Schedule 
 TBA.
 
+<a name="travel">
 # Travel
 
 From Paris (or Paris Charles de Gaulle Airport), traveling by train is the easiest way to reach Wimereux.
