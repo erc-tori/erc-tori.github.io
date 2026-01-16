@@ -81,7 +81,8 @@ TBA.
 From Paris (or Paris Charles de Gaulle Airport), traveling by train is the easiest way to reach Wimereux.
 
 Please visit the website of the [French national railroad company (SNCF)](https://www.sncf-connect.com/en-en) and enter "Wimereux" as your destination.
-From Paris, expect a journey of 3 to 4 hours, with a connection in Lille, followed by a second connection in Boulogne-sur-Mer.
+From Paris, expect a journey of 3 to 4 hours, with a connection in Lille, followed by a second connection in Boulogne-sur-Mer. 
+Please note that the SNCF website will not allow you to buy tickets more than 3 months in advance.
 
 Once you arrive at Wimereux train station, the workshop venue is within walking distance (approximately a 10-minute walk). See these [Google map directions](https://maps.app.goo.gl/Q34EJb672795Gmqj6).
 
