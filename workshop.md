@@ -76,7 +76,15 @@ Florida, USA.
 TBA.
 
 # Travel
-TBA.
+
+From Paris (or Paris Charles de Gaulle Airport), traveling by train is the easiest way to reach Wimereux.
+
+Please visit the website of the [French national railroad company (SNCF)](https://www.sncf-connect.com/en-en) and enter "Wimille" as your destination.
+From Paris, expect a journey of 3 to 4 hours, with a connection in Lille, followed by a second connection in Boulogne-sur-Mer.
+
+Once you arrive at Wimille train station, the workshop venue is within walking distance (approximately a 10-minute walk). See these [Google map directions](https://maps.app.goo.gl/Q34EJb672795Gmqj6).
+
+If you have any travel related questions, please feel free to [reach out to the workshop organizers](mailto:julien.tierny@sorbonne-universite.fr,sylvain.gerbaud@lip6.fr).
 
 <a name="pictures">
 # Pictures
