@@ -31,10 +31,11 @@ June 30, 2026 to July 3, 2026.
 
 # Keynote speakers
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. 
+- [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/), University of Arkansas, USA.
 - [Facundo Memoli](https://facundo-memoli.org/), Ohio State University, USA.
 - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
 
-More keynote speakers TBA.
+<!-- More keynote speakers TBA. -->
 
 <a name="invited">
 # Confirmed invited speakers
