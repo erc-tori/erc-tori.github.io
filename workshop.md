@@ -100,7 +100,7 @@ Florida, USA.
 ## Wednesday, July 1, 2026
 
 ### 8:30 Keynote
-[Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
+- [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
 
 ### 9:30 Coffee break
 
@@ -121,7 +121,7 @@ Florida, USA.
 ## Thursday, July 2, 2026
 
 ### 8:30 Keynote
-[Facundo Memoli](https://facundo-memoli.org/), Ohio State University, USA.
+- [Facundo Memoli](https://facundo-memoli.org/), Ohio State University, USA.
 
 ### 9:30 Coffee break
 
