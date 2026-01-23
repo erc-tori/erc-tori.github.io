@@ -79,6 +79,7 @@ Florida, USA.
 ## Tuesday, June 30, 2026
 
 ### 8:30 Keynote
+- [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. 
 
 ### 9:30 Coffee break
 
@@ -99,6 +100,7 @@ Florida, USA.
 ## Wednesday, July 1, 2026
 
 ### 8:30 Keynote
+[Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
 
 ### 9:30 Coffee break
 
@@ -119,6 +121,7 @@ Florida, USA.
 ## Thursday, July 2, 2026
 
 ### 8:30 Keynote
+[Facundo Memoli](https://facundo-memoli.org/), Ohio State University, USA.
 
 ### 9:30 Coffee break
 
@@ -138,7 +141,8 @@ Florida, USA.
 
 ## Friday, July 3, 2026
 
-### 8:30 Keynote
+### 8:30 Capstone
+- [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/), University of Arkansas, USA.
 
 ### 9:30 Coffee break
 
