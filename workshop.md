@@ -73,8 +73,78 @@ Florida, USA.
 
 <!-- More speakers TBA. -->
 
+<a name="schedule">
 # Schedule 
-TBA.
+
+## Tuesday, June 30, 2026
+
+### 8:30 Keynote
+
+### 9:30 Coffee break
+
+### 10:00 Talks
+
+### 11:00 Break & Informal discussions
+
+### 12:00 Lunch
+
+### 2:00pm Break & Informal discussions
+
+### 3:00pm Talks
+
+### 4:00pm Coffee break
+
+### 4:30pm Talks
+
+## Wednesday, July 1, 2026
+
+### 8:30 Keynote
+
+### 9:30 Coffee break
+
+### 10:00 Talks
+
+### 11:00 Break & Informal discussions
+
+### 12:00 Lunch
+
+### 2:00pm Break & Informal discussions
+
+### 3:00pm Talks
+
+### 4:00pm Coffee break
+
+### 4:30pm Talks
+
+## Thursday, July 2, 2026
+
+### 8:30 Keynote
+
+### 9:30 Coffee break
+
+### 10:00 Talks
+
+### 11:00 Break & Informal discussions
+
+### 12:00 Lunch
+
+### 2:00pm Break & Informal discussions
+
+### 3:00pm Talks
+
+### 4:00pm Coffee break
+
+### 4:30pm Talks
+
+## Friday, July 3, 2026
+
+### 8:30 Keynote
+
+### 9:30 Coffee break
+
+### 10:00 Talks
+
+### 11:00 Closing & Informal discussions
 
 <a name="travel">
 # Travel
