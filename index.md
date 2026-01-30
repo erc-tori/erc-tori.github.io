@@ -17,6 +17,16 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
+            Our paper on <a href="https://arxiv.org/abs/2509.14904" target='new'>robust diagram barycenters</a>
+            has been accepted to IEEE TVCG!
+          </td>
+          <td align="right">
+            [Jan. 18, 2026]
+          </td>
+        </tr>
+<tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
             Our paper on <a href="https://arxiv.org/abs/2502.20215" target='new'>cycle-aware dimensionality reduction</a>
             has been accepted to IEEE TVCG!
           </td>
