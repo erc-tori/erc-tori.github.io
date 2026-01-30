@@ -31,10 +31,11 @@ June 30, 2026 to July 3, 2026.
 
 # Keynote speakers
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. 
+- [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/), University of Arkansas, USA.
 - [Facundo Memoli](https://facundo-memoli.org/), Ohio State University, USA.
 - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
 
-More keynote speakers TBA.
+<!-- More keynote speakers TBA. -->
 
 <a name="invited">
 # Confirmed invited speakers
@@ -72,8 +73,114 @@ Florida, USA.
 
 <!-- More speakers TBA. -->
 
+<a name="schedule">
 # Schedule 
-TBA.
+
+## Tuesday, June 30, 2026
+
+### 8:30 Keynote
+- [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. 
+
+### 9:30 Coffee break
+
+### 10:00 Talks
+- [Henry Adams](https://people.clas.ufl.edu/henry-adams/), University of 
+Florida, USA.
+- [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en), KTH Royal Institute of Technology, Sweden.
+- [Nina Otter](https://www.ninaotter.com/), INRIA, France.
+
+### 11:00 Break & Informal discussions
+
+### 12:00pm Lunch
+
+### 2:00pm Break & Informal discussions
+
+### 3:00pm Talks
+- [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
+- [Federico Iuricich](https://fiurici.people.clemson.edu/), Clemson University, USA.
+- [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
+
+### 4:00pm Coffee break
+
+### 4:30pm Talks
+- [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA.
+- [Paul Rosen](https://cspaul.com/), University of Utah, USA.
+- [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
+
+## Wednesday, July 1, 2026
+
+### 8:30 Keynote
+- [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
+
+### 9:30 Coffee break
+
+### 10:00 Talks
+- [Pierre Guillou](https://pierre.guillou.net/), Mines Paris, France.
+- [Eve Le Guillou](https://eve-le-guillou.github.io/),  Technical University of Munich, Germany.
+- [Jonas Lukasczyk](https://jluk.de/), RPTU Kaiserslautern-Landau, Germany.
+
+
+### 11:00 Break & Informal discussions
+
+### 12:00pm Lunch
+
+### 2:00pm Break & Informal discussions
+
+### 3:00pm Talks
+- [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
+- [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
+- [Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.
+
+### 4:00pm Coffee break
+
+### 4:30pm Talks
+- [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
+- [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/), Université Lyon 1, France.
+- [Martin Skrodzki](https://ms-math-computer.science/), TU Delft, Netherlands.
+
+## Thursday, July 2, 2026
+
+### 8:30 Keynote
+- [Facundo Memoli](https://facundo-memoli.org/), Ohio State University, USA.
+
+### 9:30 Coffee break
+
+### 10:00 Talks
+- [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), Indian Institute of Science, India.
+- [Mathieu Pont](https://mathieu-pont.github.io/), RPTU Kaiserslautern-Landau, Germany.
+- [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509), CNRS and Sorbonne University, France.
+
+### 11:00 Break & Informal discussions
+
+### 12:00pm Lunch
+
+### 2:00pm Break & Informal discussions
+
+### 3:00pm Talks
+- [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner), Australian National University, Australia.
+- [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
+- [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/), Sorbonne University, France.
+
+### 4:00pm Coffee break
+
+### 4:30pm Talks
+- [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
+- [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/), Nanyang Technological University, Singapore.
+- [Florian Russold](https://www.geometrie.tugraz.at/russold/), TU Graz, Austria.
+
+## Friday, July 3, 2026
+
+### 8:30 Capstone
+- [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/), University of Arkansas, USA.
+
+### 9:30 Coffee break
+
+### 10:00 Talks
+- [Mohamed Kissi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2611), CNRS and Sorbonne University, France.
+- [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840), CNRS and Sorbonne University, France.
+- [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655), CNRS and Sorbonne University, France.
+
+### 11:00 Closing & Informal discussions
 
 <a name="travel">
 # Travel
