@@ -37,7 +37,31 @@ target='new'>
       </tr>
       
         <tr height="75pt"/>
-  
+ 
+         <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2509.14904"
+target='new'>
+          <img src='https://julien-tierny.github.io/img/sisouk_tvcg26_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="https://arxiv.org/abs/2509.14904">
+        Robust Barycenters of Persistence Diagrams
+        </a><br>
+        <br>
+        Keanu Sisouk, Eloi Tanguy, Julie Delon, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Accepted, to be presented at IEEE VIS 2026.<br>
+        <br>
+        <a target='new' href="https://github.com/Keanu-Sisouk/RobustBarycenter">Code</a>
+        </td>
+      </tr>
+      
+        <tr height="75pt"/>
+ 
                 <tr>
         <td width='30%'>
         <a
