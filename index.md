@@ -17,7 +17,7 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
-            Our paper on <a href="https://arxiv.org/abs/2509.14904" target='new'>robust diagram barycenters</a>
+            Our paper on <a href="https://arxiv.org/abs/2509.14904" target='new'>robust persistence diagram barycenters</a>
             has been accepted to IEEE TVCG!
           </td>
           <td align="right">
