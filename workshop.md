@@ -85,7 +85,9 @@ Florida, USA.
 
 ### 10:00 Talks
 - [Henry Adams](https://people.clas.ufl.edu/henry-adams/), University of 
-Florida, USA: *The theory of Vietoris-Rips complexes*
+Florida, USA: 
+
+*The theory of Vietoris-Rips complexes*
 - [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en), KTH Royal Institute of Technology, Sweden.
 - [Nina Otter](https://www.ninaotter.com/), INRIA, France.
 
