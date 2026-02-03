@@ -166,7 +166,7 @@ Florida, USA: *The theory of Vietoris-Rips complexes*
 ### 4:30pm Talks
 - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/), Nanyang Technological University, Singapore.
-- [Florian Russold](https://www.geometrie.tugraz.at/russold/), TU Graz, Austria.
+- [Florian Russold](https://www.geometrie.tugraz.at/russold/), TU Graz, Austria: *Derived Barcodes for two-parameter Persistence Modules*
 
 ## Friday, July 3, 2026
 
