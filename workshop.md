@@ -98,7 +98,7 @@ Florida, USA: *The theory of Vietoris-Rips complexes*
 ### 3:00pm Talks
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
 - [Federico Iuricich](https://fiurici.people.clemson.edu/), Clemson University, USA.
-- [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
+- [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden: *Multifield Topological Analysis: Methods, Applications, and Open Challenges*
 
 ### 4:00pm Coffee break
 
