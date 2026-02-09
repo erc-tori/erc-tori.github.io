@@ -170,7 +170,7 @@ Florida, USA.
 ## Friday, July 3, 2026
 
 ### 8:30 Capstone
-- [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/).
+- [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/): *When the math is the data, experiences illustrating mathematics*
 
 ### 9:30 Coffee break
 
