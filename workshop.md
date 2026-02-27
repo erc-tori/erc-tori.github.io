@@ -164,7 +164,7 @@ Florida, USA.
 
 ### 4:30pm Talks
 - [Chao Chen](https://chaochen.github.io/).
-- [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
+- [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/): *Mathematical AI: from topological data analysis to topological deep learning*
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/): *Derived Barcodes for two-parameter Persistence Modules*
 
 ## Friday, July 3, 2026
