@@ -11,7 +11,7 @@ Welcome to the webpage of the [TORI](https://erc-tori.github.io/) Workshop!
 <table>
   <tr>
     <td width="100%">
-      <img width="90%" src="/img/workshop/wimereuxEstuaire.jpg">
+      <img width="100%" src="/img/workshop/wimereuxEstuaire.jpg">
     </td>
   </tr>
 </table>
@@ -206,13 +206,39 @@ If you have any travel related questions, please feel free to [reach out to the 
 <a name="pictures">
 # Pictures
 
-
+<table>
+  <tr>
+    <td width="100%">
+      <img width="100%" src="/img/workshop/capBlancNez.jpg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="100%">
+      <img width="100%" src="/img/workshop/franceGrisNez2Dover.jpg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="100%">
+      <img width="100%" src="/img/workshop/wimereuxRueCarnot.jpg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="100%">
+      <img width="100%" src="/img/workshop/wimereuxDigue.jpg">
+    </td>
+  </tr>
+  
+</table>
+<!--
 [![test](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cap_Blanc-Nez.jpg/800px-Cap_Blanc-Nez.jpg?20190602152204)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cap_Blanc-Nez.jpg/800px-Cap_Blanc-Nez.jpg?20190602152204)
 
 [![test](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/FranceGrisNez2Dover.jpg/800px-FranceGrisNez2Dover.jpg?20171021091959)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/FranceGrisNez2Dover.jpg/800px-FranceGrisNez2Dover.jpg?20171021091959)
 
 [![test](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LL_49_-_WIMEREUX_-_La_Rue_Carnot.JPG/800px-LL_49_-_WIMEREUX_-_La_Rue_Carnot.JPG?20121203063917)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LL_49_-_WIMEREUX_-_La_Rue_Carnot.JPG/800px-LL_49_-_WIMEREUX_-_La_Rue_Carnot.JPG?20121203063917)
 
-[![test](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG/800px-0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG?20140327131419)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG/800px-0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG?20140327131419)
+[![test](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG/800px-0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG?20140327131419)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG/800px-0_Digue_Promenade_Michel_Hamiot_-_Wimereux.JPG?20140327131419)-->
 
 
