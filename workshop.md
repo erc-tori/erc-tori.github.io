@@ -54,7 +54,7 @@ Florida, USA.
 - [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en), KTH Royal Institute of Technology, Sweden. 
 - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/), Université Lyon 1, France. 
-- ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.~~
+<!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.~~ -->
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
 - [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840), CNRS and Sorbonne University, France.
 - [Pierre Guillou](https://pierre.guillou.net/), Mines Paris, France.
@@ -137,7 +137,7 @@ Florida, USA.
 ### 3:00pm Talks
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75).
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32).
-- ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~
+<!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
 
 ### 4:00pm Coffee break
 
