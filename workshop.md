@@ -8,7 +8,16 @@ noindex: true
 
 Welcome to the webpage of the [TORI](https://erc-tori.github.io/) Workshop!
 
-[![river](img/workshop/wimereuxEstuaire.jpg)](img/workshop/wimereuxEstuaire.jpg)
+<table>
+  <tr>
+    <td width="100%">
+      <img width="90%" src="/img/workshop/wimereuxEstuaire.jpg">
+    </td>
+  </tr>
+</table>
+
+
+<!-- [![river](img/workshop/wimereuxEstuaire.jpg)](img/workshop/wimereuxEstuaire.jpg) -->
 
 # About
 The TORI workshop is an invitation-only, retreat-style (Dagstuhl-like) workshop on topological methods for data analysis and visualization. It is funded by the [ERC](https://erc.europa.eu/) project [TORI](https://erc-tori.github.io/) and organized to mark the end of this project. Its goal is to summarize and communicate around the major results of the community over the last five years in the fields of topological data description and analysis, and to discuss the most vibrant perspectives for the future.
