@@ -167,7 +167,7 @@ Florida, USA.
 ### 3:00pm Talks
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner).
 - [Elizabeth Munch](https://elizabethmunch.com/).
-- [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/).
+- [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/): *Integral geometry of subanalytic sets*
 
 ### 4:00pm Coffee break
 
