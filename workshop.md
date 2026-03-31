@@ -57,6 +57,7 @@ Florida, USA.
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.~~ -->
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
 - [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840), CNRS and Sorbonne University, France.
+- [Tim Gerrits](https://vis.timgerrits.de/), RWTH Aachen University, Germany.
 - [Pierre Guillou](https://pierre.guillou.net/), Mines Paris, France.
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden.
 - [Federico Iuricich](https://fiurici.people.clemson.edu/), Clemson University, USA.
@@ -104,7 +105,7 @@ Florida, USA.
 ### 2:00pm Break & Informal discussions
 
 ### 3:00pm Talks
-- [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
+- [Tim Gerrits](https://vis.timgerrits.de/).
 - [Federico Iuricich](https://fiurici.people.clemson.edu/).
 - [Talha Bin Masood](https://liu.se/en/employee/talma90): *Multifield Topological Analysis: Methods, Applications, and Open Challenges*
 
@@ -135,8 +136,9 @@ Florida, USA.
 ### 2:00pm Break & Informal discussions
 
 ### 3:00pm Talks
-- [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75).
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32).
+- [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75).
+- [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
 
 ### 4:00pm Coffee break
