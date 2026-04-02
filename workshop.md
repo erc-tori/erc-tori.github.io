@@ -114,7 +114,7 @@ Florida, USA.
 ### 4:30pm Talks
 - [Brian Summa](https://sse.tulane.edu/brian-summa).
 - [Paul Rosen](https://cspaul.com/).
-- [Joshua A. Levine](https://jalevine.bitbucket.io/).
+- [Joshua A. Levine](https://jalevine.bitbucket.io/): *Computing Discrete Vector Fields Efficiently and with Correct Critical Points*
 
 ## Wednesday, July 1, 2026
 
