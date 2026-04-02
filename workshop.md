@@ -151,7 +151,7 @@ Florida, USA.
 ## Thursday, July 2, 2026
 
 ### 8:30 Keynote
-- [Facundo Memoli](https://facundo-memoli.org/).
+- [Facundo Memoli](https://facundo-memoli.org/): *Grassmannian Persistence Diagrams*
 
 ### 9:30 Coffee break
 
