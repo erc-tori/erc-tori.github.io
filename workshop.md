@@ -41,7 +41,7 @@ June 30, 2026 to July 3, 2026.
 # Keynote speakers
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. 
 - [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/), University of Arkansas, USA.
-- [Facundo Memoli](https://facundo-memoli.org/), Rutgers University, USA.
+- [Facundo Mémoli](https://facundo-memoli.org/), Rutgers University, USA.
 - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
 
 <!-- More keynote speakers TBA. -->
@@ -151,7 +151,7 @@ Florida, USA.
 ## Thursday, July 2, 2026
 
 ### 8:30 Keynote
-- [Facundo Memoli](https://facundo-memoli.org/): *Grassmannian Persistence Diagrams*
+- [Facundo Mémoli](https://facundo-memoli.org/): *Grassmannian Persistence Diagrams*
 
 ### 9:30 Coffee break
 
