@@ -158,7 +158,7 @@ Florida, USA.
 ### 10:00 Talks
 - [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/).
 - [Mathieu Pont](https://mathieu-pont.github.io/): *Analysis of Ensembles of Topological Descriptors*
-- [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509).
+- [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509): *Wasserstein Barycenters of Persistence Diagrams and Applications*
 
 ### 11:00 Break & Informal discussions
 
