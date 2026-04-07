@@ -186,7 +186,8 @@ Florida, USA.
 ### 9:30 Coffee break
 
 ### 10:00 Talks
-- [Mohamed Kissi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2611).
+- [Mohamed Kissi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2611): *Persistence Optimization for
+Data Visualization*
 - [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840).
 - [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655).
 
