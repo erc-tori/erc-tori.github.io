@@ -126,7 +126,7 @@ Florida, USA.
 ### 10:00 Talks
 - [Pierre Guillou](https://pierre.guillou.net/).
 - [Eve Le Guillou](https://eve-le-guillou.github.io/).
-- [Jonas Lukasczyk](https://jluk.de/).
+- [Jonas Lukasczyk](https://jluk.de/): *Towards a Taxonomy for Topology-Based Feature Tracking in Time-Varying Piecewise-Linear Scalar Fields*
 
 
 ### 11:00 Break & Informal discussions
