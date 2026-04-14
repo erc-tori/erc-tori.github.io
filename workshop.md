@@ -124,7 +124,7 @@ Florida, USA.
 ### 9:30 Coffee break
 
 ### 10:00 Talks
-- [Pierre Guillou](https://pierre.guillou.net/).
+- [Pierre Guillou](https://pierre.guillou.net/): *Discrete Morse Sandwich: Fast Computation of Persistence Diagrams*
 - [Eve Le Guillou](https://eve-le-guillou.github.io/).
 - [Jonas Lukasczyk](https://jluk.de/): *Towards a Taxonomy for Topology-Based Feature Tracking in Time-Varying Piecewise-Linear Scalar Fields*
 
