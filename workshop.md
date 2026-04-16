@@ -146,7 +146,7 @@ Florida, USA.
 ### 4:30pm Talks
 - [Leland McInnes](https://github.com/lmcinnes).
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/).
-- [Martin Skrodzki](https://ms-math-computer.science/).
+- [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
 
 ## Thursday, July 2, 2026
 
