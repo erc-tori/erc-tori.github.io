@@ -92,7 +92,7 @@ href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a>
 
     <td>
       Sebastien Tchitchek<br>
-      2023 - present<br>
+      2022 - present<br>
       <a href="https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1582" target="new">Web page</a>
     </td>
   </tr>
