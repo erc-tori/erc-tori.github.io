@@ -86,6 +86,10 @@ Florida, USA.
 <a name="schedule">
 # Schedule 
 
+## Monday, June 29, 2026
+
+### Welcome dinner
+
 ## Tuesday, June 30, 2026
 
 ### 8:30 Keynote
@@ -115,6 +119,8 @@ Florida, USA.
 - [Brian Summa](https://sse.tulane.edu/brian-summa).
 - [Paul Rosen](https://cspaul.com/).
 - [Joshua A. Levine](https://jalevine.bitbucket.io/): *Computing Discrete Vector Fields Efficiently and with Correct Critical Points*
+
+### Dinner
 
 ## Wednesday, July 1, 2026
 
@@ -148,6 +154,8 @@ Florida, USA.
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/).
 - [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
 
+### Dinner
+
 ## Thursday, July 2, 2026
 
 ### 8:30 Keynote
@@ -177,6 +185,8 @@ Florida, USA.
 - [Chao Chen](https://chaochen.github.io/).
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/): *Mathematical AI: from topological data analysis to topological deep learning*
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/): *Derived Barcodes for two-parameter Persistence Modules*
+
+### Dinner
 
 ## Friday, July 3, 2026
 
