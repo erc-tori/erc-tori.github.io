@@ -99,8 +99,8 @@ Florida, USA.
 
 ### 10:00 Talks
 - [Henry Adams](https://people.clas.ufl.edu/henry-adams/): *The theory of Vietoris-Rips complexes*
-- [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en).
-- [Nina Otter](https://www.ninaotter.com/).
+- [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en). TBA
+- [Nina Otter](https://www.ninaotter.com/). TBA
 
 ### 11:00 Break & Informal discussions
 
@@ -109,15 +109,15 @@ Florida, USA.
 ### 2:00pm Break & Informal discussions
 
 ### 3:00pm Talks
-- [Tim Gerrits](https://vis.timgerrits.de/).
-- [Federico Iuricich](https://fiurici.people.clemson.edu/).
+- [Tim Gerrits](https://vis.timgerrits.de/). TBA
+- [Federico Iuricich](https://fiurici.people.clemson.edu/). TBA
 - [Talha Bin Masood](https://liu.se/en/employee/talma90): *Multifield Topological Analysis: Methods, Applications, and Open Challenges*
 
 ### 4:00pm Coffee break
 
 ### 4:30pm Talks
-- [Brian Summa](https://sse.tulane.edu/brian-summa).
-- [Paul Rosen](https://cspaul.com/).
+- [Brian Summa](https://sse.tulane.edu/brian-summa). TBA
+- [Paul Rosen](https://cspaul.com/). TBA
 - [Joshua A. Levine](https://jalevine.bitbucket.io/): *Computing Discrete Vector Fields Efficiently and with Correct Critical Points*
 
 ### Dinner
@@ -125,13 +125,13 @@ Florida, USA.
 ## Wednesday, July 1, 2026
 
 ### 8:30 Keynote
-- [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci).
+- [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci). TBA
 
 ### 9:30 Coffee break
 
 ### 10:00 Talks
 - [Pierre Guillou](https://pierre.guillou.net/): *Discrete Morse Sandwich: Fast Computation of Persistence Diagrams*
-- [Eve Le Guillou](https://eve-le-guillou.github.io/).
+- [Eve Le Guillou](https://eve-le-guillou.github.io/). TBA
 - [Jonas Lukasczyk](https://jluk.de/): *Towards a Taxonomy for Topology-Based Feature Tracking in Time-Varying Piecewise-Linear Scalar Fields*
 
 
@@ -142,16 +142,16 @@ Florida, USA.
 ### 2:00pm Break & Informal discussions
 
 ### 3:00pm Talks
-- [Ingrid Hotz](https://liu.se/en/employee/ingho32).
+- [Ingrid Hotz](https://liu.se/en/employee/ingho32). TBA
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75).
-- [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
+- [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
 
 ### 4:00pm Coffee break
 
 ### 4:30pm Talks
-- [Leland McInnes](https://github.com/lmcinnes).
-- [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/).
+- [Leland McInnes](https://github.com/lmcinnes). TBA
+- [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/). TBA
 - [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
 
 ### Dinner
@@ -164,7 +164,7 @@ Florida, USA.
 ### 9:30 Coffee break
 
 ### 10:00 Talks
-- [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/).
+- [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/). TBA
 - [Mathieu Pont](https://mathieu-pont.github.io/): *Analysis of Ensembles of Topological Descriptors*
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509): *Wasserstein Barycenters of Persistence Diagrams and Applications*
 
@@ -175,14 +175,14 @@ Florida, USA.
 ### 2:00pm Break & Informal discussions
 
 ### 3:00pm Talks
-- [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner).
-- [Elizabeth Munch](https://elizabethmunch.com/).
+- [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner). TBA
+- [Elizabeth Munch](https://elizabethmunch.com/). TBA
 - [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/): *Integral geometry of subanalytic sets*
 
 ### 4:00pm Coffee break
 
 ### 4:30pm Talks
-- [Chao Chen](https://chaochen.github.io/).
+- [Chao Chen](https://chaochen.github.io/). TBA
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/): *Mathematical AI: from topological data analysis to topological deep learning*
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/): *Derived Barcodes for two-parameter Persistence Modules*
 
@@ -198,8 +198,8 @@ Florida, USA.
 ### 10:00 Talks
 - [Mohamed Kissi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2611): *Persistence Optimization for
 Data Visualization*
-- [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840).
-- [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655).
+- [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840). TBA
+- [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655). TBA
 
 ### 11:00 Closing & Informal discussions
 
