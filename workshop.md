@@ -94,6 +94,7 @@ Florida, USA.
 
 ### 8:30 Keynote
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/).
+  - Session chair: [Henry Adams](https://people.clas.ufl.edu/henry-adams/).
 
 ### 9:30 Coffee break
 
