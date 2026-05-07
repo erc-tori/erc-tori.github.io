@@ -144,7 +144,7 @@ Florida, USA.
 
 ### 3:00pm Talks
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32). TBA
-- [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75).
+- [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75). TBA
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
 
