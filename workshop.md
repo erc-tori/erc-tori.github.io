@@ -157,7 +157,7 @@ Florida, USA.
 - [Leland McInnes](https://github.com/lmcinnes). TBA
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/). TBA
 - [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
-  - Session chair: [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/)
+  - Session chair: [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/).
 
 ### Dinner
 
@@ -172,7 +172,7 @@ Florida, USA.
 - [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/). TBA
 - [Mathieu Pont](https://mathieu-pont.github.io/): *Analysis of Ensembles of Topological Descriptors*
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509): *Wasserstein Barycenters of Persistence Diagrams and Applications*
-  - Session chair: [Elizabeth Munch](https://elizabethmunch.com/)
+  - Session chair: [Elizabeth Munch](https://elizabethmunch.com/).
 
 ### 11:00 Break & Informal discussions
 
@@ -191,7 +191,7 @@ Florida, USA.
 - [Chao Chen](https://chaochen.github.io/). TBA
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/): *Mathematical AI: from topological data analysis to topological deep learning*
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/): *Derived Barcodes for two-parameter Persistence Modules*
-  - Session chair: [Paul Rosen](https://cspaul.com/)
+  - Session chair: [Paul Rosen](https://cspaul.com/).
 
 ### Dinner
 
@@ -199,7 +199,7 @@ Florida, USA.
 
 ### 8:30 Capstone
 - [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/): *When the math is the data, experiences illustrating mathematics*
-  - Session chair: [Martin Skrodzki](https://ms-math-computer.science/)
+  - Session chair: [Martin Skrodzki](https://ms-math-computer.science/).
 
 ### 9:30 Coffee break
 
