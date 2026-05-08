@@ -150,6 +150,7 @@ Florida, USA.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75). TBA
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
+  - Session chair: [Nina Otter](https://www.ninaotter.com/).
 
 ### 4:00pm Coffee break
 
