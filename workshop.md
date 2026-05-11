@@ -52,7 +52,7 @@ June 30, 2026 to July 3, 2026.
 Florida, USA.
 - [Talha Bin Masood](https://liu.se/en/employee/talma90), Linköping University, Sweden.
 - [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en), KTH Royal Institute of Technology, Sweden. 
-- [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA.
+<!-- - [Chao Chen](https://chaochen.github.io/), Stony Brook University, USA. -->
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/), Université Lyon 1, France. 
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html), Polish Academy of Science, Poland.~~ -->
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/), RPTU Kaiserslautern-Landau, Germany.
@@ -189,7 +189,7 @@ Florida, USA.
 ### 4:00pm Coffee break
 
 ### 4:30pm Talks
-- [Chao Chen](https://chaochen.github.io/). TBA
+<!-- - [Chao Chen](https://chaochen.github.io/). TBA -->
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/): *Mathematical AI: from topological data analysis to topological deep learning*
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/): *Derived Barcodes for two-parameter Persistence Modules*
   - Session chair: [Paul Rosen](https://cspaul.com/).
