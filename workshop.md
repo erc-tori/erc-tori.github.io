@@ -185,7 +185,7 @@ Florida, USA.
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner). TBA
 - [Elizabeth Munch](https://elizabethmunch.com/). TBA
 - [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/): *Integral geometry of subanalytic sets*
- - Session chair: [Ingrid Hotz](https://liu.se/en/employee/ingho32).
+  - Session chair: [Ingrid Hotz](https://liu.se/en/employee/ingho32).
 
 ### 4:00pm Coffee break
 
