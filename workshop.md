@@ -143,23 +143,23 @@ Florida, USA.
 
 ### 12:00pm Lunch
 
-### 2:00pm Break & Informal discussions
-
-### 3:00pm Talks
+### 2:00pm Talks
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32). TBA
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75). TBA
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
   - Session chair: [Nina Otter](https://www.ninaotter.com/).
 
-### 4:00pm Coffee break
+### 3:00pm Coffee break
 
-### 4:30pm Talks
+### 3:30pm Talks
 - [Leland McInnes](https://github.com/lmcinnes). TBA
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/). TBA
 - [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
   - Session chair: [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/).
 
+### 4:30pm Local brewery visit (tentative)
+  
 ### Dinner
 
 ## Thursday, July 2, 2026
