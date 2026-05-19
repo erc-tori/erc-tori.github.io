@@ -153,7 +153,7 @@ Florida, USA.
 ### 3:00pm Coffee break
 
 ### 3:30pm Talks
-- [Leland McInnes](https://github.com/lmcinnes). TBA
+- [Leland McInnes](https://github.com/lmcinnes): *Persistent Homology in High Dimensions and Dimension Reduction*
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/). TBA
 - [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
   - Session chair: [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/).
