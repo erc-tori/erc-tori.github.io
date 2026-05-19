@@ -166,6 +166,7 @@ Florida, USA.
 
 ### 8:30 Keynote
 - [Facundo Mémoli](https://facundo-memoli.org/): *Grassmannian Persistence Diagrams*
+  - Session chair: [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner).
 
 ### 9:30 Coffee break
 
