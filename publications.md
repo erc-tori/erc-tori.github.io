@@ -61,6 +61,28 @@ target='new'>
       </tr>
       
         <tr height="75pt"/>
+        
+        <tr>
+        <td width='25%'>
+        <a
+href="https://hal.science/hal-05623089v1"
+target='new'>
+          <img src='https://julien-tierny.github.io/img/will_cgf26_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="https://hal.science/hal-05623089v1">
+        Scalable Computation of Topological Abstractions for Scalar Data
+        </a><br>
+        <br>
+        Michael Will, Jonas Lukasczyk, Julien Tierny, Attila Gyulassy, Gunther Weber, Hamish Carr, Christoph Garth
+        <br><br>
+        <b>Computer Graphics Forum</b><br>
+        Proc. of EuroVis (STAR) 2026.<br>
+        </td>
+      </tr>
+ 
+ <tr height="75pt"/>
  
                 <tr>
         <td width='30%'>

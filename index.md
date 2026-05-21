@@ -17,6 +17,16 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
+            Our survey on <a href="https://hal.science/hal-05623089v1" target='new'>scalable topology computation</a>
+            has been accepted as a EuroVis STAR!
+          </td>
+          <td align="right">
+            [Apr. 21, 2026]
+          </td>
+        </tr>
+<tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
             Our paper on <a href="https://arxiv.org/abs/2509.14904" target='new'>robust persistence diagram barycenters</a>
             has been accepted to IEEE TVCG!
           </td>
