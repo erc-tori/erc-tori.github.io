@@ -74,6 +74,7 @@ Florida, USA.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
 - [Paul Rosen](https://cspaul.com/), University of Utah, USA.
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/), TU Graz, Austria.
+- [Grégoire Sergeant-Perthuis](https://www.normalesup.org/~sergeant/), Sorbonne University, France.
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509), CNRS and Sorbonne University, France.
 - [Martin Skrodzki](https://ms-math-computer.science/), TU Delft, Netherlands.
 <!-- - [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA. -->
@@ -195,6 +196,7 @@ Florida, USA.
 <!-- - [Chao Chen](https://chaochen.github.io/). TBA -->
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/): *Mathematical AI: from topological data analysis to topological deep learning*
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/): *Derived Barcodes for two-parameter Persistence Modules*
+- [Grégoire Sergeant-Perthuis](https://www.normalesup.org/~sergeant/), Sorbonne University, France.
   - Session chair: [Paul Rosen](https://cspaul.com/).
 
 ### Dinner
