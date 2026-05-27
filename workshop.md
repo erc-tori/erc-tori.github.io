@@ -76,7 +76,7 @@ Florida, USA.
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/), TU Graz, Austria.
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509), CNRS and Sorbonne University, France.
 - [Martin Skrodzki](https://ms-math-computer.science/), TU Delft, Netherlands.
-- [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA.
+<!-- - [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA. -->
 - [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655), CNRS and Sorbonne University, France.
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner), Australian National University, Australia.
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/), Nanyang Technological University, Singapore.
@@ -119,7 +119,7 @@ Florida, USA.
 ### 4:00pm Coffee break
 
 ### 4:30pm Talks
-- [Brian Summa](https://sse.tulane.edu/brian-summa). TBA
+<!-- - [Brian Summa](https://sse.tulane.edu/brian-summa). TBA -->
 - [Paul Rosen](https://cspaul.com/). TBA
 - [Joshua A. Levine](https://jalevine.bitbucket.io/): *Computing Discrete Vector Fields Efficiently and with Correct Critical Points*
   - Session chair: [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
