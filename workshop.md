@@ -131,6 +131,7 @@ Florida, USA.
 
 ### 8:30 Keynote
 - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci). TBA
+  - Session chair: [Julien Tierny](https://julien-tierny.github.io/)
 
 ### 9:30 Coffee break
 
