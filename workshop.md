@@ -102,7 +102,7 @@ Florida, USA.
 ### 10:00 Talks
 - [Henry Adams](https://people.clas.ufl.edu/henry-adams/): *The theory of Vietoris-Rips complexes*
 - [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en). TBA
-- [Nina Otter](https://www.ninaotter.com/). TBA
+- [Nina Otter](https://www.ninaotter.com/). *Dimensions in persistence and beyond*
   - Session chair: [Joshua A. Levine](https://jalevine.bitbucket.io/).
 
 ### 11:00 Break & Informal discussions
