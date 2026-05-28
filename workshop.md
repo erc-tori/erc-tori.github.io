@@ -197,7 +197,7 @@ Florida, USA.
 <!-- - [Chao Chen](https://chaochen.github.io/). TBA -->
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/): *Mathematical AI: from topological data analysis to topological deep learning*
 - [Florian Russold](https://www.geometrie.tugraz.at/russold/): *Derived Barcodes for two-parameter Persistence Modules*
-- [Grégoire Sergeant-Perthuis](https://www.normalesup.org/~sergeant/), Sorbonne University, France.
+- [Grégoire Sergeant-Perthuis](https://www.normalesup.org/~sergeant/): *Sheaves in Machine Learning*
   - Session chair: [Paul Rosen](https://cspaul.com/).
 
 ### Dinner
