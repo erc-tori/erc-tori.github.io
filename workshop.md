@@ -187,7 +187,7 @@ Florida, USA.
 
 ### 3:00pm Talks
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner). TBA
-- [Elizabeth Munch](https://elizabethmunch.com/). TBA
+- [Elizabeth Munch](https://elizabethmunch.com/): *Canopies for Parameterized Persistence, or: How I learned to stop worrying and love the diagonal*
 - [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/): *Integral geometry of subanalytic sets*
   - Session chair: [Ingrid Hotz](https://liu.se/en/employee/ingho32).
 
