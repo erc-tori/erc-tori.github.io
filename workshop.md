@@ -78,7 +78,7 @@ Florida, USA.
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509), CNRS and Sorbonne University, France.
 - [Martin Skrodzki](https://ms-math-computer.science/), TU Delft, Netherlands.
 <!-- - [Brian Summa](https://sse.tulane.edu/brian-summa), Tulane University, USA. -->
-- [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655), CNRS and Sorbonne University, France.
+<!-- - [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655), CNRS and Sorbonne University, France. -->
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner), Australian National University, Australia.
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/), Nanyang Technological University, Singapore.
 
@@ -214,7 +214,7 @@ Florida, USA.
 - [Mohamed Kissi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2611): *Persistence Optimization for
 Data Visualization*
 - [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840). TBA
-- [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655). TBA
+<!-- - [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655). TBA -->
   - Session chair: [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
 
 ### 11:00 Closing & Informal discussions
