@@ -69,6 +69,7 @@ Florida, USA.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
 - [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), Indian Institute of Science, India.
+- [Tim Ophelders](https://tophelde.win.tue.nl/), TU Eindhoven, Netherlands.
 - [Nina Otter](https://www.ninaotter.com/), INRIA, France.
 - [Mathieu Pont](https://mathieu-pont.github.io/), RPTU Kaiserslautern-Landau, Germany.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
@@ -121,6 +122,7 @@ Florida, USA.
 
 ### 4:30pm Talks
 <!-- - [Brian Summa](https://sse.tulane.edu/brian-summa). TBA -->
+- [Tim Ophelders](https://tophelde.win.tue.nl/): *Locally Correct Interleavings Between Merge Trees*
 - [Paul Rosen](https://cspaul.com/). TBA
 - [Joshua A. Levine](https://jalevine.bitbucket.io/): *Computing Discrete Vector Fields Efficiently and with Correct Critical Points*
   - Session chair: [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
