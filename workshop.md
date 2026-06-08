@@ -65,6 +65,7 @@ Florida, USA.
 - [Eve Le Guillou](https://eve-le-guillou.github.io/),  Technical University of Munich, Germany.
 - [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/), Sorbonne University, France.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, USA.
+- [Théophane Loloum](https://www.linkedin.com/in/theophaneloloum/), CEA, France.
 - [Jonas Lukasczyk](https://jluk.de/), RPTU Kaiserslautern-Landau, Germany.
 - [Leland McInnes](https://github.com/lmcinnes), Tutte Institute for Mathematics and Computing, Canada.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
@@ -215,6 +216,7 @@ Florida, USA.
 ### 10:00 Talks
 - [Mohamed Kissi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2611): *Persistence Optimization for
 Data Visualization*
+- [Théophane Loloum](https://www.linkedin.com/in/theophaneloloum/). TBA
 - [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840). TBA
 <!-- - [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655). TBA -->
   - Session chair: [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
