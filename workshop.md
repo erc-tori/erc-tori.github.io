@@ -140,7 +140,7 @@ Florida, USA.
 
 ### 10:00 Talks
 - [Pierre Guillou](https://pierre.guillou.net/): *Discrete Morse Sandwich: Fast Computation of Persistence Diagrams*
-- [Eve Le Guillou](https://eve-le-guillou.github.io/). TBA
+- [Eve Le Guillou](https://eve-le-guillou.github.io/): *Distributed Topological Data Analysis in TTK*
 - [Jonas Lukasczyk](https://jluk.de/): *Towards a Taxonomy for Topology-Based Feature Tracking in Time-Varying Piecewise-Linear Scalar Fields*
   - Session chair: [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en).
 
