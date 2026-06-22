@@ -114,7 +114,7 @@ Florida, USA.
 ### 2:00pm Break & Informal discussions
 
 ### 3:00pm Talks
-- [Tim Gerrits](https://vis.timgerrits.de/). TBA
+- [Tim Gerrits](https://vis.timgerrits.de/): *Exploring Uncertain Topology in Second-Order Tensor Field Ensembles*
 - [Federico Iuricich](https://fiurici.people.clemson.edu/). TBA
 - [Talha Bin Masood](https://liu.se/en/employee/talma90): *Multifield Topological Analysis: Methods, Applications, and Open Challenges*
   - Session chair: [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75).
