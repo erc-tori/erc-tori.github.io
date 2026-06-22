@@ -151,7 +151,7 @@ Florida, USA.
 
 ### 2:00pm Talks
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32). TBA
-- [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75). TBA
+- [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75): *A brief introduction to the Reduced Vietoris-Rips filtration for computing persistent homology*
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
   - Session chair: [Nina Otter](https://www.ninaotter.com/).
