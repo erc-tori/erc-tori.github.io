@@ -149,16 +149,16 @@ Florida, USA.
 
 ### 12:00pm Lunch
 
-### 2:00pm Talks
+### 1:45pm Talks
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32). TBA
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75): *A brief introduction to the Reduced Vietoris-Rips filtration for computing persistent homology*
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
   - Session chair: [Nina Otter](https://www.ninaotter.com/).
 
-### 3:00pm Coffee break
+### 2:45pm Coffee break
 
-### 3:30pm Talks
+### 3:15pm Talks
 - [Leland McInnes](https://github.com/lmcinnes): *Persistent Homology in High Dimensions and Dimension Reduction*
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/). TBA
 - [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
