@@ -164,7 +164,8 @@ Florida, USA.
 - [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
   - Session chair: [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/).
 
-### 4:30pm Local brewery visit 
+### 4:30pm Local visit 
+- [The brewery of the 2 capes](https://www.2caps.fr/visite-de-la-brasserie/).
   
 ### Dinner
 
