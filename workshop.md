@@ -178,7 +178,7 @@ Florida, USA.
 ### 9:30 Coffee break
 
 ### 10:00 Talks
-- [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/). TBA
+- [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/): *Analyzing Tme-varying Scalar Fields using Morse-Cerf Theory*
 - [Mathieu Pont](https://mathieu-pont.github.io/): *Analysis of Ensembles of Topological Descriptors*
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509): *Wasserstein Barycenters of Persistence Diagrams and Applications*
   - Session chair: [Elizabeth Munch](https://elizabethmunch.com/).
