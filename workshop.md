@@ -95,6 +95,8 @@ Florida, USA.
 
 ## Tuesday, June 30, 2026
 
+### 8:15 Opening
+
 ### 8:30 Keynote
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/).
   - Session chair: [Henry Adams](https://people.clas.ufl.edu/henry-adams/).
@@ -129,6 +131,7 @@ Florida, USA.
   - Session chair: [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
 
 ### Dinner
+- [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Wednesday, July 1, 2026
 
@@ -168,6 +171,7 @@ Florida, USA.
 - [The brewery of the 2 capes](https://www.2caps.fr/visite-de-la-brasserie/).
   
 ### Dinner
+- [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Thursday, July 2, 2026
 
@@ -205,6 +209,7 @@ Florida, USA.
   - Session chair: [Paul Rosen](https://cspaul.com/).
 
 ### Dinner
+- [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Friday, July 3, 2026
 
