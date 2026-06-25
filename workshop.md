@@ -96,21 +96,21 @@ Florida, USA.
 
 ## Tuesday, June 30, 2026
 
-### 8:15 Opening
+### 8:45 Opening
 
-### 8:30 Keynote
+### 9:00 Keynote
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/).
   - Session chair: [Henry Adams](https://people.clas.ufl.edu/henry-adams/).
 
-### 9:30 Coffee break
+### 10:00 Coffee break
 
-### 10:00 Talks
+### 10:30 Talks
 - [Henry Adams](https://people.clas.ufl.edu/henry-adams/): *The theory of Vietoris-Rips complexes*
 - [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en). TBA
 - [Nina Otter](https://www.ninaotter.com/). *Dimensions in persistence and beyond*
   - Session chair: [Joshua A. Levine](https://jalevine.bitbucket.io/).
 
-### 11:00 Break & Informal discussions
+### 11:30 Break & Informal discussions
 
 ### 12:00pm Lunch
 - [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
@@ -137,20 +137,20 @@ Florida, USA.
 
 ## Wednesday, July 1, 2026
 
-### 8:30 Keynote
+### 9:00 Keynote
 - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci). TBA
   - Session chair: [Julien Tierny](https://julien-tierny.github.io/)
 
-### 9:30 Coffee break
+### 10:00 Coffee break
 
-### 10:00 Talks
+### 10:30 Talks
 - [Pierre Guillou](https://pierre.guillou.net/): *Discrete Morse Sandwich: Fast Computation of Persistence Diagrams*
 - [Eve Le Guillou](https://eve-le-guillou.github.io/): *Distributed Topological Data Analysis in TTK*
 - [Jonas Lukasczyk](https://jluk.de/): *Towards a Taxonomy for Topology-Based Feature Tracking in Time-Varying Piecewise-Linear Scalar Fields*
   - Session chair: [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en).
 
 
-### 11:00 Break & Informal discussions
+### 11:30 Break & Informal discussions
 
 ### 12:00pm Lunch
 - [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
@@ -178,19 +178,19 @@ Florida, USA.
 
 ## Thursday, July 2, 2026
 
-### 8:30 Keynote
+### 9:00 Keynote
 - [Facundo Mémoli](https://facundo-memoli.org/): *Grassmannian Persistence Diagrams*
   - Session chair: [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner).
 
-### 9:30 Coffee break
+### 10:00 Coffee break
 
-### 10:00 Talks
+### 10:30 Talks
 - [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/): *Analyzing Tme-varying Scalar Fields using Morse-Cerf Theory*
 - [Mathieu Pont](https://mathieu-pont.github.io/): *Analysis of Ensembles of Topological Descriptors*
 - [Keanu Sisouk](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2509): *Wasserstein Barycenters of Persistence Diagrams and Applications*
   - Session chair: [Elizabeth Munch](https://elizabethmunch.com/).
 
-### 11:00 Break & Informal discussions
+### 11:30 Break & Informal discussions
 
 ### 12:00pm Lunch
 - [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
@@ -217,13 +217,13 @@ Florida, USA.
 
 ## Friday, July 3, 2026
 
-### 8:30 Capstone
+### 9:00 Capstone
 - [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/): *When the math is the data, experiences illustrating mathematics*
   - Session chair: [Martin Skrodzki](https://ms-math-computer.science/).
 
-### 9:30 Coffee break
+### 10:00 Coffee break
 
-### 10:00 Talks
+### 10:30 Talks
 - [Mohamed Kissi](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2611): *Persistence Optimization for
 Data Visualization*
 - [Théophane Loloum](https://www.linkedin.com/in/theophaneloloum/). TBA
@@ -231,7 +231,7 @@ Data Visualization*
 <!-- - [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655). TBA -->
   - Session chair: [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
 
-### 11:00 Closing & Informal discussions
+### 11:30 Closing & Informal discussions
 
 
 <a name="travel">
