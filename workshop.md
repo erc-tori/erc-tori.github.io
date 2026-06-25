@@ -92,8 +92,11 @@ Florida, USA.
 ## Monday, June 29, 2026
 
 ### Welcome dinner
+- [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Tuesday, June 30, 2026
+
+### 8:15 Opening
 
 ### 8:30 Keynote
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/).
@@ -110,6 +113,7 @@ Florida, USA.
 ### 11:00 Break & Informal discussions
 
 ### 12:00pm Lunch
+- [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
 
 ### 2:00pm Break & Informal discussions
 
@@ -129,6 +133,7 @@ Florida, USA.
   - Session chair: [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
 
 ### Dinner
+- [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Wednesday, July 1, 2026
 
@@ -148,6 +153,7 @@ Florida, USA.
 ### 11:00 Break & Informal discussions
 
 ### 12:00pm Lunch
+- [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
 
 ### 1:45pm Talks
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32). TBA
@@ -168,6 +174,7 @@ Florida, USA.
 - [The brewery of the 2 capes](https://www.2caps.fr/visite-de-la-brasserie/).
   
 ### Dinner
+- [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Thursday, July 2, 2026
 
@@ -186,6 +193,7 @@ Florida, USA.
 ### 11:00 Break & Informal discussions
 
 ### 12:00pm Lunch
+- [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
 
 ### 2:00pm Break & Informal discussions
 
@@ -205,6 +213,7 @@ Florida, USA.
   - Session chair: [Paul Rosen](https://cspaul.com/).
 
 ### Dinner
+- [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Friday, July 3, 2026
 
@@ -223,6 +232,7 @@ Data Visualization*
   - Session chair: [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
 
 ### 11:00 Closing & Informal discussions
+
 
 <a name="travel">
 # Travel
