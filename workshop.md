@@ -132,6 +132,8 @@ Florida, USA.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/): *Computing Discrete Vector Fields Efficiently and with Correct Critical Points*
   - Session chair: [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
 
+### 5:30pm Break & Informal discussions
+  
 ### 8:00pm Dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
@@ -212,6 +214,8 @@ Florida, USA.
 - [Grégoire Sergeant-Perthuis](https://www.normalesup.org/~sergeant/): *Sheaves in Machine Learning*
   - Session chair: [Paul Rosen](https://cspaul.com/).
 
+### 5:30pm Break & Informal discussions
+  
 ### 8:00pm Dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
