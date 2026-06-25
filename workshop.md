@@ -254,7 +254,7 @@ If you have any travel related questions, please feel free to [reach out to the 
   <tr>
     <td width="100%">
       <a target='new' href="https://photos.app.goo.gl/t3DPQfsAbj9WcxN6A" >
-      <img width="100%" src="/img/workshop/photoAlbum.jpg"></a>
+      <img width="100%" src="/img/workshop/photoAlbum.jpg" /></a>
     </td>
   </tr>
   
