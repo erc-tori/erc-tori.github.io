@@ -92,6 +92,7 @@ Florida, USA.
 ## Monday, June 29, 2026
 
 ### Welcome dinner
+- [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Tuesday, June 30, 2026
 
