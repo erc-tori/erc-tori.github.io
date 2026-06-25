@@ -243,6 +243,13 @@ If you have any travel related questions, please feel free to [reach out to the 
 <table>
   <tr>
     <td width="100%">
+      <img width="100%" src="/img/workshop/photoAlbum.jpg">
+    </td>
+  </tr>
+  
+        <tr height="10px" />
+  <tr>
+    <td width="100%">
       <img width="100%" src="/img/workshop/capBlancNez.jpg">
     </td>
   </tr>
