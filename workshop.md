@@ -113,6 +113,7 @@ Florida, USA.
 ### 11:00 Break & Informal discussions
 
 ### 12:00pm Lunch
+- [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
 
 ### 2:00pm Break & Informal discussions
 
@@ -152,6 +153,7 @@ Florida, USA.
 ### 11:00 Break & Informal discussions
 
 ### 12:00pm Lunch
+- [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
 
 ### 1:45pm Talks
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32). TBA
@@ -191,6 +193,7 @@ Florida, USA.
 ### 11:00 Break & Informal discussions
 
 ### 12:00pm Lunch
+- [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
 
 ### 2:00pm Break & Informal discussions
 
@@ -229,6 +232,7 @@ Data Visualization*
   - Session chair: [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
 
 ### 11:00 Closing & Informal discussions
+
 
 <a name="travel">
 # Travel
