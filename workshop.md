@@ -91,7 +91,7 @@ Florida, USA.
 
 ## Monday, June 29, 2026
 
-### Welcome dinner
+### 8:00pm Welcome dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Tuesday, June 30, 2026
@@ -132,7 +132,7 @@ Florida, USA.
 - [Joshua A. Levine](https://jalevine.bitbucket.io/): *Computing Discrete Vector Fields Efficiently and with Correct Critical Points*
   - Session chair: [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
 
-### Dinner
+### 8:00pm Dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Wednesday, July 1, 2026
@@ -173,7 +173,7 @@ Florida, USA.
 ### 4:30pm Local visit 
 - [The brewery of the 2 capes](https://www.2caps.fr/visite-de-la-brasserie/).
   
-### Dinner
+### 8:00pm Dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Thursday, July 2, 2026
@@ -212,7 +212,7 @@ Florida, USA.
 - [Grégoire Sergeant-Perthuis](https://www.normalesup.org/~sergeant/): *Sheaves in Machine Learning*
   - Session chair: [Paul Rosen](https://cspaul.com/).
 
-### Dinner
+### 8:00pm Dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Friday, July 3, 2026
