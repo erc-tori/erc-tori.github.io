@@ -94,7 +94,7 @@ Florida, USA.
 ### 8:00pm Welcome dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
-## uesday, June 30, 2026
+## Tuesday, June 30, 2026
 
 ### 8:45 Opening
 
