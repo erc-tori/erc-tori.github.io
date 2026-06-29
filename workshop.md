@@ -71,7 +71,7 @@ Florida, USA.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
 - [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), Indian Institute of Science, India.
 - [Tim Ophelders](https://tophelde.win.tue.nl/), TU Eindhoven, Netherlands.
-- [Nina Otter](https://www.ninaotter.com/), INRIA, France.
+<!-- - [Nina Otter](https://www.ninaotter.com/), INRIA, France. -->
 - [Mathieu Pont](https://mathieu-pont.github.io/), RPTU Kaiserslautern-Landau, Germany.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
 - [Paul Rosen](https://cspaul.com/), University of Utah, USA.
@@ -94,7 +94,7 @@ Florida, USA.
 ### 8:00pm Welcome dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
-## Tuesday, June 30, 2026
+## uesday, June 30, 2026
 
 ### 8:45 Opening
 
@@ -107,7 +107,7 @@ Florida, USA.
 ### 10:30 Talks
 - [Henry Adams](https://people.clas.ufl.edu/henry-adams/): *The theory of Vietoris-Rips complexes*
 - [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en). TBA
-- [Nina Otter](https://www.ninaotter.com/). *Dimensions in persistence and beyond*
+<!-- - [Nina Otter](https://www.ninaotter.com/). *Dimensions in persistence and beyond* -->
   - Session chair: [Joshua A. Levine](https://jalevine.bitbucket.io/).
 
 ### 11:30 Break & Informal discussions
@@ -162,7 +162,8 @@ Florida, USA.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75): *A brief introduction to the Reduced Vietoris-Rips filtration for computing persistent homology*
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
-  - Session chair: [Nina Otter](https://www.ninaotter.com/).
+  - Session chair: TBA.
+<!--   [Nina Otter](https://www.ninaotter.com/). -->
 
 ### 2:45pm Coffee break
 
