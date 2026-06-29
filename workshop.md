@@ -128,7 +128,7 @@ Florida, USA.
 ### 4:30pm Talks
 <!-- - [Brian Summa](https://sse.tulane.edu/brian-summa). TBA -->
 - [Tim Ophelders](https://tophelde.win.tue.nl/): *Locally Correct Interleavings Between Merge Trees*
-- [Paul Rosen](https://cspaul.com/). TBA
+- [Paul Rosen](https://cspaul.com/): *Human-Centered TDA: Improving the Interpretability of TDA*
 - [Joshua A. Levine](https://jalevine.bitbucket.io/): *Computing Discrete Vector Fields Efficiently and with Correct Critical Points*
   - Session chair: [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/).
 
