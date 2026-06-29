@@ -42,7 +42,7 @@ June 30, 2026 to July 3, 2026.
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. 
 - [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/), University of Arkansas, USA.
 - [Facundo Mémoli](https://facundo-memoli.org/), Rutgers University, USA.
-- [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
+<!-- - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA. -->
 
 <!-- More keynote speakers TBA. -->
 
@@ -139,20 +139,20 @@ Florida, USA.
 
 ## Wednesday, July 1, 2026
 
-### 9:00 Keynote
-- [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci). TBA
-  - Session chair: [Julien Tierny](https://julien-tierny.github.io/)
+<!-- ### 9:00 Keynote -->
+<!-- - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci). TBA -->
+<!--   - Session chair: [Julien Tierny](https://julien-tierny.github.io/) -->
 
-### 10:00 Coffee break
+<!-- ### 10:00 Coffee break -->
 
-### 10:30 Talks
+### 09:30 Talks
 - [Pierre Guillou](https://pierre.guillou.net/): *Discrete Morse Sandwich: Fast Computation of Persistence Diagrams*
 - [Eve Le Guillou](https://eve-le-guillou.github.io/): *Distributed Topological Data Analysis in TTK*
 - [Jonas Lukasczyk](https://jluk.de/): *Towards a Taxonomy for Topology-Based Feature Tracking in Time-Varying Piecewise-Linear Scalar Fields*
   - Session chair: [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en).
 
 
-### 11:30 Break & Informal discussions
+### 10:30 Coffee break & Informal discussions
 
 ### 12:00pm Lunch
 - [Menu](https://docs.google.com/document/d/1uf8mFOZmckN6eVEIM9zam5GU9ORxvA8KU2xtFbKq8_I/edit?usp=sharing)
