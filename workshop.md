@@ -42,7 +42,7 @@ June 30, 2026 to July 3, 2026.
 - [Herbert Edelsbrunner](https://pub.ista.ac.at/~edels/),  Institute of Science and Technology, Austria. 
 - [Edmund Harriss](https://math.uark.edu/directory/index/uid/eharriss/name/Edmund+O.+Harriss/), University of Arkansas, USA.
 - [Facundo Mémoli](https://facundo-memoli.org/), Rutgers University, USA.
-<!-- - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA. -->
+- [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci), University of Utah, USA.
 
 <!-- More keynote speakers TBA. -->
 
@@ -71,7 +71,7 @@ Florida, USA.
 - [Elizabeth Munch](https://elizabethmunch.com/), Michigan State University, USA.
 - [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/), Indian Institute of Science, India.
 - [Tim Ophelders](https://tophelde.win.tue.nl/), TU Eindhoven, Netherlands.
-<!-- - [Nina Otter](https://www.ninaotter.com/), INRIA, France. -->
+- [Nina Otter](https://www.ninaotter.com/), INRIA, France.
 - [Mathieu Pont](https://mathieu-pont.github.io/), RPTU Kaiserslautern-Landau, Germany.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75), Australian National University, Australia.
 - [Paul Rosen](https://cspaul.com/), University of Utah, USA.
