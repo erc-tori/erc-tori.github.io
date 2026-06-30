@@ -162,7 +162,7 @@ Florida, USA.
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75): *A brief introduction to the Reduced Vietoris-Rips filtration for computing persistent homology*
 - [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
-  - Session chair: TBA.
+  - Session chair: [Federico Iuricich](https://fiurici.people.clemson.edu/).
 <!--   [Nina Otter](https://www.ninaotter.com/). -->
 
 ### 2:45pm Coffee break
