@@ -134,7 +134,7 @@ Florida, USA.
 
 ### 5:30pm Break & Informal discussions
   
-### 8:00pm Dinner
+### 7:30pm Dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Wednesday, July 1, 2026
@@ -176,7 +176,7 @@ Florida, USA.
 ### 4:30pm Local visit 
 - [The brewery of the 2 capes](https://www.2caps.fr/visite-de-la-brasserie/).
   
-### 8:00pm Dinner
+### 7:30pm Dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Thursday, July 2, 2026
@@ -217,7 +217,7 @@ Florida, USA.
 
 ### 5:30pm Break & Informal discussions
   
-### 8:00pm Dinner
+### 7:30pm Dinner
 - [See your menu selection](https://docs.google.com/spreadsheets/d/1wqPpLUK76A0gc-7thAbIbFwcfOVQ5ZsHf6aSj5KOQT0/edit?usp=sharing)
 
 ## Friday, July 3, 2026
