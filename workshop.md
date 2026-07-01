@@ -167,13 +167,13 @@ Florida, USA.
 
 ### 2:45pm Coffee break
 
-### 3:15pm Talks
+### 3:00pm Talks
 - [Leland McInnes](https://github.com/lmcinnes): *Persistent Homology in High Dimensions and Dimension Reduction*
 - [Mattéo Clémot](https://perso.ens-lyon.fr/matteo.clemot/). TBA
 - [Martin Skrodzki](https://ms-math-computer.science/): *Illustrating Mathematics and Mathematics for Illustration*
   - Session chair: [Vijay Natarajan](https://www.csa.iisc.ac.in/~vijayn/).
 
-### 4:30pm Local visit 
+### 4:20pm Local visit 
 - [The brewery of the 2 capes](https://www.2caps.fr/visite-de-la-brasserie/).
   
 ### 7:30pm Dinner
