@@ -160,7 +160,7 @@ Florida, USA.
 ### 1:45pm Talks
 - [Ingrid Hotz](https://liu.se/en/employee/ingho32). TBA
 - [Vanessa Robins](https://physics.anu.edu.au/contact/people/profile.php?ID=75): *A brief introduction to the Reduced Vietoris-Rips filtration for computing persistent homology*
-- [Christoph Garth](https://vis.cs.rptu.de/team/garth/). TBA
+- [Christoph Garth](https://vis.cs.rptu.de/team/garth/): *Explaining Stability in Merge Tree Edit Distances*
 <!-- - ~~[Paweł Dłotko](https://dioscuri-tda.org/members/pawel.html).~~ -->
   - Session chair: [Federico Iuricich](https://fiurici.people.clemson.edu/).
 <!--   [Nina Otter](https://www.ninaotter.com/). -->
