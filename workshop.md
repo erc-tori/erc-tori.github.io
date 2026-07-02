@@ -204,7 +204,8 @@ Florida, USA.
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner): *Vineyard Modules: my slant on multiparameter persistence*
 - [Elizabeth Munch](https://elizabethmunch.com/): *Canopies for Parameterized Persistence, or: How I learned to stop worrying and love the diagonal*
 - [Vadim Lebovici](https://webusers.imj-prg.fr/~vadim.lebovici/): *Integral geometry of subanalytic sets*
-  - Session chair: [Ingrid Hotz](https://liu.se/en/employee/ingho32).
+  - Session chair: [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
+  
 
 ### 4:00pm Coffee break
 
@@ -234,7 +235,8 @@ Data Visualization*
 - [Théophane Loloum](https://www.linkedin.com/in/theophaneloloum/). TBA
 - [Sylvain Gerbaud](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2840). TBA
 <!-- - [Sébastien Tchitchek](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2655). TBA -->
-  - Session chair: [Christoph Garth](https://vis.cs.rptu.de/team/garth/).
+  - Session chair: [Ingrid Hotz](https://liu.se/en/employee/ingho32). 
+<!--   [Christoph Garth](https://vis.cs.rptu.de/team/garth/). -->
 
 ### 11:30 Closing & Informal discussions
 
