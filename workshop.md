@@ -107,7 +107,7 @@ Florida, USA.
 ### 10:30 Talks
 - [Henry Adams](https://people.clas.ufl.edu/henry-adams/): *The theory of Vietoris-Rips complexes*
 - [Wojciech Chachólski](https://www.kth.se/profile/wojtek?l=en). TBA
-<!-- - [Nina Otter](https://www.ninaotter.com/). *Dimensions in persistence and beyond* -->
+- [Nina Otter](https://www.ninaotter.com/). *Dimensions in persistence and beyond*
   - Session chair: [Joshua A. Levine](https://jalevine.bitbucket.io/).
 
 ### 11:30 Break & Informal discussions
@@ -139,9 +139,9 @@ Florida, USA.
 
 ## Wednesday, July 1, 2026
 
-<!-- ### 9:00 Keynote -->
-<!-- - [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci). TBA -->
-<!--   - Session chair: [Julien Tierny](https://julien-tierny.github.io/) -->
+### 8:30 Keynote 
+- [Valerio Pascucci](https://www.sci.utah.edu/people/pascucci). TBA
+  - Session chair: [Julien Tierny](https://julien-tierny.github.io/) 
 
 <!-- ### 10:00 Coffee break -->
 
@@ -256,6 +256,8 @@ If you have any travel related questions, please feel free to [reach out to the 
 
 <a name="pictures">
 # Pictures
+
+- [Link to the workshop photo album](https://photos.app.goo.gl/t3DPQfsAbj9WcxN6A)
 
 <table>
   <tr>
