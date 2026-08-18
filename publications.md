@@ -57,7 +57,34 @@ target='new'>
         Accepted, to be presented at IEEE VIS 2026.<br>
         <br>
         <a target='new' href="https://github.com/Keanu-Sisouk/RobustBarycenter">Code</a>
+        -
+        <a target="new" href="https://www.replicabilitystamp.org/index.html#https-github-com-keanu-sisouk-robustbarycenter">
+        Replicability stamp</a>
         </td>
+      </tr>
+      
+        <tr height="75pt"/>
+        
+                 <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2607.15986"
+target='new'>
+          <img src='https://julien-tierny.github.io/img/loloum_vis26_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="https://arxiv.org/abs/2607.15986">
+        DebrisTracer: Reliable Tracking in Hypervelocity Impact Fast Imaging
+        </a><br>
+        <br>
+        Théophane Loloum, Fabien Vivodtzev, David Hébert, Baptiste Reynier, Michel Arrigoni, Julien Tierny
+        <br><br>
+        <b>IEEE Transactions on Visualization and Computer Graphics</b><br>
+        Proc. of IEEE VIS 2026.<br>
+        <br>
+        <!--<a target='new' href="https://github.com/Keanu-Sisouk/RobustBarycenter">Code</a>
+        </td>-->
       </tr>
       
         <tr height="75pt"/>
