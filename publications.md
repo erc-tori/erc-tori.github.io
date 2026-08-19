@@ -84,6 +84,9 @@ target='new'>
         Proc. of IEEE VIS 2026.<br>
         <br>
         <a target='new' href="https://github.com/tloloum/DebrisTracer">Code</a>
+        -
+        <a target="new" href="http://www.replicabilitystamp.org#https-github-com-tloloum-debristracer">
+        Replicability stamp</a>
         </td>
       </tr>
       
