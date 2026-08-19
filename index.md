@@ -17,6 +17,16 @@ teaser: '/img/toriBanner.png'
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
+            Our paper on <a href="https://arxiv.org/abs/2607.15986" target='new'>topology-based debris tracking</a>
+            has been accepted to IEEE VIS!
+          </td>
+          <td align="right">
+            [Apr. 21, 2026]
+          </td>
+        </tr>
+<tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
             Our survey on <a href="https://hal.science/hal-05623089v1" target='new'>scalable topology computation</a>
             has been accepted as a EuroVis STAR!
           </td>
@@ -85,7 +95,7 @@ teaser: '/img/toriBanner.png'
             [Oct. 10, 2025]
           </td>
         </tr>
-<tr>
+<!--<tr>
           <td align="left">
             &nbsp;&middot;&nbsp;
             Our paper on the <a href="https://doi.org/10.1038/s41561-025-01772-7" target='new'>topology            of geoscience data</a>
@@ -141,7 +151,7 @@ teaser: '/img/toriBanner.png'
           <td align="right">
             [Jun. 6, 2025]
           </td>
-        </tr>
+        </tr>-->
 
 <!--<tr>
           <td >
