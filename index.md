@@ -21,7 +21,7 @@ teaser: '/img/toriBanner.png'
             has been accepted to IEEE VIS!
           </td>
           <td align="right">
-            [Apr. 21, 2026]
+            [Jul. 16, 2026]
           </td>
         </tr>
 <tr>
