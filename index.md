@@ -30,7 +30,7 @@ teaser: '/img/toriBanner.png'
             We had <a href="workshop">a vibrant workshop</a>, closing the ERC project TORI!
           </td>
           <td align="right">
-            [Jul. 3, 2026]
+            [Jul. 03, 2026]
           </td>
         </tr>
 <tr>
