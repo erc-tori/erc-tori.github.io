@@ -30,19 +30,7 @@ Checkout our [Jobs](/jobs/) page!
 
 # Post-docs 
 <table>
-  <tr>
-    <td width="20%">
-      <img width="90%" src="/img/gerbaud2024.jpg">
-    </td>
-
-<!--     <td width="10px" /> -->
-
-    <td>
-      Sylvain Gerbaud<br>
-      2024 - present<br>
-      <a href="" target="new">Web page</a>
-    </td>
-  </tr>
+  
 
 <!--   <tr height="10px" /> -->
 
@@ -105,6 +93,20 @@ href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a>
 
 # Alumni
 <table>
+
+<tr>
+    <td width="20%">
+      <img width="90%" src="/img/gerbaud2024.jpg">
+    </td>
+
+<!--     <td width="10px" /> -->
+
+    <td>
+      Sylvain Gerbaud<br>
+      2024 - 2026<br>
+      <a href="" target="new">Web page</a>
+    </td>
+  </tr>
 
 <tr>
     <td width="20%">
