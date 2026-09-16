@@ -108,6 +108,8 @@ href="https://perso.liris.cnrs.fr/julie.digne/">Julie Digne</a>
     </td>
   </tr>
 
+   <tr height="10px" />
+  
 <tr>
     <td width="20%">
       <img width="90%" src="/img/daniel2024.jpg">
