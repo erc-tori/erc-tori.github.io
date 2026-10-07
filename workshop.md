@@ -84,6 +84,9 @@ Florida, USA.
 - [Katharine Turner](https://maths.anu.edu.au/people/katharine-turner), Australian National University, Australia.
 - [Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/), Nanyang Technological University, Singapore.
 
+# organizer
+- [Julien Tierny](https://julien-tierny.github.io/), CNRS, Sorbonne University, France.
+
 <!-- More speakers TBA. -->
 
 <a name="schedule">
