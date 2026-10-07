@@ -114,6 +114,28 @@ target='new'>
         </td>
       </tr>
  
+       <tr height="75pt"/>
+ 
+         <tr>
+        <td width='25%'>
+        <a
+href="https://hal.science/hal-05720400v1"
+target='new'>
+          <img src='https://julien-tierny.github.io/img/tchitchek_topoinvis26_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="https://hal.science/hal-05720400v1">
+        Continuous Edit Distance between Time-varying Persistence Diagrams
+        </a><br>
+        <br>
+        Sebastien Tchitchek, Mohamed Kissi, Julien Tierny
+        <br><br>
+        Proc. of TopoInVis 2026.<br><br>
+        <a target='new' href="https://github.com/sebastien-tchitchek/ContinuousEditDistance">Code</a>
+        </td>
+      </tr>
+ 
  <tr height="75pt"/>
  
                 <tr>
