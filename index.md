@@ -14,6 +14,40 @@ teaser: '/img/toriBanner.png'
 <h4>&nbsp;&nbsp;&nbsp;News</h4></td>
 <td align="right"></td>
 </tr>
+
+      <tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
+            Our paper on
+            <a href="stuff/openPositions/internship2027.pdf"
+            onClick="javascript:_gaq.push(['_trackPageview',
+            'stuff/openPositions/internship2027.pdf']);"
+            >the sublevel Flood bifiltration</a>
+            has been accepted to NeurIPS!
+          </td>
+          <td align="right">
+            [Sep. 25, 2026]
+          </td>
+        </tr>
+        
+              <tr>
+          <td align="left">
+            &nbsp;&middot;&nbsp;
+            We have one
+            <a href="stuff/openPositions/internship2027.pdf"
+            onClick="javascript:_gaq.push(['_trackPageview',
+            'stuff/openPositions/internship2027.pdf']);"
+            >
+            open internship position
+            </a>
+            (<b>master2</b> level, with
+            <b>Ph.D.</b> follow-up)!
+          </td>
+          <td align="right">
+            [Sep. 25, 2026]
+          </td>
+        </tr>
+
 <tr>
           <td align="left">
             &nbsp;&middot;&nbsp;

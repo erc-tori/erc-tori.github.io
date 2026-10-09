@@ -114,6 +114,28 @@ target='new'>
         </td>
       </tr>
  
+ <tr height="75pt"/>
+ 
+         <tr>
+        <td width='25%'>
+        <a
+href="https://arxiv.org/abs/2610.05441"
+target='new'>
+          <img src='https://julien-tierny.github.io/img/clemot_neurips26_mini.png' width="100%"/></a>
+        </td>
+        <td width="2%" />
+        <td width="77%">
+                <a target='new' href="https://arxiv.org/abs/2610.05441">
+        The sublevel Flood bifiltration: towards scalable 2-parameter persistent homology
+        </a><br>
+        <br>
+        Mattéo Clémot, Julie Digne, Julien Tierny
+        <br><br>
+        Proc. of NeurIPS 2026.<br><br>
+        <a target='new' href="https://github.com/MClemot/SLFlood">Code</a>
+        </td>
+      </tr>
+ 
        <tr height="75pt"/>
  
          <tr>
